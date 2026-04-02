@@ -1,0 +1,12 @@
+pandas
+numpy
+scikit-learn
+matplotlib
+plotly
+streamlit
+requests
+nltk
+catboost
+transformers
+torch
+joblib

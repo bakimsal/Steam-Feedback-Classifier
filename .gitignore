@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+.venv/
+env/
+.ipynb_checkpoints/
+
+artifacts/*.pkl
+data/raw/*.csv
+data/processed/*.csv
+data/labeled/*.csv
