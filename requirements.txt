@@ -1,12 +1,29 @@
+# ── Core Data ──────────────────────────────────────────────────────────────────
 pandas
 numpy
-scikit-learn
-matplotlib
-plotly
-streamlit
+
+# ── HTTP / API ──────────────────────────────────────────────────────────────────
 requests
+
+# ── NLP ────────────────────────────────────────────────────────────────────────
 nltk
+# Not: Türkçe filtresi için langdetect yerine Türkçe karakter heuristiği kullanılıyor.
+# Bu sayede harici bağımlılık gerektirmez ve Steam API'nin language=turkish
+# parametresiyle birlikte yeterli doğruluk sağlanır.
+
+# ── ML Models ──────────────────────────────────────────────────────────────────
+scikit-learn
 catboost
 transformers
 torch
+
+# ── Visualization ──────────────────────────────────────────────────────────────
+matplotlib
+plotly
+
+# ── App / UI ───────────────────────────────────────────────────────────────────
+streamlit
+
+# ── Utilities ──────────────────────────────────────────────────────────────────
+tqdm
 joblib
