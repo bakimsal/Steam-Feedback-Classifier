@@ -5,7 +5,6 @@ venv/
 env/
 .ipynb_checkpoints/
 
+# Eğitilmiş model dosyaları (büyük binary dosyalar)
 artifacts/*.pkl
-data/raw/*.csv
-data/processed/*.csv
-data/labeled/*.csv
+
