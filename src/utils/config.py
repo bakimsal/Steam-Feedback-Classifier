@@ -14,6 +14,7 @@ PROJECT_ROOT = Path(__file__).resolve().parents[2]
 RAW_DATA_DIR       = PROJECT_ROOT / "data" / "raw"
 PROCESSED_DATA_DIR = PROJECT_ROOT / "data" / "processed"
 LABELED_DATA_DIR   = PROJECT_ROOT / "data" / "labeled"
+MODELS_DIR         = PROJECT_ROOT / "models"
 
 # ── Steam Oyun Listesi ──────────────────────────────────────────────────────────
 # Key: dosya adında kullanılacak kısa isim
@@ -38,6 +39,8 @@ MAX_REVIEW_LENGTH   = 5000         # Karakter cinsinden maksimum yorum uzunluğu
 # ── Çıktı Dosya Adları ──────────────────────────────────────────────────────────
 CLEAN_REVIEWS_FILENAME      = "clean_reviews.csv"
 LABEL_READY_FILENAME        = "label_ready_reviews.csv"
+VECTORIZER_FILENAME         = "tfidf_vectorizer.pkl"
+VECTORIZED_DATA_FILENAME    = "vectorized_reviews.npz"
 
 # ── Sütun Adları (Diğer üyelerle ortak standart) ────────────────────────────────
 COLUMNS = [
