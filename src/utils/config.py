@@ -29,7 +29,7 @@ GAME_IDS: dict[str, int] = {
 STEAM_REVIEW_URL    = "https://store.steampowered.com/appreviews/{app_id}"
 REVIEW_LANGUAGE     = "turkish"
 REVIEWS_PER_PAGE    = 100          # Steam API maksimumu
-MAX_REVIEWS_PER_GAME = 2000        # Oyun başına çekilecek maksimum yorum
+MAX_REVIEWS_PER_GAME = 35000        # Oyun başına çekilecek maksimum yorum
 REQUEST_DELAY_SEC   = 0.6          # Rate limiting: istek arası bekleme süresi
 
 # ── Veri Temizleme Eşikleri ─────────────────────────────────────────────────────
