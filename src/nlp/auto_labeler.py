@@ -5,20 +5,20 @@ from pathlib import Path
 
 def auto_label_review(text):
     if not isinstance(text, str):
-        return "nötr/çöp"
+        return "nötr/ çöp"
     
     text_lower = text.lower().strip()
     
     # Rule 2: Shortness (< 10 chars)
     if len(text_lower) < 10:
-        return "nötr/çöp"
+        return "nötr/ çöp"
     
     # Heuristic for ASCII art / drawings (common in Steam reviews)
     if re.search(r'[░▒▓█]{3,}', text) or text.count('\n') > 10:
-        return "nötr/çöp"
+        return "nötr/ çöp"
 
     # Keywords for categories
-    # 1. Bug (Hata/Hile)
+    # 1. bug(hata/hile)
     bug_keywords = [
         "hata", "bozuk", "çalışmıyor", "bug", "crash", "çöktü", "asılıyor", 
         "hile", "hacker", "vac", "ban", "anti-cheat", "anticheat", "adaletsiz",
@@ -26,7 +26,7 @@ def auto_label_review(text):
         "kasıyor", "optimizasyon", "lag", "ping", "ms", "takılıyor"
     ]
     
-    # 2. Feature Request (İstek)
+    # 2. feature request(istek)
     request_keywords = [
         "eklenmeli", "gelse", "olsa", "istiyoruz", "tavsiye", "fiyat", "pahalı", 
         "bedava", "olsun", "güncelleme bekliyoruz", "yenilik", "karakter", "harita"
@@ -35,15 +35,15 @@ def auto_label_review(text):
     # Check for Bug (Highest Priority)
     for kw in bug_keywords:
         if kw in text_lower:
-            return "Bug (Hata/Hile)"
+            return "bug(hata/hile)"
             
     # Check for Feature Request
     for kw in request_keywords:
         if kw in text_lower:
-            return "Feature Request (İstek)"
+            return "feature request(istek)"
             
-    # Default is neutral/trash (includes Praise from previous version)
-    return "nötr/çöp"
+    # Default is neutral/trash
+    return "nötr/ çöp"
 
 def main():
     project_root = Path(__file__).parent.parent.parent
@@ -58,7 +58,7 @@ def main():
     print(f"Loading data from {input_path}...")
     df = pd.read_csv(input_path)
     
-    print("Labeling reviews into 3 categories: Bug, Request, nötr/çöp...")
+    print("Labeling reviews into 3 categories: bug(hata/hile), feature request(istek), nötr/ çöp...")
     df['label'] = df['review_text'].apply(auto_label_review)
     
     if not output_dir.exists():
