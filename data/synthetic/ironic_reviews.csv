@@ -1,0 +1,901 @@
+﻿review_id,game_name,review_text,label,review_date,is_synthetic
+900000441,pubg,"Silahların hasarını biraz daha düşürün, rakipleri öldürmek yerine onlara sarılmak istiyoruz artık.",feature_request(istek),2026-04-25,True
+900000612,cs2,Her gün söverek girip 6 saat oynamak... Sanırım mazoşist bir ilişki yaşıyoruz bu oyunla.,nötr/ çöp,2026-04-25,True
+900000380,pubg,"Silahların hasarını biraz daha düşürün, rakipleri öldürmek yerine onlara sarılmak istiyoruz artık.",feature_request(istek),2026-04-01,True
+900000377,cs2,"Rank sistemini daha da bozun, gümüş oyuncularla elit oyuncular aynı maça gelsin ki rekabet tavan yapsın.",feature_request(istek),2026-04-24,True
+900000411,cs2,"Hilecilere özel bir VIP odası açın, henüz her maçta 5 tane yoklar, sayıyı artırmanız lazım.",feature_request(istek),2026-04-15,True
+900000435,dota2,"Sesli sohbeti tamamen kaldırıp dumanla haberleşmemizi sağlayın, nostalji yaşatmanız çok hoş olurdu.",feature_request(istek),2026-03-31,True
+900000817,dota2,"Bilgisayarım kaloriferden daha iyi ısıtıyor sayende, kış aylarında doğalgaz tasarrufu sağlıyorum. Bravo!",nötr/ çöp,2026-04-23,True
+900000454,dota2,"Sunucuları biraz daha yavaşlatın, tepki süresi 3 saniye olunca oyun çok daha stratejik hale geliyor.",feature_request(istek),2026-04-22,True
+900000491,pubg,"Yeni içerik yerine daha çok kumar öğesi ekleyin, kasa açmak oyun oynamaktan daha eğlenceli zaten.",feature_request(istek),2026-04-23,True
+900000240,dota2,Oyunun her rekabetçi maçın ortasında çökmesi harika bir mola fırsatı sunuyor. Sağlığımızı düşündüğünüz için sağ olun.,bug(hata/hile),2026-04-16,True
+900000153,dota2,Duvarların içinden geçip haritanın altına düşmek tam da beklediğim heyecandı. Fizik motorunuz bir sanat eseri.,bug(hata/hile),2026-04-26,True
+900000290,cs2,FPS değerinin 100'den 10'a düşmesi slayt gösterisi sevenler için harika bir güncelleme olmuş. Elinize sağlık.,bug(hata/hile),2026-04-26,True
+900000869,pubg,"Toxic kitle sayesinde sabrım çelik gibi oldu, artık hayatta hiçbir şey beni üzemez. Kişisel gelişim kursu gibisiniz.",nötr/ çöp,2026-04-22,True
+900000105,cs2,Seslerin tamamen kaybolup sessiz sinema oynamamız muazzam bir yenilik. Atmosfer müthiş (!),bug(hata/hile),2026-04-22,True
+900000397,pubg,"Yeni içerik yerine daha çok kumar öğesi ekleyin, kasa açmak oyun oynamaktan daha eğlenceli zaten.",feature_request(istek),2026-04-26,True
+900000325,pubg,"Silahların hasarını biraz daha düşürün, rakipleri öldürmek yerine onlara sarılmak istiyoruz artık.",feature_request(istek),2026-04-12,True
+900000077,pubg,Seslerin tamamen kaybolup sessiz sinema oynamamız muazzam bir yenilik. Atmosfer müthiş (!),bug(hata/hile),2026-03-29,True
+900000270,cs2,Seslerin tamamen kaybolup sessiz sinema oynamamız muazzam bir yenilik. Atmosfer müthiş (!),bug(hata/hile),2026-04-02,True
+900000049,pubg,Oyunun her rekabetçi maçın ortasında çökmesi harika bir mola fırsatı sunuyor. Sağlığımızı düşündüğünüz için sağ olun.,bug(hata/hile),2026-04-03,True
+900000323,dota2,"Rank sistemini daha da bozun, gümüş oyuncularla elit oyuncular aynı maça gelsin ki rekabet tavan yapsın.",feature_request(istek),2026-04-25,True
+900000877,pubg,"Sabah 4'te sinir krizi geçirmek için harika bir aktivite. Mouse kırmayı özlemişim, teknolojiye katkımız olsun.",nötr/ çöp,2026-04-05,True
+900000490,cs2,Maç bulma süresini 30 dakikaya çıkarın ki arada bir kitap bitirebilelim. Oyuncuları kültüre yönlendirmeniz harika.,feature_request(istek),2026-04-23,True
+900000362,dota2,"Yeni içerik yerine daha çok kumar öğesi ekleyin, kasa açmak oyun oynamaktan daha eğlenceli zaten.",feature_request(istek),2026-04-15,True
+900000349,cs2,"Market fiyatlarını biraz daha artırın, cüzdanımızdaki para bize fazla geliyor. Sosyal adaleti böyle sağlayın (!)",feature_request(istek),2026-04-06,True
+900000148,cs2,Duvarların içinden geçip haritanın altına düşmek tam da beklediğim heyecandı. Fizik motorunuz bir sanat eseri.,bug(hata/hile),2026-04-08,True
+900000868,pubg,"Derslerimi ve geleceğimi bu oyun için yaktım, en azından bir 'Global' rütbem var. Değdi mi? Tabii ki hayır.",nötr/ çöp,2026-04-05,True
+900000068,dota2,Karakterimin yere gömülüp madenci gibi takılması çok yaratıcı. Simülasyon içinde simülasyon yaşıyoruz.,bug(hata/hile),2026-04-03,True
+900000878,dota2,Eşimi dostumu kaybettim ama en azından envanterim değerli. Yalnızlık hiç bu kadar pahalı olmamıştı.,nötr/ çöp,2026-03-30,True
+900000640,cs2,Eşimi dostumu kaybettim ama en azından envanterim değerli. Yalnızlık hiç bu kadar pahalı olmamıştı.,nötr/ çöp,2026-03-28,True
+900000743,dota2,"Sosyal hayatımı ve çevremi bu oyun uğruna feda ettim, karşılığında bir çift sanal eldiven aldım. Çok kârlı bir takas!",nötr/ çöp,2026-03-28,True
+900000378,cs2,Maç bulma süresini 30 dakikaya çıkarın ki arada bir kitap bitirebilelim. Oyuncuları kültüre yönlendirmeniz harika.,feature_request(istek),2026-04-10,True
+900000425,dota2,"Sunucuları biraz daha yavaşlatın, tepki süresi 3 saniye olunca oyun çok daha stratejik hale geliyor.",feature_request(istek),2026-04-10,True
+900000616,cs2,"Bilgisayarım kaloriferden daha iyi ısıtıyor sayende, kış aylarında doğalgaz tasarrufu sağlıyorum. Bravo!",nötr/ çöp,2026-04-07,True
+900000842,cs2,Her gün söverek girip 6 saat oynamak... Sanırım mazoşist bir ilişki yaşıyoruz bu oyunla.,nötr/ çöp,2026-04-19,True
+900000893,cs2,"Sosyal hayatımı ve çevremi bu oyun uğruna feda ettim, karşılığında bir çift sanal eldiven aldım. Çok kârlı bir takas!",nötr/ çöp,2026-04-11,True
+900000168,pubg,FPS değerinin 100'den 10'a düşmesi slayt gösterisi sevenler için harika bir güncelleme olmuş. Elinize sağlık.,bug(hata/hile),2026-03-28,True
+900000554,cs2,"Sesli sohbeti tamamen kaldırıp dumanla haberleşmemizi sağlayın, nostalji yaşatmanız çok hoş olurdu.",feature_request(istek),2026-04-27,True
+900000466,dota2,"Sesli sohbeti tamamen kaldırıp dumanla haberleşmemizi sağlayın, nostalji yaşatmanız çok hoş olurdu.",feature_request(istek),2026-03-31,True
+900000107,dota2,Envanterimdeki eşyaların kendi kendine yok olması sihirbazlık gösterisi gibi. Çok etkileyici bir bug.,bug(hata/hile),2026-04-07,True
+900000422,pubg,"Sesli sohbeti tamamen kaldırıp dumanla haberleşmemizi sağlayın, nostalji yaşatmanız çok hoş olurdu.",feature_request(istek),2026-04-26,True
+900000309,dota2,"Lütfen biraz daha kasa ve skin ekleyin, oyunun bozuk olması kimin umurunda? Paramızı harcayacak yer arıyoruz.",feature_request(istek),2026-04-17,True
+900000172,pubg,FPS değerinin 100'den 10'a düşmesi slayt gösterisi sevenler için harika bir güncelleme olmuş. Elinize sağlık.,bug(hata/hile),2026-04-03,True
+900000213,pubg,"Mermilerin rakipten geçip hasar vermemesi harika bir özellik, sanırım oyun barış ilan etmemi istiyor. Teşekkürler Valve!",bug(hata/hile),2026-04-04,True
+900000036,cs2,Duvarların içinden geçip haritanın altına düşmek tam da beklediğim heyecandı. Fizik motorunuz bir sanat eseri.,bug(hata/hile),2026-04-26,True
+900000022,dota2,Hitboxların yerinde olmaması vuruş hissini bambaşka bir boyuta taşımış. Vuramamak hiç bu kadar keyifli olmamıştı.,bug(hata/hile),2026-03-30,True
+900000789,cs2,"Sabah 4'te sinir krizi geçirmek için harika bir aktivite. Mouse kırmayı özlemişim, teknolojiye katkımız olsun.",nötr/ çöp,2026-04-19,True
+900000539,dota2,"Sesli sohbeti tamamen kaldırıp dumanla haberleşmemizi sağlayın, nostalji yaşatmanız çok hoş olurdu.",feature_request(istek),2026-04-23,True
+900000718,pubg,Eşimi dostumu kaybettim ama en azından envanterim değerli. Yalnızlık hiç bu kadar pahalı olmamıştı.,nötr/ çöp,2026-04-21,True
+900000044,cs2,Envanterimdeki eşyaların kendi kendine yok olması sihirbazlık gösterisi gibi. Çok etkileyici bir bug.,bug(hata/hile),2026-04-07,True
+900000525,dota2,"Sunucuları biraz daha yavaşlatın, tepki süresi 3 saniye olunca oyun çok daha stratejik hale geliyor.",feature_request(istek),2026-04-16,True
+900000463,pubg,"Sesli sohbeti tamamen kaldırıp dumanla haberleşmemizi sağlayın, nostalji yaşatmanız çok hoş olurdu.",feature_request(istek),2026-03-31,True
+900000286,cs2,FPS değerinin 100'den 10'a düşmesi slayt gösterisi sevenler için harika bir güncelleme olmuş. Elinize sağlık.,bug(hata/hile),2026-04-10,True
+900000819,dota2,5000 saat oynadım ama hala neden oynadığımı bilmiyorum. Bağımlılık yapma şekliniz takdire şayan.,nötr/ çöp,2026-04-21,True
+900000446,dota2,"Sesli sohbeti tamamen kaldırıp dumanla haberleşmemizi sağlayın, nostalji yaşatmanız çok hoş olurdu.",feature_request(istek),2026-04-17,True
+900000401,dota2,"Hilecilere özel bir VIP odası açın, henüz her maçta 5 tane yoklar, sayıyı artırmanız lazım.",feature_request(istek),2026-04-21,True
+900000278,pubg,Hitboxların yerinde olmaması vuruş hissini bambaşka bir boyuta taşımış. Vuramamak hiç bu kadar keyifli olmamıştı.,bug(hata/hile),2026-04-24,True
+900000057,cs2,FPS değerinin 100'den 10'a düşmesi slayt gösterisi sevenler için harika bir güncelleme olmuş. Elinize sağlık.,bug(hata/hile),2026-04-27,True
+900000010,dota2,Oyunun her rekabetçi maçın ortasında çökmesi harika bir mola fırsatı sunuyor. Sağlığımızı düşündüğünüz için sağ olun.,bug(hata/hile),2026-04-08,True
+900000671,cs2,Eşimi dostumu kaybettim ama en azından envanterim değerli. Yalnızlık hiç bu kadar pahalı olmamıştı.,nötr/ çöp,2026-03-30,True
+900000698,cs2,5000 saat oynadım ama hala neden oynadığımı bilmiyorum. Bağımlılık yapma şekliniz takdire şayan.,nötr/ çöp,2026-04-03,True
+900000680,dota2,"Hayatımı kararttığın için teşekkürler, sayende gerçek dünyanın ne kadar sıkıcı olduğunu anladım.",nötr/ çöp,2026-04-04,True
+900000406,cs2,"Lütfen biraz daha kasa ve skin ekleyin, oyunun bozuk olması kimin umurunda? Paramızı harcayacak yer arıyoruz.",feature_request(istek),2026-04-22,True
+900000334,dota2,"Sunucuları biraz daha yavaşlatın, tepki süresi 3 saniye olunca oyun çok daha stratejik hale geliyor.",feature_request(istek),2026-04-11,True
+900000176,cs2,Hilecilerin gökyüzünde uçarak beni vurması çok adaletli bir deneyim. Sanırım oyuna süper kahraman modu eklediniz.,bug(hata/hile),2026-03-31,True
+900000116,cs2,Hilecilerin gökyüzünde uçarak beni vurması çok adaletli bir deneyim. Sanırım oyuna süper kahraman modu eklediniz.,bug(hata/hile),2026-04-27,True
+900000410,dota2,"Oyuna daha çok reklam ve sponsorlu içerik ekleyin, maçın ortasında ne güzel olurdu. İnanılmaz bir vizyon.",feature_request(istek),2026-04-02,True
+900000522,pubg,"Rank sistemini daha da bozun, gümüş oyuncularla elit oyuncular aynı maça gelsin ki rekabet tavan yapsın.",feature_request(istek),2026-03-30,True
+900000683,cs2,"Hayatımı kararttığın için teşekkürler, sayende gerçek dünyanın ne kadar sıkıcı olduğunu anladım.",nötr/ çöp,2026-04-20,True
+900000644,dota2,"Derslerimi ve geleceğimi bu oyun için yaktım, en azından bir 'Global' rütbem var. Değdi mi? Tabii ki hayır.",nötr/ çöp,2026-04-09,True
+900000436,cs2,Maç bulma süresini 30 dakikaya çıkarın ki arada bir kitap bitirebilelim. Oyuncuları kültüre yönlendirmeniz harika.,feature_request(istek),2026-04-03,True
+900000158,pubg,Oyunun her rekabetçi maçın ortasında çökmesi harika bir mola fırsatı sunuyor. Sağlığımızı düşündüğünüz için sağ olun.,bug(hata/hile),2026-03-29,True
+900000594,dota2,Maç bulma süresini 30 dakikaya çıkarın ki arada bir kitap bitirebilelim. Oyuncuları kültüre yönlendirmeniz harika.,feature_request(istek),2026-04-08,True
+900000346,pubg,Maç bulma süresini 30 dakikaya çıkarın ki arada bir kitap bitirebilelim. Oyuncuları kültüre yönlendirmeniz harika.,feature_request(istek),2026-03-30,True
+900000001,cs2,Duvarların içinden geçip haritanın altına düşmek tam da beklediğim heyecandı. Fizik motorunuz bir sanat eseri.,bug(hata/hile),2026-04-18,True
+900000882,pubg,"Sabah 4'te sinir krizi geçirmek için harika bir aktivite. Mouse kırmayı özlemişim, teknolojiye katkımız olsun.",nötr/ çöp,2026-04-10,True
+900000756,pubg,5000 saat oynadım ama hala neden oynadığımı bilmiyorum. Bağımlılık yapma şekliniz takdire şayan.,nötr/ çöp,2026-04-03,True
+900000547,pubg,"Hilecilere özel bir VIP odası açın, henüz her maçta 5 tane yoklar, sayıyı artırmanız lazım.",feature_request(istek),2026-04-01,True
+900000600,pubg,5000 saat oynadım ama hala neden oynadığımı bilmiyorum. Bağımlılık yapma şekliniz takdire şayan.,nötr/ çöp,2026-04-17,True
+900000430,cs2,"Hilecilere özel bir VIP odası açın, henüz her maçta 5 tane yoklar, sayıyı artırmanız lazım.",feature_request(istek),2026-04-09,True
+900000739,dota2,"Güneşin rengini unuttum sayende, vampir gibi yaşamama sebep olduğun için teşekkürler Steam.",nötr/ çöp,2026-04-25,True
+900000883,dota2,"Sabah 4'te sinir krizi geçirmek için harika bir aktivite. Mouse kırmayı özlemişim, teknolojiye katkımız olsun.",nötr/ çöp,2026-04-21,True
+900000603,pubg,"Bilgisayarım kaloriferden daha iyi ısıtıyor sayende, kış aylarında doğalgaz tasarrufu sağlıyorum. Bravo!",nötr/ çöp,2026-04-20,True
+900000865,pubg,"Bilgisayarım kaloriferden daha iyi ısıtıyor sayende, kış aylarında doğalgaz tasarrufu sağlıyorum. Bravo!",nötr/ çöp,2026-04-10,True
+900000779,dota2,"Toxic kitle sayesinde sabrım çelik gibi oldu, artık hayatta hiçbir şey beni üzemez. Kişisel gelişim kursu gibisiniz.",nötr/ çöp,2026-04-06,True
+900000790,cs2,"Hayatımı kararttığın için teşekkürler, sayende gerçek dünyanın ne kadar sıkıcı olduğunu anladım.",nötr/ çöp,2026-04-07,True
+900000457,dota2,"Yeni içerik yerine daha çok kumar öğesi ekleyin, kasa açmak oyun oynamaktan daha eğlenceli zaten.",feature_request(istek),2026-04-04,True
+900000111,dota2,Hilecilerin gökyüzünde uçarak beni vurması çok adaletli bir deneyim. Sanırım oyuna süper kahraman modu eklediniz.,bug(hata/hile),2026-04-27,True
+900000465,dota2,"Oyuna daha çok reklam ve sponsorlu içerik ekleyin, maçın ortasında ne güzel olurdu. İnanılmaz bir vizyon.",feature_request(istek),2026-04-05,True
+900000447,pubg,"Hilecilere özel bir VIP odası açın, henüz her maçta 5 tane yoklar, sayıyı artırmanız lazım.",feature_request(istek),2026-03-29,True
+900000499,dota2,"Rank sistemini daha da bozun, gümüş oyuncularla elit oyuncular aynı maça gelsin ki rekabet tavan yapsın.",feature_request(istek),2026-04-10,True
+900000809,cs2,"Güneşin rengini unuttum sayende, vampir gibi yaşamama sebep olduğun için teşekkürler Steam.",nötr/ çöp,2026-04-08,True
+900000688,cs2,"Bilgisayarım kaloriferden daha iyi ısıtıyor sayende, kış aylarında doğalgaz tasarrufu sağlıyorum. Bravo!",nötr/ çöp,2026-03-30,True
+900000829,pubg,"Toxic kitle sayesinde sabrım çelik gibi oldu, artık hayatta hiçbir şey beni üzemez. Kişisel gelişim kursu gibisiniz.",nötr/ çöp,2026-04-26,True
+900000359,cs2,"Silahların hasarını biraz daha düşürün, rakipleri öldürmek yerine onlara sarılmak istiyoruz artık.",feature_request(istek),2026-04-22,True
+900000777,cs2,"Toxic kitle sayesinde sabrım çelik gibi oldu, artık hayatta hiçbir şey beni üzemez. Kişisel gelişim kursu gibisiniz.",nötr/ çöp,2026-04-14,True
+900000661,pubg,5000 saat oynadım ama hala neden oynadığımı bilmiyorum. Bağımlılık yapma şekliniz takdire şayan.,nötr/ çöp,2026-03-30,True
+900000002,pubg,Hitboxların yerinde olmaması vuruş hissini bambaşka bir boyuta taşımış. Vuramamak hiç bu kadar keyifli olmamıştı.,bug(hata/hile),2026-04-18,True
+900000031,cs2,Karakterimin yere gömülüp madenci gibi takılması çok yaratıcı. Simülasyon içinde simülasyon yaşıyoruz.,bug(hata/hile),2026-03-28,True
+900000317,pubg,"Silahların hasarını biraz daha düşürün, rakipleri öldürmek yerine onlara sarılmak istiyoruz artık.",feature_request(istek),2026-04-03,True
+900000274,pubg,Envanterimdeki eşyaların kendi kendine yok olması sihirbazlık gösterisi gibi. Çok etkileyici bir bug.,bug(hata/hile),2026-04-15,True
+900000857,dota2,"Sosyal hayatımı ve çevremi bu oyun uğruna feda ettim, karşılığında bir çift sanal eldiven aldım. Çok kârlı bir takas!",nötr/ çöp,2026-04-25,True
+900000078,cs2,Ping değerinin 500'e fırlayıp beni zamanda yolculuğa çıkarması muazzam. Marvel filmi çekiyoruz sanki.,bug(hata/hile),2026-04-16,True
+900000736,dota2,5000 saat oynadım ama hala neden oynadığımı bilmiyorum. Bağımlılık yapma şekliniz takdire şayan.,nötr/ çöp,2026-04-20,True
+900000464,pubg,"Hilecilere özel bir VIP odası açın, henüz her maçta 5 tane yoklar, sayıyı artırmanız lazım.",feature_request(istek),2026-04-16,True
+900000558,dota2,"Yeni içerik yerine daha çok kumar öğesi ekleyin, kasa açmak oyun oynamaktan daha eğlenceli zaten.",feature_request(istek),2026-04-10,True
+900000774,dota2,"Derslerimi ve geleceğimi bu oyun için yaktım, en azından bir 'Global' rütbem var. Değdi mi? Tabii ki hayır.",nötr/ çöp,2026-04-25,True
+900000598,dota2,Maç bulma süresini 30 dakikaya çıkarın ki arada bir kitap bitirebilelim. Oyuncuları kültüre yönlendirmeniz harika.,feature_request(istek),2026-04-19,True
+900000112,dota2,FPS değerinin 100'den 10'a düşmesi slayt gösterisi sevenler için harika bir güncelleme olmuş. Elinize sağlık.,bug(hata/hile),2026-03-28,True
+900000449,pubg,"Silahların hasarını biraz daha düşürün, rakipleri öldürmek yerine onlara sarılmak istiyoruz artık.",feature_request(istek),2026-04-07,True
+900000075,pubg,Oyunun her rekabetçi maçın ortasında çökmesi harika bir mola fırsatı sunuyor. Sağlığımızı düşündüğünüz için sağ olun.,bug(hata/hile),2026-04-20,True
+900000606,cs2,"Güneşin rengini unuttum sayende, vampir gibi yaşamama sebep olduğun için teşekkürler Steam.",nötr/ çöp,2026-04-08,True
+900000229,dota2,Duvarların içinden geçip haritanın altına düşmek tam da beklediğim heyecandı. Fizik motorunuz bir sanat eseri.,bug(hata/hile),2026-04-27,True
+900000541,pubg,"Silahların hasarını biraz daha düşürün, rakipleri öldürmek yerine onlara sarılmak istiyoruz artık.",feature_request(istek),2026-03-31,True
+900000582,cs2,Maç bulma süresini 30 dakikaya çıkarın ki arada bir kitap bitirebilelim. Oyuncuları kültüre yönlendirmeniz harika.,feature_request(istek),2026-04-16,True
+900000207,dota2,"Mermilerin rakipten geçip hasar vermemesi harika bir özellik, sanırım oyun barış ilan etmemi istiyor. Teşekkürler Valve!",bug(hata/hile),2026-04-21,True
+900000205,cs2,"Mermilerin rakipten geçip hasar vermemesi harika bir özellik, sanırım oyun barış ilan etmemi istiyor. Teşekkürler Valve!",bug(hata/hile),2026-03-28,True
+900000475,pubg,"Silahların hasarını biraz daha düşürün, rakipleri öldürmek yerine onlara sarılmak istiyoruz artık.",feature_request(istek),2026-04-23,True
+900000152,dota2,FPS değerinin 100'den 10'a düşmesi slayt gösterisi sevenler için harika bir güncelleme olmuş. Elinize sağlık.,bug(hata/hile),2026-04-12,True
+900000723,cs2,"Toxic kitle sayesinde sabrım çelik gibi oldu, artık hayatta hiçbir şey beni üzemez. Kişisel gelişim kursu gibisiniz.",nötr/ çöp,2026-04-01,True
+900000214,pubg,Duvarların içinden geçip haritanın altına düşmek tam da beklediğim heyecandı. Fizik motorunuz bir sanat eseri.,bug(hata/hile),2026-04-01,True
+900000657,pubg,"Toxic kitle sayesinde sabrım çelik gibi oldu, artık hayatta hiçbir şey beni üzemez. Kişisel gelişim kursu gibisiniz.",nötr/ çöp,2026-04-01,True
+900000860,cs2,"Sabah 4'te sinir krizi geçirmek için harika bir aktivite. Mouse kırmayı özlemişim, teknolojiye katkımız olsun.",nötr/ çöp,2026-04-18,True
+900000201,pubg,Oyunun her rekabetçi maçın ortasında çökmesi harika bir mola fırsatı sunuyor. Sağlığımızı düşündüğünüz için sağ olun.,bug(hata/hile),2026-04-07,True
+900000042,dota2,Karakterimin yere gömülüp madenci gibi takılması çok yaratıcı. Simülasyon içinde simülasyon yaşıyoruz.,bug(hata/hile),2026-04-20,True
+900000433,dota2,"Oyuna daha çok reklam ve sponsorlu içerik ekleyin, maçın ortasında ne güzel olurdu. İnanılmaz bir vizyon.",feature_request(istek),2026-04-12,True
+900000750,pubg,Her gün söverek girip 6 saat oynamak... Sanırım mazoşist bir ilişki yaşıyoruz bu oyunla.,nötr/ çöp,2026-04-21,True
+900000579,pubg,"Lütfen biraz daha kasa ve skin ekleyin, oyunun bozuk olması kimin umurunda? Paramızı harcayacak yer arıyoruz.",feature_request(istek),2026-04-01,True
+900000347,dota2,"Sesli sohbeti tamamen kaldırıp dumanla haberleşmemizi sağlayın, nostalji yaşatmanız çok hoş olurdu.",feature_request(istek),2026-04-19,True
+900000510,pubg,"Silahların hasarını biraz daha düşürün, rakipleri öldürmek yerine onlara sarılmak istiyoruz artık.",feature_request(istek),2026-04-16,True
+900000020,cs2,Oyunun her rekabetçi maçın ortasında çökmesi harika bir mola fırsatı sunuyor. Sağlığımızı düşündüğünüz için sağ olun.,bug(hata/hile),2026-04-18,True
+900000251,dota2,Seslerin tamamen kaybolup sessiz sinema oynamamız muazzam bir yenilik. Atmosfer müthiş (!),bug(hata/hile),2026-04-01,True
+900000419,pubg,"Sunucuları biraz daha yavaşlatın, tepki süresi 3 saniye olunca oyun çok daha stratejik hale geliyor.",feature_request(istek),2026-04-01,True
+900000215,dota2,Oyunun her rekabetçi maçın ortasında çökmesi harika bir mola fırsatı sunuyor. Sağlığımızı düşündüğünüz için sağ olun.,bug(hata/hile),2026-04-19,True
+900000045,cs2,Envanterimdeki eşyaların kendi kendine yok olması sihirbazlık gösterisi gibi. Çok etkileyici bir bug.,bug(hata/hile),2026-03-29,True
+900000237,cs2,Hitboxların yerinde olmaması vuruş hissini bambaşka bir boyuta taşımış. Vuramamak hiç bu kadar keyifli olmamıştı.,bug(hata/hile),2026-04-26,True
+900000689,cs2,Her gün söverek girip 6 saat oynamak... Sanırım mazoşist bir ilişki yaşıyoruz bu oyunla.,nötr/ çöp,2026-04-24,True
+900000516,cs2,"Sesli sohbeti tamamen kaldırıp dumanla haberleşmemizi sağlayın, nostalji yaşatmanız çok hoş olurdu.",feature_request(istek),2026-04-22,True
+900000071,cs2,Duvarların içinden geçip haritanın altına düşmek tam da beklediğim heyecandı. Fizik motorunuz bir sanat eseri.,bug(hata/hile),2026-04-17,True
+900000816,cs2,"Güneşin rengini unuttum sayende, vampir gibi yaşamama sebep olduğun için teşekkürler Steam.",nötr/ çöp,2026-04-08,True
+900000418,pubg,"Hilecilere özel bir VIP odası açın, henüz her maçta 5 tane yoklar, sayıyı artırmanız lazım.",feature_request(istek),2026-04-23,True
+900000702,cs2,"Sosyal hayatımı ve çevremi bu oyun uğruna feda ettim, karşılığında bir çift sanal eldiven aldım. Çok kârlı bir takas!",nötr/ çöp,2026-04-26,True
+900000089,dota2,Seslerin tamamen kaybolup sessiz sinema oynamamız muazzam bir yenilik. Atmosfer müthiş (!),bug(hata/hile),2026-04-15,True
+900000428,cs2,"Yeni içerik yerine daha çok kumar öğesi ekleyin, kasa açmak oyun oynamaktan daha eğlenceli zaten.",feature_request(istek),2026-04-23,True
+900000375,pubg,"Rank sistemini daha da bozun, gümüş oyuncularla elit oyuncular aynı maça gelsin ki rekabet tavan yapsın.",feature_request(istek),2026-04-09,True
+900000007,dota2,Duvarların içinden geçip haritanın altına düşmek tam da beklediğim heyecandı. Fizik motorunuz bir sanat eseri.,bug(hata/hile),2026-04-19,True
+900000583,pubg,"Silahların hasarını biraz daha düşürün, rakipleri öldürmek yerine onlara sarılmak istiyoruz artık.",feature_request(istek),2026-04-26,True
+900000395,dota2,"Oyuna daha çok reklam ve sponsorlu içerik ekleyin, maçın ortasında ne güzel olurdu. İnanılmaz bir vizyon.",feature_request(istek),2026-04-21,True
+900000495,dota2,Maç bulma süresini 30 dakikaya çıkarın ki arada bir kitap bitirebilelim. Oyuncuları kültüre yönlendirmeniz harika.,feature_request(istek),2026-04-02,True
+900000533,dota2,"Yeni içerik yerine daha çok kumar öğesi ekleyin, kasa açmak oyun oynamaktan daha eğlenceli zaten.",feature_request(istek),2026-04-17,True
+900000619,cs2,"Sosyal hayatımı ve çevremi bu oyun uğruna feda ettim, karşılığında bir çift sanal eldiven aldım. Çok kârlı bir takas!",nötr/ çöp,2026-03-29,True
+900000255,pubg,Karakterimin yere gömülüp madenci gibi takılması çok yaratıcı. Simülasyon içinde simülasyon yaşıyoruz.,bug(hata/hile),2026-04-25,True
+900000741,dota2,"Hayatımı kararttığın için teşekkürler, sayende gerçek dünyanın ne kadar sıkıcı olduğunu anladım.",nötr/ çöp,2026-04-04,True
+900000846,dota2,"Hayatımı kararttığın için teşekkürler, sayende gerçek dünyanın ne kadar sıkıcı olduğunu anladım.",nötr/ çöp,2026-04-19,True
+900000209,pubg,Ping değerinin 500'e fırlayıp beni zamanda yolculuğa çıkarması muazzam. Marvel filmi çekiyoruz sanki.,bug(hata/hile),2026-04-09,True
+900000151,dota2,Karakterimin yere gömülüp madenci gibi takılması çok yaratıcı. Simülasyon içinde simülasyon yaşıyoruz.,bug(hata/hile),2026-04-23,True
+900000631,cs2,"Hayatımı kararttığın için teşekkürler, sayende gerçek dünyanın ne kadar sıkıcı olduğunu anladım.",nötr/ çöp,2026-03-31,True
+900000113,cs2,Ping değerinin 500'e fırlayıp beni zamanda yolculuğa çıkarması muazzam. Marvel filmi çekiyoruz sanki.,bug(hata/hile),2026-04-07,True
+900000647,pubg,"Sosyal hayatımı ve çevremi bu oyun uğruna feda ettim, karşılığında bir çift sanal eldiven aldım. Çok kârlı bir takas!",nötr/ çöp,2026-04-17,True
+900000780,pubg,"Güneşin rengini unuttum sayende, vampir gibi yaşamama sebep olduğun için teşekkürler Steam.",nötr/ çöp,2026-04-25,True
+900000847,cs2,"Güneşin rengini unuttum sayende, vampir gibi yaşamama sebep olduğun için teşekkürler Steam.",nötr/ çöp,2026-04-01,True
+900000099,dota2,Duvarların içinden geçip haritanın altına düşmek tam da beklediğim heyecandı. Fizik motorunuz bir sanat eseri.,bug(hata/hile),2026-03-30,True
+900000363,cs2,"Rank sistemini daha da bozun, gümüş oyuncularla elit oyuncular aynı maça gelsin ki rekabet tavan yapsın.",feature_request(istek),2026-03-30,True
+900000033,dota2,Duvarların içinden geçip haritanın altına düşmek tam da beklediğim heyecandı. Fizik motorunuz bir sanat eseri.,bug(hata/hile),2026-04-09,True
+900000775,cs2,"Bilgisayarım kaloriferden daha iyi ısıtıyor sayende, kış aylarında doğalgaz tasarrufu sağlıyorum. Bravo!",nötr/ çöp,2026-04-20,True
+900000771,pubg,"Sabah 4'te sinir krizi geçirmek için harika bir aktivite. Mouse kırmayı özlemişim, teknolojiye katkımız olsun.",nötr/ çöp,2026-04-07,True
+900000407,pubg,"Lütfen biraz daha kasa ve skin ekleyin, oyunun bozuk olması kimin umurunda? Paramızı harcayacak yer arıyoruz.",feature_request(istek),2026-04-26,True
+900000196,dota2,Karakterimin yere gömülüp madenci gibi takılması çok yaratıcı. Simülasyon içinde simülasyon yaşıyoruz.,bug(hata/hile),2026-03-30,True
+900000692,cs2,"Bilgisayarım kaloriferden daha iyi ısıtıyor sayende, kış aylarında doğalgaz tasarrufu sağlıyorum. Bravo!",nötr/ çöp,2026-04-11,True
+900000184,dota2,Hitboxların yerinde olmaması vuruş hissini bambaşka bir boyuta taşımış. Vuramamak hiç bu kadar keyifli olmamıştı.,bug(hata/hile),2026-04-04,True
+900000570,cs2,"Rank sistemini daha da bozun, gümüş oyuncularla elit oyuncular aynı maça gelsin ki rekabet tavan yapsın.",feature_request(istek),2026-04-24,True
+900000271,cs2,"Mermilerin rakipten geçip hasar vermemesi harika bir özellik, sanırım oyun barış ilan etmemi istiyor. Teşekkürler Valve!",bug(hata/hile),2026-04-17,True
+900000149,dota2,Hitboxların yerinde olmaması vuruş hissini bambaşka bir boyuta taşımış. Vuramamak hiç bu kadar keyifli olmamıştı.,bug(hata/hile),2026-04-07,True
+900000690,dota2,"Toxic kitle sayesinde sabrım çelik gibi oldu, artık hayatta hiçbir şey beni üzemez. Kişisel gelişim kursu gibisiniz.",nötr/ çöp,2026-04-16,True
+900000391,cs2,"Lütfen biraz daha kasa ve skin ekleyin, oyunun bozuk olması kimin umurunda? Paramızı harcayacak yer arıyoruz.",feature_request(istek),2026-04-17,True
+900000340,dota2,"Oyuna daha çok reklam ve sponsorlu içerik ekleyin, maçın ortasında ne güzel olurdu. İnanılmaz bir vizyon.",feature_request(istek),2026-04-23,True
+900000794,dota2,5000 saat oynadım ama hala neden oynadığımı bilmiyorum. Bağımlılık yapma şekliniz takdire şayan.,nötr/ çöp,2026-04-09,True
+900000833,dota2,"Derslerimi ve geleceğimi bu oyun için yaktım, en azından bir 'Global' rütbem var. Değdi mi? Tabii ki hayır.",nötr/ çöp,2026-04-01,True
+900000104,cs2,Envanterimdeki eşyaların kendi kendine yok olması sihirbazlık gösterisi gibi. Çok etkileyici bir bug.,bug(hata/hile),2026-04-03,True
+900000565,cs2,"Sesli sohbeti tamamen kaldırıp dumanla haberleşmemizi sağlayın, nostalji yaşatmanız çok hoş olurdu.",feature_request(istek),2026-04-02,True
+900000880,dota2,"Hayatımı kararttığın için teşekkürler, sayende gerçek dünyanın ne kadar sıkıcı olduğunu anladım.",nötr/ çöp,2026-04-23,True
+900000471,cs2,"Yeni içerik yerine daha çok kumar öğesi ekleyin, kasa açmak oyun oynamaktan daha eğlenceli zaten.",feature_request(istek),2026-04-25,True
+900000244,cs2,"Mermilerin rakipten geçip hasar vermemesi harika bir özellik, sanırım oyun barış ilan etmemi istiyor. Teşekkürler Valve!",bug(hata/hile),2026-04-23,True
+900000663,cs2,"Sabah 4'te sinir krizi geçirmek için harika bir aktivite. Mouse kırmayı özlemişim, teknolojiye katkımız olsun.",nötr/ çöp,2026-04-07,True
+900000814,dota2,"Güneşin rengini unuttum sayende, vampir gibi yaşamama sebep olduğun için teşekkürler Steam.",nötr/ çöp,2026-04-25,True
+900000341,pubg,"Sesli sohbeti tamamen kaldırıp dumanla haberleşmemizi sağlayın, nostalji yaşatmanız çok hoş olurdu.",feature_request(istek),2026-03-30,True
+900000379,cs2,"Rank sistemini daha da bozun, gümüş oyuncularla elit oyuncular aynı maça gelsin ki rekabet tavan yapsın.",feature_request(istek),2026-04-07,True
+900000894,dota2,"Bilgisayarım kaloriferden daha iyi ısıtıyor sayende, kış aylarında doğalgaz tasarrufu sağlıyorum. Bravo!",nötr/ çöp,2026-04-02,True
+900000417,cs2,"Market fiyatlarını biraz daha artırın, cüzdanımızdaki para bize fazla geliyor. Sosyal adaleti böyle sağlayın (!)",feature_request(istek),2026-04-09,True
+900000787,cs2,Eşimi dostumu kaybettim ama en azından envanterim değerli. Yalnızlık hiç bu kadar pahalı olmamıştı.,nötr/ çöp,2026-03-29,True
+900000485,pubg,"Yeni içerik yerine daha çok kumar öğesi ekleyin, kasa açmak oyun oynamaktan daha eğlenceli zaten.",feature_request(istek),2026-03-29,True
+900000769,dota2,"Sabah 4'te sinir krizi geçirmek için harika bir aktivite. Mouse kırmayı özlemişim, teknolojiye katkımız olsun.",nötr/ çöp,2026-04-11,True
+900000772,cs2,Her gün söverek girip 6 saat oynamak... Sanırım mazoşist bir ilişki yaşıyoruz bu oyunla.,nötr/ çöp,2026-04-01,True
+900000487,cs2,"Sesli sohbeti tamamen kaldırıp dumanla haberleşmemizi sağlayın, nostalji yaşatmanız çok hoş olurdu.",feature_request(istek),2026-03-31,True
+900000550,dota2,"Sesli sohbeti tamamen kaldırıp dumanla haberleşmemizi sağlayın, nostalji yaşatmanız çok hoş olurdu.",feature_request(istek),2026-04-18,True
+900000019,pubg,Seslerin tamamen kaybolup sessiz sinema oynamamız muazzam bir yenilik. Atmosfer müthiş (!),bug(hata/hile),2026-04-10,True
+900000696,pubg,"Derslerimi ve geleceğimi bu oyun için yaktım, en azından bir 'Global' rütbem var. Değdi mi? Tabii ki hayır.",nötr/ çöp,2026-04-06,True
+900000695,dota2,Her gün söverek girip 6 saat oynamak... Sanırım mazoşist bir ilişki yaşıyoruz bu oyunla.,nötr/ çöp,2026-04-01,True
+900000304,dota2,"Oyuna daha çok reklam ve sponsorlu içerik ekleyin, maçın ortasında ne güzel olurdu. İnanılmaz bir vizyon.",feature_request(istek),2026-04-25,True
+900000091,pubg,Duvarların içinden geçip haritanın altına düşmek tam da beklediğim heyecandı. Fizik motorunuz bir sanat eseri.,bug(hata/hile),2026-04-21,True
+900000345,pubg,"Market fiyatlarını biraz daha artırın, cüzdanımızdaki para bize fazla geliyor. Sosyal adaleti böyle sağlayın (!)",feature_request(istek),2026-04-09,True
+900000498,dota2,"Market fiyatlarını biraz daha artırın, cüzdanımızdaki para bize fazla geliyor. Sosyal adaleti böyle sağlayın (!)",feature_request(istek),2026-04-27,True
+900000100,dota2,Hilecilerin gökyüzünde uçarak beni vurması çok adaletli bir deneyim. Sanırım oyuna süper kahraman modu eklediniz.,bug(hata/hile),2026-04-10,True
+900000414,dota2,"Silahların hasarını biraz daha düşürün, rakipleri öldürmek yerine onlara sarılmak istiyoruz artık.",feature_request(istek),2026-04-05,True
+900000665,pubg,Her gün söverek girip 6 saat oynamak... Sanırım mazoşist bir ilişki yaşıyoruz bu oyunla.,nötr/ çöp,2026-03-29,True
+900000300,dota2,"Hilecilere özel bir VIP odası açın, henüz her maçta 5 tane yoklar, sayıyı artırmanız lazım.",feature_request(istek),2026-04-06,True
+900000413,cs2,"Sunucuları biraz daha yavaşlatın, tepki süresi 3 saniye olunca oyun çok daha stratejik hale geliyor.",feature_request(istek),2026-04-26,True
+900000145,dota2,"Mermilerin rakipten geçip hasar vermemesi harika bir özellik, sanırım oyun barış ilan etmemi istiyor. Teşekkürler Valve!",bug(hata/hile),2026-04-19,True
+900000870,dota2,"Güneşin rengini unuttum sayende, vampir gibi yaşamama sebep olduğun için teşekkürler Steam.",nötr/ çöp,2026-04-14,True
+900000437,pubg,"Yeni içerik yerine daha çok kumar öğesi ekleyin, kasa açmak oyun oynamaktan daha eğlenceli zaten.",feature_request(istek),2026-04-24,True
+900000826,cs2,Eşimi dostumu kaybettim ama en azından envanterim değerli. Yalnızlık hiç bu kadar pahalı olmamıştı.,nötr/ çöp,2026-04-27,True
+900000505,pubg,"Lütfen biraz daha kasa ve skin ekleyin, oyunun bozuk olması kimin umurunda? Paramızı harcayacak yer arıyoruz.",feature_request(istek),2026-04-20,True
+900000585,dota2,"Lütfen biraz daha kasa ve skin ekleyin, oyunun bozuk olması kimin umurunda? Paramızı harcayacak yer arıyoruz.",feature_request(istek),2026-04-16,True
+900000136,pubg,Duvarların içinden geçip haritanın altına düşmek tam da beklediğim heyecandı. Fizik motorunuz bir sanat eseri.,bug(hata/hile),2026-04-15,True
+900000483,dota2,"Sesli sohbeti tamamen kaldırıp dumanla haberleşmemizi sağlayın, nostalji yaşatmanız çok hoş olurdu.",feature_request(istek),2026-04-03,True
+900000872,cs2,5000 saat oynadım ama hala neden oynadığımı bilmiyorum. Bağımlılık yapma şekliniz takdire şayan.,nötr/ çöp,2026-04-04,True
+900000871,cs2,"Güneşin rengini unuttum sayende, vampir gibi yaşamama sebep olduğun için teşekkürler Steam.",nötr/ çöp,2026-04-21,True
+900000150,dota2,FPS değerinin 100'den 10'a düşmesi slayt gösterisi sevenler için harika bir güncelleme olmuş. Elinize sağlık.,bug(hata/hile),2026-04-21,True
+900000708,cs2,"Hayatımı kararttığın için teşekkürler, sayende gerçek dünyanın ne kadar sıkıcı olduğunu anladım.",nötr/ çöp,2026-04-20,True
+900000798,cs2,"Sabah 4'te sinir krizi geçirmek için harika bir aktivite. Mouse kırmayı özlemişim, teknolojiye katkımız olsun.",nötr/ çöp,2026-04-20,True
+900000808,cs2,"Hayatımı kararttığın için teşekkürler, sayende gerçek dünyanın ne kadar sıkıcı olduğunu anladım.",nötr/ çöp,2026-04-02,True
+900000390,cs2,"Sesli sohbeti tamamen kaldırıp dumanla haberleşmemizi sağlayın, nostalji yaşatmanız çok hoş olurdu.",feature_request(istek),2026-04-24,True
+900000749,pubg,Her gün söverek girip 6 saat oynamak... Sanırım mazoşist bir ilişki yaşıyoruz bu oyunla.,nötr/ çöp,2026-04-08,True
+900000339,cs2,"Sesli sohbeti tamamen kaldırıp dumanla haberleşmemizi sağlayın, nostalji yaşatmanız çok hoş olurdu.",feature_request(istek),2026-04-16,True
+900000511,cs2,"Hilecilere özel bir VIP odası açın, henüz her maçta 5 tane yoklar, sayıyı artırmanız lazım.",feature_request(istek),2026-03-29,True
+900000070,pubg,Karakterimin yere gömülüp madenci gibi takılması çok yaratıcı. Simülasyon içinde simülasyon yaşıyoruz.,bug(hata/hile),2026-04-27,True
+900000393,pubg,"Sesli sohbeti tamamen kaldırıp dumanla haberleşmemizi sağlayın, nostalji yaşatmanız çok hoş olurdu.",feature_request(istek),2026-04-21,True
+900000178,cs2,"Mermilerin rakipten geçip hasar vermemesi harika bir özellik, sanırım oyun barış ilan etmemi istiyor. Teşekkürler Valve!",bug(hata/hile),2026-04-08,True
+900000287,dota2,Ping değerinin 500'e fırlayıp beni zamanda yolculuğa çıkarması muazzam. Marvel filmi çekiyoruz sanki.,bug(hata/hile),2026-04-21,True
+900000614,cs2,"Hayatımı kararttığın için teşekkürler, sayende gerçek dünyanın ne kadar sıkıcı olduğunu anladım.",nötr/ çöp,2026-04-01,True
+900000126,pubg,Hitboxların yerinde olmaması vuruş hissini bambaşka bir boyuta taşımış. Vuramamak hiç bu kadar keyifli olmamıştı.,bug(hata/hile),2026-03-30,True
+900000000,dota2,Hilecilerin gökyüzünde uçarak beni vurması çok adaletli bir deneyim. Sanırım oyuna süper kahraman modu eklediniz.,bug(hata/hile),2026-04-18,True
+900000208,pubg,FPS değerinin 100'den 10'a düşmesi slayt gösterisi sevenler için harika bir güncelleme olmuş. Elinize sağlık.,bug(hata/hile),2026-04-01,True
+900000587,pubg,"Yeni içerik yerine daha çok kumar öğesi ekleyin, kasa açmak oyun oynamaktan daha eğlenceli zaten.",feature_request(istek),2026-04-19,True
+900000233,cs2,Seslerin tamamen kaybolup sessiz sinema oynamamız muazzam bir yenilik. Atmosfer müthiş (!),bug(hata/hile),2026-03-30,True
+900000776,pubg,"Hayatımı kararttığın için teşekkürler, sayende gerçek dünyanın ne kadar sıkıcı olduğunu anladım.",nötr/ çöp,2026-04-03,True
+900000818,dota2,5000 saat oynadım ama hala neden oynadığımı bilmiyorum. Bağımlılık yapma şekliniz takdire şayan.,nötr/ çöp,2026-04-09,True
+900000014,dota2,Hitboxların yerinde olmaması vuruş hissini bambaşka bir boyuta taşımış. Vuramamak hiç bu kadar keyifli olmamıştı.,bug(hata/hile),2026-04-21,True
+900000331,dota2,"Market fiyatlarını biraz daha artırın, cüzdanımızdaki para bize fazla geliyor. Sosyal adaleti böyle sağlayın (!)",feature_request(istek),2026-04-20,True
+900000571,cs2,"Market fiyatlarını biraz daha artırın, cüzdanımızdaki para bize fazla geliyor. Sosyal adaleti böyle sağlayın (!)",feature_request(istek),2026-04-09,True
+900000299,pubg,Hilecilerin gökyüzünde uçarak beni vurması çok adaletli bir deneyim. Sanırım oyuna süper kahraman modu eklediniz.,bug(hata/hile),2026-04-06,True
+900000538,cs2,"Silahların hasarını biraz daha düşürün, rakipleri öldürmek yerine onlara sarılmak istiyoruz artık.",feature_request(istek),2026-04-13,True
+900000268,pubg,Duvarların içinden geçip haritanın altına düşmek tam da beklediğim heyecandı. Fizik motorunuz bir sanat eseri.,bug(hata/hile),2026-04-10,True
+900000807,pubg,Eşimi dostumu kaybettim ama en azından envanterim değerli. Yalnızlık hiç bu kadar pahalı olmamıştı.,nötr/ çöp,2026-04-21,True
+900000620,dota2,Eşimi dostumu kaybettim ama en azından envanterim değerli. Yalnızlık hiç bu kadar pahalı olmamıştı.,nötr/ çöp,2026-04-20,True
+900000716,cs2,"Derslerimi ve geleceğimi bu oyun için yaktım, en azından bir 'Global' rütbem var. Değdi mi? Tabii ki hayır.",nötr/ çöp,2026-04-08,True
+900000578,pubg,"Market fiyatlarını biraz daha artırın, cüzdanımızdaki para bize fazla geliyor. Sosyal adaleti böyle sağlayın (!)",feature_request(istek),2026-04-23,True
+900000431,dota2,"Sunucuları biraz daha yavaşlatın, tepki süresi 3 saniye olunca oyun çok daha stratejik hale geliyor.",feature_request(istek),2026-04-13,True
+900000875,cs2,5000 saat oynadım ama hala neden oynadığımı bilmiyorum. Bağımlılık yapma şekliniz takdire şayan.,nötr/ çöp,2026-04-23,True
+900000157,dota2,Seslerin tamamen kaybolup sessiz sinema oynamamız muazzam bir yenilik. Atmosfer müthiş (!),bug(hata/hile),2026-04-08,True
+900000440,dota2,"Hilecilere özel bir VIP odası açın, henüz her maçta 5 tane yoklar, sayıyı artırmanız lazım.",feature_request(istek),2026-04-14,True
+900000303,dota2,"Oyuna daha çok reklam ve sponsorlu içerik ekleyin, maçın ortasında ne güzel olurdu. İnanılmaz bir vizyon.",feature_request(istek),2026-03-29,True
+900000092,cs2,Hitboxların yerinde olmaması vuruş hissini bambaşka bir boyuta taşımış. Vuramamak hiç bu kadar keyifli olmamıştı.,bug(hata/hile),2026-04-24,True
+900000064,dota2,Hilecilerin gökyüzünde uçarak beni vurması çok adaletli bir deneyim. Sanırım oyuna süper kahraman modu eklediniz.,bug(hata/hile),2026-04-22,True
+900000154,cs2,Hilecilerin gökyüzünde uçarak beni vurması çok adaletli bir deneyim. Sanırım oyuna süper kahraman modu eklediniz.,bug(hata/hile),2026-04-13,True
+900000891,pubg,"Bilgisayarım kaloriferden daha iyi ısıtıyor sayende, kış aylarında doğalgaz tasarrufu sağlıyorum. Bravo!",nötr/ çöp,2026-04-24,True
+900000351,cs2,"Sesli sohbeti tamamen kaldırıp dumanla haberleşmemizi sağlayın, nostalji yaşatmanız çok hoş olurdu.",feature_request(istek),2026-04-09,True
+900000477,pubg,"Silahların hasarını biraz daha düşürün, rakipleri öldürmek yerine onlara sarılmak istiyoruz artık.",feature_request(istek),2026-04-23,True
+900000486,pubg,"Lütfen biraz daha kasa ve skin ekleyin, oyunun bozuk olması kimin umurunda? Paramızı harcayacak yer arıyoruz.",feature_request(istek),2026-04-09,True
+900000369,pubg,Maç bulma süresini 30 dakikaya çıkarın ki arada bir kitap bitirebilelim. Oyuncuları kültüre yönlendirmeniz harika.,feature_request(istek),2026-04-16,True
+900000217,cs2,Hilecilerin gökyüzünde uçarak beni vurması çok adaletli bir deneyim. Sanırım oyuna süper kahraman modu eklediniz.,bug(hata/hile),2026-04-04,True
+900000017,cs2,Ping değerinin 500'e fırlayıp beni zamanda yolculuğa çıkarması muazzam. Marvel filmi çekiyoruz sanki.,bug(hata/hile),2026-03-30,True
+900000778,dota2,"Derslerimi ve geleceğimi bu oyun için yaktım, en azından bir 'Global' rütbem var. Değdi mi? Tabii ki hayır.",nötr/ çöp,2026-04-06,True
+900000755,pubg,"Bilgisayarım kaloriferden daha iyi ısıtıyor sayende, kış aylarında doğalgaz tasarrufu sağlıyorum. Bravo!",nötr/ çöp,2026-04-04,True
+900000039,cs2,Hitboxların yerinde olmaması vuruş hissini bambaşka bir boyuta taşımış. Vuramamak hiç bu kadar keyifli olmamıştı.,bug(hata/hile),2026-04-08,True
+900000443,pubg,"Lütfen biraz daha kasa ve skin ekleyin, oyunun bozuk olması kimin umurunda? Paramızı harcayacak yer arıyoruz.",feature_request(istek),2026-03-30,True
+900000659,dota2,"Derslerimi ve geleceğimi bu oyun için yaktım, en azından bir 'Global' rütbem var. Değdi mi? Tabii ki hayır.",nötr/ çöp,2026-04-10,True
+900000549,cs2,"Hilecilere özel bir VIP odası açın, henüz her maçta 5 tane yoklar, sayıyı artırmanız lazım.",feature_request(istek),2026-04-06,True
+900000043,cs2,FPS değerinin 100'den 10'a düşmesi slayt gösterisi sevenler için harika bir güncelleme olmuş. Elinize sağlık.,bug(hata/hile),2026-04-20,True
+900000675,pubg,Her gün söverek girip 6 saat oynamak... Sanırım mazoşist bir ilişki yaşıyoruz bu oyunla.,nötr/ çöp,2026-04-09,True
+900000867,cs2,Her gün söverek girip 6 saat oynamak... Sanırım mazoşist bir ilişki yaşıyoruz bu oyunla.,nötr/ çöp,2026-04-24,True
+900000088,dota2,FPS değerinin 100'den 10'a düşmesi slayt gösterisi sevenler için harika bir güncelleme olmuş. Elinize sağlık.,bug(hata/hile),2026-04-08,True
+900000096,dota2,Duvarların içinden geçip haritanın altına düşmek tam da beklediğim heyecandı. Fizik motorunuz bir sanat eseri.,bug(hata/hile),2026-04-18,True
+900000810,cs2,Eşimi dostumu kaybettim ama en azından envanterim değerli. Yalnızlık hiç bu kadar pahalı olmamıştı.,nötr/ çöp,2026-04-15,True
+900000333,cs2,"Sunucuları biraz daha yavaşlatın, tepki süresi 3 saniye olunca oyun çok daha stratejik hale geliyor.",feature_request(istek),2026-04-04,True
+900000524,pubg,Maç bulma süresini 30 dakikaya çıkarın ki arada bir kitap bitirebilelim. Oyuncuları kültüre yönlendirmeniz harika.,feature_request(istek),2026-04-12,True
+900000574,pubg,Maç bulma süresini 30 dakikaya çıkarın ki arada bir kitap bitirebilelim. Oyuncuları kültüre yönlendirmeniz harika.,feature_request(istek),2026-04-27,True
+900000109,dota2,"Mermilerin rakipten geçip hasar vermemesi harika bir özellik, sanırım oyun barış ilan etmemi istiyor. Teşekkürler Valve!",bug(hata/hile),2026-04-12,True
+900000719,dota2,"Sosyal hayatımı ve çevremi bu oyun uğruna feda ettim, karşılığında bir çift sanal eldiven aldım. Çok kârlı bir takas!",nötr/ çöp,2026-04-01,True
+900000245,cs2,Hitboxların yerinde olmaması vuruş hissini bambaşka bir boyuta taşımış. Vuramamak hiç bu kadar keyifli olmamıştı.,bug(hata/hile),2026-04-24,True
+900000386,pubg,"Hilecilere özel bir VIP odası açın, henüz her maçta 5 tane yoklar, sayıyı artırmanız lazım.",feature_request(istek),2026-04-16,True
+900000344,pubg,"Rank sistemini daha da bozun, gümüş oyuncularla elit oyuncular aynı maça gelsin ki rekabet tavan yapsın.",feature_request(istek),2026-04-03,True
+900000253,dota2,Seslerin tamamen kaybolup sessiz sinema oynamamız muazzam bir yenilik. Atmosfer müthiş (!),bug(hata/hile),2026-04-22,True
+900000841,pubg,Her gün söverek girip 6 saat oynamak... Sanırım mazoşist bir ilişki yaşıyoruz bu oyunla.,nötr/ çöp,2026-04-12,True
+900000492,cs2,"Lütfen biraz daha kasa ve skin ekleyin, oyunun bozuk olması kimin umurunda? Paramızı harcayacak yer arıyoruz.",feature_request(istek),2026-04-08,True
+900000288,pubg,FPS değerinin 100'den 10'a düşmesi slayt gösterisi sevenler için harika bir güncelleme olmuş. Elinize sağlık.,bug(hata/hile),2026-04-22,True
+900000249,pubg,"Mermilerin rakipten geçip hasar vermemesi harika bir özellik, sanırım oyun barış ilan etmemi istiyor. Teşekkürler Valve!",bug(hata/hile),2026-04-08,True
+900000802,dota2,"Bilgisayarım kaloriferden daha iyi ısıtıyor sayende, kış aylarında doğalgaz tasarrufu sağlıyorum. Bravo!",nötr/ çöp,2026-04-23,True
+900000572,dota2,"Rank sistemini daha da bozun, gümüş oyuncularla elit oyuncular aynı maça gelsin ki rekabet tavan yapsın.",feature_request(istek),2026-03-28,True
+900000521,cs2,"Market fiyatlarını biraz daha artırın, cüzdanımızdaki para bize fazla geliyor. Sosyal adaleti böyle sağlayın (!)",feature_request(istek),2026-04-07,True
+900000726,pubg,"Sosyal hayatımı ve çevremi bu oyun uğruna feda ettim, karşılığında bir çift sanal eldiven aldım. Çok kârlı bir takas!",nötr/ çöp,2026-04-18,True
+900000122,cs2,Duvarların içinden geçip haritanın altına düşmek tam da beklediğim heyecandı. Fizik motorunuz bir sanat eseri.,bug(hata/hile),2026-04-16,True
+900000848,dota2,"Toxic kitle sayesinde sabrım çelik gibi oldu, artık hayatta hiçbir şey beni üzemez. Kişisel gelişim kursu gibisiniz.",nötr/ çöp,2026-04-26,True
+900000535,cs2,Maç bulma süresini 30 dakikaya çıkarın ki arada bir kitap bitirebilelim. Oyuncuları kültüre yönlendirmeniz harika.,feature_request(istek),2026-04-22,True
+900000633,cs2,Eşimi dostumu kaybettim ama en azından envanterim değerli. Yalnızlık hiç bu kadar pahalı olmamıştı.,nötr/ çöp,2026-04-08,True
+900000453,dota2,"Market fiyatlarını biraz daha artırın, cüzdanımızdaki para bize fazla geliyor. Sosyal adaleti böyle sağlayın (!)",feature_request(istek),2026-04-10,True
+900000656,cs2,"Bilgisayarım kaloriferden daha iyi ısıtıyor sayende, kış aylarında doğalgaz tasarrufu sağlıyorum. Bravo!",nötr/ çöp,2026-04-20,True
+900000204,cs2,Hitboxların yerinde olmaması vuruş hissini bambaşka bir boyuta taşımış. Vuramamak hiç bu kadar keyifli olmamıştı.,bug(hata/hile),2026-04-18,True
+900000564,dota2,Maç bulma süresini 30 dakikaya çıkarın ki arada bir kitap bitirebilelim. Oyuncuları kültüre yönlendirmeniz harika.,feature_request(istek),2026-04-21,True
+900000385,cs2,"Oyuna daha çok reklam ve sponsorlu içerik ekleyin, maçın ortasında ne güzel olurdu. İnanılmaz bir vizyon.",feature_request(istek),2026-04-06,True
+900000063,dota2,Duvarların içinden geçip haritanın altına düşmek tam da beklediğim heyecandı. Fizik motorunuz bir sanat eseri.,bug(hata/hile),2026-04-05,True
+900000227,cs2,"Mermilerin rakipten geçip hasar vermemesi harika bir özellik, sanırım oyun barış ilan etmemi istiyor. Teşekkürler Valve!",bug(hata/hile),2026-04-14,True
+900000250,dota2,Hilecilerin gökyüzünde uçarak beni vurması çok adaletli bir deneyim. Sanırım oyuna süper kahraman modu eklediniz.,bug(hata/hile),2026-04-17,True
+900000177,cs2,"Mermilerin rakipten geçip hasar vermemesi harika bir özellik, sanırım oyun barış ilan etmemi istiyor. Teşekkürler Valve!",bug(hata/hile),2026-04-16,True
+900000080,cs2,Ping değerinin 500'e fırlayıp beni zamanda yolculuğa çıkarması muazzam. Marvel filmi çekiyoruz sanki.,bug(hata/hile),2026-04-05,True
+900000697,dota2,5000 saat oynadım ama hala neden oynadığımı bilmiyorum. Bağımlılık yapma şekliniz takdire şayan.,nötr/ çöp,2026-04-08,True
+900000512,pubg,"Lütfen biraz daha kasa ve skin ekleyin, oyunun bozuk olması kimin umurunda? Paramızı harcayacak yer arıyoruz.",feature_request(istek),2026-04-08,True
+900000171,pubg,Oyunun her rekabetçi maçın ortasında çökmesi harika bir mola fırsatı sunuyor. Sağlığımızı düşündüğünüz için sağ olun.,bug(hata/hile),2026-04-20,True
+900000531,pubg,"Oyuna daha çok reklam ve sponsorlu içerik ekleyin, maçın ortasında ne güzel olurdu. İnanılmaz bir vizyon.",feature_request(istek),2026-04-20,True
+900000858,cs2,Her gün söverek girip 6 saat oynamak... Sanırım mazoşist bir ilişki yaşıyoruz bu oyunla.,nötr/ çöp,2026-04-23,True
+900000361,dota2,"Sunucuları biraz daha yavaşlatın, tepki süresi 3 saniye olunca oyun çok daha stratejik hale geliyor.",feature_request(istek),2026-04-25,True
+900000220,cs2,Seslerin tamamen kaybolup sessiz sinema oynamamız muazzam bir yenilik. Atmosfer müthiş (!),bug(hata/hile),2026-04-14,True
+900000792,dota2,"Bilgisayarım kaloriferden daha iyi ısıtıyor sayende, kış aylarında doğalgaz tasarrufu sağlıyorum. Bravo!",nötr/ çöp,2026-04-04,True
+900000859,cs2,Eşimi dostumu kaybettim ama en azından envanterim değerli. Yalnızlık hiç bu kadar pahalı olmamıştı.,nötr/ çöp,2026-04-13,True
+900000236,cs2,Envanterimdeki eşyaların kendi kendine yok olması sihirbazlık gösterisi gibi. Çok etkileyici bir bug.,bug(hata/hile),2026-04-10,True
+900000825,cs2,"Derslerimi ve geleceğimi bu oyun için yaktım, en azından bir 'Global' rütbem var. Değdi mi? Tabii ki hayır.",nötr/ çöp,2026-04-20,True
+900000310,pubg,"Sunucuları biraz daha yavaşlatın, tepki süresi 3 saniye olunca oyun çok daha stratejik hale geliyor.",feature_request(istek),2026-04-22,True
+900000685,pubg,"Sosyal hayatımı ve çevremi bu oyun uğruna feda ettim, karşılığında bir çift sanal eldiven aldım. Çok kârlı bir takas!",nötr/ çöp,2026-04-19,True
+900000097,pubg,Duvarların içinden geçip haritanın altına düşmek tam da beklediğim heyecandı. Fizik motorunuz bir sanat eseri.,bug(hata/hile),2026-04-13,True
+900000889,pubg,Her gün söverek girip 6 saat oynamak... Sanırım mazoşist bir ilişki yaşıyoruz bu oyunla.,nötr/ çöp,2026-04-13,True
+900000082,dota2,Duvarların içinden geçip haritanın altına düşmek tam da beklediğim heyecandı. Fizik motorunuz bir sanat eseri.,bug(hata/hile),2026-04-23,True
+900000076,pubg,Hilecilerin gökyüzünde uçarak beni vurması çok adaletli bir deneyim. Sanırım oyuna süper kahraman modu eklediniz.,bug(hata/hile),2026-04-06,True
+900000501,pubg,"Yeni içerik yerine daha çok kumar öğesi ekleyin, kasa açmak oyun oynamaktan daha eğlenceli zaten.",feature_request(istek),2026-04-24,True
+900000098,dota2,Hilecilerin gökyüzünde uçarak beni vurması çok adaletli bir deneyim. Sanırım oyuna süper kahraman modu eklediniz.,bug(hata/hile),2026-04-15,True
+900000544,pubg,"Silahların hasarını biraz daha düşürün, rakipleri öldürmek yerine onlara sarılmak istiyoruz artık.",feature_request(istek),2026-04-13,True
+900000660,cs2,"Toxic kitle sayesinde sabrım çelik gibi oldu, artık hayatta hiçbir şey beni üzemez. Kişisel gelişim kursu gibisiniz.",nötr/ çöp,2026-04-13,True
+900000280,dota2,Envanterimdeki eşyaların kendi kendine yok olması sihirbazlık gösterisi gibi. Çok etkileyici bir bug.,bug(hata/hile),2026-04-17,True
+900000376,pubg,"Silahların hasarını biraz daha düşürün, rakipleri öldürmek yerine onlara sarılmak istiyoruz artık.",feature_request(istek),2026-04-08,True
+900000383,cs2,"Market fiyatlarını biraz daha artırın, cüzdanımızdaki para bize fazla geliyor. Sosyal adaleti böyle sağlayın (!)",feature_request(istek),2026-04-18,True
+900000561,pubg,"Rank sistemini daha da bozun, gümüş oyuncularla elit oyuncular aynı maça gelsin ki rekabet tavan yapsın.",feature_request(istek),2026-04-23,True
+900000654,pubg,"Hayatımı kararttığın için teşekkürler, sayende gerçek dünyanın ne kadar sıkıcı olduğunu anladım.",nötr/ çöp,2026-04-26,True
+900000066,dota2,"Mermilerin rakipten geçip hasar vermemesi harika bir özellik, sanırım oyun barış ilan etmemi istiyor. Teşekkürler Valve!",bug(hata/hile),2026-04-19,True
+900000185,cs2,Hitboxların yerinde olmaması vuruş hissini bambaşka bir boyuta taşımış. Vuramamak hiç bu kadar keyifli olmamıştı.,bug(hata/hile),2026-04-16,True
+900000055,dota2,Hitboxların yerinde olmaması vuruş hissini bambaşka bir boyuta taşımış. Vuramamak hiç bu kadar keyifli olmamıştı.,bug(hata/hile),2026-04-04,True
+900000415,pubg,"Oyuna daha çok reklam ve sponsorlu içerik ekleyin, maçın ortasında ne güzel olurdu. İnanılmaz bir vizyon.",feature_request(istek),2026-04-10,True
+900000459,dota2,"Yeni içerik yerine daha çok kumar öğesi ekleyin, kasa açmak oyun oynamaktan daha eğlenceli zaten.",feature_request(istek),2026-04-04,True
+900000677,pubg,"Toxic kitle sayesinde sabrım çelik gibi oldu, artık hayatta hiçbir şey beni üzemez. Kişisel gelişim kursu gibisiniz.",nötr/ çöp,2026-04-15,True
+900000641,cs2,"Güneşin rengini unuttum sayende, vampir gibi yaşamama sebep olduğun için teşekkürler Steam.",nötr/ çöp,2026-04-23,True
+900000664,dota2,"Sosyal hayatımı ve çevremi bu oyun uğruna feda ettim, karşılığında bir çift sanal eldiven aldım. Çok kârlı bir takas!",nötr/ çöp,2026-04-22,True
+900000194,cs2,Hitboxların yerinde olmaması vuruş hissini bambaşka bir boyuta taşımış. Vuramamak hiç bu kadar keyifli olmamıştı.,bug(hata/hile),2026-04-26,True
+900000785,cs2,Eşimi dostumu kaybettim ama en azından envanterim değerli. Yalnızlık hiç bu kadar pahalı olmamıştı.,nötr/ çöp,2026-03-28,True
+900000355,dota2,"Oyuna daha çok reklam ve sponsorlu içerik ekleyin, maçın ortasında ne güzel olurdu. İnanılmaz bir vizyon.",feature_request(istek),2026-04-07,True
+900000874,pubg,"Hayatımı kararttığın için teşekkürler, sayende gerçek dünyanın ne kadar sıkıcı olduğunu anladım.",nötr/ çöp,2026-04-21,True
+900000052,pubg,Hilecilerin gökyüzünde uçarak beni vurması çok adaletli bir deneyim. Sanırım oyuna süper kahraman modu eklediniz.,bug(hata/hile),2026-04-24,True
+900000879,dota2,Eşimi dostumu kaybettim ama en azından envanterim değerli. Yalnızlık hiç bu kadar pahalı olmamıştı.,nötr/ çöp,2026-03-30,True
+900000392,pubg,"Silahların hasarını biraz daha düşürün, rakipleri öldürmek yerine onlara sarılmak istiyoruz artık.",feature_request(istek),2026-04-07,True
+900000493,dota2,"Yeni içerik yerine daha çok kumar öğesi ekleyin, kasa açmak oyun oynamaktan daha eğlenceli zaten.",feature_request(istek),2026-04-09,True
+900000638,dota2,"Hayatımı kararttığın için teşekkürler, sayende gerçek dünyanın ne kadar sıkıcı olduğunu anladım.",nötr/ çöp,2026-04-24,True
+900000041,pubg,Hitboxların yerinde olmaması vuruş hissini bambaşka bir boyuta taşımış. Vuramamak hiç bu kadar keyifli olmamıştı.,bug(hata/hile),2026-04-17,True
+900000266,cs2,Ping değerinin 500'e fırlayıp beni zamanda yolculuğa çıkarması muazzam. Marvel filmi çekiyoruz sanki.,bug(hata/hile),2026-04-19,True
+900000796,dota2,Her gün söverek girip 6 saat oynamak... Sanırım mazoşist bir ilişki yaşıyoruz bu oyunla.,nötr/ çöp,2026-04-17,True
+900000784,cs2,"Toxic kitle sayesinde sabrım çelik gibi oldu, artık hayatta hiçbir şey beni üzemez. Kişisel gelişim kursu gibisiniz.",nötr/ çöp,2026-04-04,True
+900000400,pubg,"Rank sistemini daha da bozun, gümüş oyuncularla elit oyuncular aynı maça gelsin ki rekabet tavan yapsın.",feature_request(istek),2026-04-18,True
+900000476,dota2,"Rank sistemini daha da bozun, gümüş oyuncularla elit oyuncular aynı maça gelsin ki rekabet tavan yapsın.",feature_request(istek),2026-04-04,True
+900000013,cs2,Oyunun her rekabetçi maçın ortasında çökmesi harika bir mola fırsatı sunuyor. Sağlığımızı düşündüğünüz için sağ olun.,bug(hata/hile),2026-04-26,True
+900000265,cs2,Envanterimdeki eşyaların kendi kendine yok olması sihirbazlık gösterisi gibi. Çok etkileyici bir bug.,bug(hata/hile),2026-04-12,True
+900000315,dota2,"Lütfen biraz daha kasa ve skin ekleyin, oyunun bozuk olması kimin umurunda? Paramızı harcayacak yer arıyoruz.",feature_request(istek),2026-04-20,True
+900000281,pubg,Ping değerinin 500'e fırlayıp beni zamanda yolculuğa çıkarması muazzam. Marvel filmi çekiyoruz sanki.,bug(hata/hile),2026-04-20,True
+900000384,pubg,"Sesli sohbeti tamamen kaldırıp dumanla haberleşmemizi sağlayın, nostalji yaşatmanız çok hoş olurdu.",feature_request(istek),2026-04-19,True
+900000256,pubg,Duvarların içinden geçip haritanın altına düşmek tam da beklediğim heyecandı. Fizik motorunuz bir sanat eseri.,bug(hata/hile),2026-04-25,True
+900000324,pubg,"Hilecilere özel bir VIP odası açın, henüz her maçta 5 tane yoklar, sayıyı artırmanız lazım.",feature_request(istek),2026-04-03,True
+900000655,pubg,Eşimi dostumu kaybettim ama en azından envanterim değerli. Yalnızlık hiç bu kadar pahalı olmamıştı.,nötr/ çöp,2026-04-17,True
+900000429,dota2,"Sunucuları biraz daha yavaşlatın, tepki süresi 3 saniye olunca oyun çok daha stratejik hale geliyor.",feature_request(istek),2026-04-01,True
+900000125,dota2,Seslerin tamamen kaybolup sessiz sinema oynamamız muazzam bir yenilik. Atmosfer müthiş (!),bug(hata/hile),2026-04-05,True
+900000618,cs2,"Toxic kitle sayesinde sabrım çelik gibi oldu, artık hayatta hiçbir şey beni üzemez. Kişisel gelişim kursu gibisiniz.",nötr/ çöp,2026-04-02,True
+900000269,pubg,Envanterimdeki eşyaların kendi kendine yok olması sihirbazlık gösterisi gibi. Çok etkileyici bir bug.,bug(hata/hile),2026-04-06,True
+900000143,cs2,FPS değerinin 100'den 10'a düşmesi slayt gösterisi sevenler için harika bir güncelleme olmuş. Elinize sağlık.,bug(hata/hile),2026-04-22,True
+900000123,cs2,Karakterimin yere gömülüp madenci gibi takılması çok yaratıcı. Simülasyon içinde simülasyon yaşıyoruz.,bug(hata/hile),2026-04-19,True
+900000210,dota2,Envanterimdeki eşyaların kendi kendine yok olması sihirbazlık gösterisi gibi. Çok etkileyici bir bug.,bug(hata/hile),2026-04-17,True
+900000350,dota2,Maç bulma süresini 30 dakikaya çıkarın ki arada bir kitap bitirebilelim. Oyuncuları kültüre yönlendirmeniz harika.,feature_request(istek),2026-03-31,True
+900000133,cs2,"Mermilerin rakipten geçip hasar vermemesi harika bir özellik, sanırım oyun barış ilan etmemi istiyor. Teşekkürler Valve!",bug(hata/hile),2026-04-07,True
+900000110,pubg,Hilecilerin gökyüzünde uçarak beni vurması çok adaletli bir deneyim. Sanırım oyuna süper kahraman modu eklediniz.,bug(hata/hile),2026-04-01,True
+900000225,pubg,Oyunun her rekabetçi maçın ortasında çökmesi harika bir mola fırsatı sunuyor. Sağlığımızı düşündüğünüz için sağ olun.,bug(hata/hile),2026-04-06,True
+900000557,pubg,"Oyuna daha çok reklam ve sponsorlu içerik ekleyin, maçın ortasında ne güzel olurdu. İnanılmaz bir vizyon.",feature_request(istek),2026-04-23,True
+900000424,pubg,"Sunucuları biraz daha yavaşlatın, tepki süresi 3 saniye olunca oyun çok daha stratejik hale geliyor.",feature_request(istek),2026-04-01,True
+900000783,cs2,"Toxic kitle sayesinde sabrım çelik gibi oldu, artık hayatta hiçbir şey beni üzemez. Kişisel gelişim kursu gibisiniz.",nötr/ çöp,2026-04-18,True
+900000313,cs2,"Sunucuları biraz daha yavaşlatın, tepki süresi 3 saniye olunca oyun çok daha stratejik hale geliyor.",feature_request(istek),2026-04-07,True
+900000398,dota2,"Rank sistemini daha da bozun, gümüş oyuncularla elit oyuncular aynı maça gelsin ki rekabet tavan yapsın.",feature_request(istek),2026-04-17,True
+900000297,cs2,Karakterimin yere gömülüp madenci gibi takılması çok yaratıcı. Simülasyon içinde simülasyon yaşıyoruz.,bug(hata/hile),2026-03-31,True
+900000308,dota2,"Sesli sohbeti tamamen kaldırıp dumanla haberleşmemizi sağlayın, nostalji yaşatmanız çok hoş olurdu.",feature_request(istek),2026-03-28,True
+900000186,cs2,FPS değerinin 100'den 10'a düşmesi slayt gösterisi sevenler için harika bir güncelleme olmuş. Elinize sağlık.,bug(hata/hile),2026-04-25,True
+900000855,cs2,"Hayatımı kararttığın için teşekkürler, sayende gerçek dünyanın ne kadar sıkıcı olduğunu anladım.",nötr/ çöp,2026-04-18,True
+900000008,dota2,Oyunun her rekabetçi maçın ortasında çökmesi harika bir mola fırsatı sunuyor. Sağlığımızı düşündüğünüz için sağ olun.,bug(hata/hile),2026-04-05,True
+900000026,dota2,Hitboxların yerinde olmaması vuruş hissini bambaşka bir boyuta taşımış. Vuramamak hiç bu kadar keyifli olmamıştı.,bug(hata/hile),2026-04-18,True
+900000046,cs2,Karakterimin yere gömülüp madenci gibi takılması çok yaratıcı. Simülasyon içinde simülasyon yaşıyoruz.,bug(hata/hile),2026-04-27,True
+900000279,cs2,Hilecilerin gökyüzünde uçarak beni vurması çok adaletli bir deneyim. Sanırım oyuna süper kahraman modu eklediniz.,bug(hata/hile),2026-04-14,True
+900000560,cs2,"Rank sistemini daha da bozun, gümüş oyuncularla elit oyuncular aynı maça gelsin ki rekabet tavan yapsın.",feature_request(istek),2026-03-28,True
+900000056,pubg,Hitboxların yerinde olmaması vuruş hissini bambaşka bir boyuta taşımış. Vuramamak hiç bu kadar keyifli olmamıştı.,bug(hata/hile),2026-04-23,True
+900000264,cs2,Ping değerinin 500'e fırlayıp beni zamanda yolculuğa çıkarması muazzam. Marvel filmi çekiyoruz sanki.,bug(hata/hile),2026-04-22,True
+900000087,pubg,"Mermilerin rakipten geçip hasar vermemesi harika bir özellik, sanırım oyun barış ilan etmemi istiyor. Teşekkürler Valve!",bug(hata/hile),2026-03-29,True
+900000030,cs2,Duvarların içinden geçip haritanın altına düşmek tam da beklediğim heyecandı. Fizik motorunuz bir sanat eseri.,bug(hata/hile),2026-04-20,True
+900000607,cs2,Eşimi dostumu kaybettim ama en azından envanterim değerli. Yalnızlık hiç bu kadar pahalı olmamıştı.,nötr/ çöp,2026-03-31,True
+900000106,pubg,Karakterimin yere gömülüp madenci gibi takılması çok yaratıcı. Simülasyon içinde simülasyon yaşıyoruz.,bug(hata/hile),2026-04-03,True
+900000805,pubg,Eşimi dostumu kaybettim ama en azından envanterim değerli. Yalnızlık hiç bu kadar pahalı olmamıştı.,nötr/ çöp,2026-04-02,True
+900000312,pubg,"Lütfen biraz daha kasa ve skin ekleyin, oyunun bozuk olması kimin umurunda? Paramızı harcayacak yer arıyoruz.",feature_request(istek),2026-04-15,True
+900000793,dota2,"Hayatımı kararttığın için teşekkürler, sayende gerçek dünyanın ne kadar sıkıcı olduğunu anladım.",nötr/ çöp,2026-04-11,True
+900000139,dota2,Envanterimdeki eşyaların kendi kendine yok olması sihirbazlık gösterisi gibi. Çok etkileyici bir bug.,bug(hata/hile),2026-04-10,True
+900000759,pubg,"Sabah 4'te sinir krizi geçirmek için harika bir aktivite. Mouse kırmayı özlemişim, teknolojiye katkımız olsun.",nötr/ çöp,2026-04-04,True
+900000156,cs2,Karakterimin yere gömülüp madenci gibi takılması çok yaratıcı. Simülasyon içinde simülasyon yaşıyoruz.,bug(hata/hile),2026-04-15,True
+900000181,pubg,FPS değerinin 100'den 10'a düşmesi slayt gösterisi sevenler için harika bir güncelleme olmuş. Elinize sağlık.,bug(hata/hile),2026-04-12,True
+900000130,dota2,FPS değerinin 100'den 10'a düşmesi slayt gösterisi sevenler için harika bir güncelleme olmuş. Elinize sağlık.,bug(hata/hile),2026-04-25,True
+900000597,cs2,"Sesli sohbeti tamamen kaldırıp dumanla haberleşmemizi sağlayın, nostalji yaşatmanız çok hoş olurdu.",feature_request(istek),2026-04-16,True
+900000291,dota2,Ping değerinin 500'e fırlayıp beni zamanda yolculuğa çıkarması muazzam. Marvel filmi çekiyoruz sanki.,bug(hata/hile),2026-04-25,True
+900000890,dota2,"Sosyal hayatımı ve çevremi bu oyun uğruna feda ettim, karşılığında bir çift sanal eldiven aldım. Çok kârlı bir takas!",nötr/ çöp,2026-04-16,True
+900000873,cs2,"Derslerimi ve geleceğimi bu oyun için yaktım, en azından bir 'Global' rütbem var. Değdi mi? Tabii ki hayır.",nötr/ çöp,2026-04-07,True
+900000542,dota2,"Hilecilere özel bir VIP odası açın, henüz her maçta 5 tane yoklar, sayıyı artırmanız lazım.",feature_request(istek),2026-04-19,True
+900000301,dota2,"Lütfen biraz daha kasa ve skin ekleyin, oyunun bozuk olması kimin umurunda? Paramızı harcayacak yer arıyoruz.",feature_request(istek),2026-03-29,True
+900000687,pubg,Eşimi dostumu kaybettim ama en azından envanterim değerli. Yalnızlık hiç bu kadar pahalı olmamıştı.,nötr/ çöp,2026-04-27,True
+900000409,pubg,"Sesli sohbeti tamamen kaldırıp dumanla haberleşmemizi sağlayın, nostalji yaşatmanız çok hoş olurdu.",feature_request(istek),2026-04-17,True
+900000694,cs2,Eşimi dostumu kaybettim ama en azından envanterim değerli. Yalnızlık hiç bu kadar pahalı olmamıştı.,nötr/ çöp,2026-04-14,True
+900000364,dota2,"Hilecilere özel bir VIP odası açın, henüz her maçta 5 tane yoklar, sayıyı artırmanız lazım.",feature_request(istek),2026-04-21,True
+900000009,cs2,Seslerin tamamen kaybolup sessiz sinema oynamamız muazzam bir yenilik. Atmosfer müthiş (!),bug(hata/hile),2026-03-28,True
+900000670,pubg,"Sosyal hayatımı ve çevremi bu oyun uğruna feda ettim, karşılığında bir çift sanal eldiven aldım. Çok kârlı bir takas!",nötr/ çöp,2026-04-06,True
+900000095,pubg,Karakterimin yere gömülüp madenci gibi takılması çok yaratıcı. Simülasyon içinde simülasyon yaşıyoruz.,bug(hata/hile),2026-04-08,True
+900000584,cs2,"Hilecilere özel bir VIP odası açın, henüz her maçta 5 tane yoklar, sayıyı artırmanız lazım.",feature_request(istek),2026-04-02,True
+900000714,dota2,"Bilgisayarım kaloriferden daha iyi ısıtıyor sayende, kış aylarında doğalgaz tasarrufu sağlıyorum. Bravo!",nötr/ çöp,2026-04-19,True
+900000260,dota2,FPS değerinin 100'den 10'a düşmesi slayt gösterisi sevenler için harika bir güncelleme olmuş. Elinize sağlık.,bug(hata/hile),2026-04-23,True
+900000861,cs2,5000 saat oynadım ama hala neden oynadığımı bilmiyorum. Bağımlılık yapma şekliniz takdire şayan.,nötr/ çöp,2026-04-24,True
+900000854,cs2,Her gün söverek girip 6 saat oynamak... Sanırım mazoşist bir ilişki yaşıyoruz bu oyunla.,nötr/ çöp,2026-04-10,True
+900000748,dota2,5000 saat oynadım ama hala neden oynadığımı bilmiyorum. Bağımlılık yapma şekliniz takdire şayan.,nötr/ çöp,2026-04-27,True
+900000567,cs2,"Hilecilere özel bir VIP odası açın, henüz her maçta 5 tane yoklar, sayıyı artırmanız lazım.",feature_request(istek),2026-04-13,True
+900000884,pubg,"Sosyal hayatımı ve çevremi bu oyun uğruna feda ettim, karşılığında bir çift sanal eldiven aldım. Çok kârlı bir takas!",nötr/ çöp,2026-04-14,True
+900000588,cs2,"Sesli sohbeti tamamen kaldırıp dumanla haberleşmemizi sağlayın, nostalji yaşatmanız çok hoş olurdu.",feature_request(istek),2026-04-24,True
+900000198,pubg,Hilecilerin gökyüzünde uçarak beni vurması çok adaletli bir deneyim. Sanırım oyuna süper kahraman modu eklediniz.,bug(hata/hile),2026-03-29,True
+900000432,pubg,"Sesli sohbeti tamamen kaldırıp dumanla haberleşmemizi sağlayın, nostalji yaşatmanız çok hoş olurdu.",feature_request(istek),2026-04-18,True
+900000354,dota2,"Lütfen biraz daha kasa ve skin ekleyin, oyunun bozuk olması kimin umurunda? Paramızı harcayacak yer arıyoruz.",feature_request(istek),2026-04-14,True
+900000228,cs2,Seslerin tamamen kaybolup sessiz sinema oynamamız muazzam bir yenilik. Atmosfer müthiş (!),bug(hata/hile),2026-04-13,True
+900000316,cs2,"Sunucuları biraz daha yavaşlatın, tepki süresi 3 saniye olunca oyun çok daha stratejik hale geliyor.",feature_request(istek),2026-03-31,True
+900000129,dota2,Oyunun her rekabetçi maçın ortasında çökmesi harika bir mola fırsatı sunuyor. Sağlığımızı düşündüğünüz için sağ olun.,bug(hata/hile),2026-04-03,True
+900000504,dota2,"Rank sistemini daha da bozun, gümüş oyuncularla elit oyuncular aynı maça gelsin ki rekabet tavan yapsın.",feature_request(istek),2026-04-14,True
+900000438,cs2,"Lütfen biraz daha kasa ve skin ekleyin, oyunun bozuk olması kimin umurunda? Paramızı harcayacak yer arıyoruz.",feature_request(istek),2026-04-25,True
+900000218,cs2,Duvarların içinden geçip haritanın altına düşmek tam da beklediğim heyecandı. Fizik motorunuz bir sanat eseri.,bug(hata/hile),2026-04-04,True
+900000399,cs2,Maç bulma süresini 30 dakikaya çıkarın ki arada bir kitap bitirebilelim. Oyuncuları kültüre yönlendirmeniz harika.,feature_request(istek),2026-03-30,True
+900000479,dota2,"Silahların hasarını biraz daha düşürün, rakipleri öldürmek yerine onlara sarılmak istiyoruz artık.",feature_request(istek),2026-04-15,True
+900000827,cs2,Eşimi dostumu kaybettim ama en azından envanterim değerli. Yalnızlık hiç bu kadar pahalı olmamıştı.,nötr/ çöp,2026-04-17,True
+900000737,pubg,"Sabah 4'te sinir krizi geçirmek için harika bir aktivite. Mouse kırmayı özlemişim, teknolojiye katkımız olsun.",nötr/ çöp,2026-04-26,True
+900000035,cs2,Envanterimdeki eşyaların kendi kendine yok olması sihirbazlık gösterisi gibi. Çok etkileyici bir bug.,bug(hata/hile),2026-04-21,True
+900000296,dota2,Oyunun her rekabetçi maçın ortasında çökmesi harika bir mola fırsatı sunuyor. Sağlığımızı düşündüğünüz için sağ olun.,bug(hata/hile),2026-04-19,True
+900000555,dota2,"Sesli sohbeti tamamen kaldırıp dumanla haberleşmemizi sağlayın, nostalji yaşatmanız çok hoş olurdu.",feature_request(istek),2026-04-23,True
+900000404,cs2,"Yeni içerik yerine daha çok kumar öğesi ekleyin, kasa açmak oyun oynamaktan daha eğlenceli zaten.",feature_request(istek),2026-03-31,True
+900000032,cs2,FPS değerinin 100'den 10'a düşmesi slayt gösterisi sevenler için harika bir güncelleme olmuş. Elinize sağlık.,bug(hata/hile),2026-03-28,True
+900000462,dota2,"Lütfen biraz daha kasa ve skin ekleyin, oyunun bozuk olması kimin umurunda? Paramızı harcayacak yer arıyoruz.",feature_request(istek),2026-04-17,True
+900000467,pubg,"Sunucuları biraz daha yavaşlatın, tepki süresi 3 saniye olunca oyun çok daha stratejik hale geliyor.",feature_request(istek),2026-04-22,True
+900000768,pubg,Her gün söverek girip 6 saat oynamak... Sanırım mazoşist bir ilişki yaşıyoruz bu oyunla.,nötr/ çöp,2026-04-22,True
+900000167,pubg,Oyunun her rekabetçi maçın ortasında çökmesi harika bir mola fırsatı sunuyor. Sağlığımızı düşündüğünüz için sağ olun.,bug(hata/hile),2026-03-31,True
+900000611,dota2,"Derslerimi ve geleceğimi bu oyun için yaktım, en azından bir 'Global' rütbem var. Değdi mi? Tabii ki hayır.",nötr/ çöp,2026-04-10,True
+900000605,pubg,"Güneşin rengini unuttum sayende, vampir gibi yaşamama sebep olduğun için teşekkürler Steam.",nötr/ çöp,2026-04-09,True
+900000452,cs2,Maç bulma süresini 30 dakikaya çıkarın ki arada bir kitap bitirebilelim. Oyuncuları kültüre yönlendirmeniz harika.,feature_request(istek),2026-04-14,True
+900000480,dota2,Maç bulma süresini 30 dakikaya çıkarın ki arada bir kitap bitirebilelim. Oyuncuları kültüre yönlendirmeniz harika.,feature_request(istek),2026-04-08,True
+900000252,pubg,Hilecilerin gökyüzünde uçarak beni vurması çok adaletli bir deneyim. Sanırım oyuna süper kahraman modu eklediniz.,bug(hata/hile),2026-04-06,True
+900000831,pubg,"Derslerimi ve geleceğimi bu oyun için yaktım, en azından bir 'Global' rütbem var. Değdi mi? Tabii ki hayır.",nötr/ çöp,2026-04-11,True
+900000676,pubg,"Toxic kitle sayesinde sabrım çelik gibi oldu, artık hayatta hiçbir şey beni üzemez. Kişisel gelişim kursu gibisiniz.",nötr/ çöp,2026-04-22,True
+900000834,pubg,Eşimi dostumu kaybettim ama en azından envanterim değerli. Yalnızlık hiç bu kadar pahalı olmamıştı.,nötr/ çöp,2026-04-12,True
+900000283,dota2,Hilecilerin gökyüzünde uçarak beni vurması çok adaletli bir deneyim. Sanırım oyuna süper kahraman modu eklediniz.,bug(hata/hile),2026-04-02,True
+900000885,pubg,Her gün söverek girip 6 saat oynamak... Sanırım mazoşist bir ilişki yaşıyoruz bu oyunla.,nötr/ çöp,2026-04-26,True
+900000604,dota2,"Güneşin rengini unuttum sayende, vampir gibi yaşamama sebep olduğun için teşekkürler Steam.",nötr/ çöp,2026-04-01,True
+900000263,dota2,Hilecilerin gökyüzünde uçarak beni vurması çok adaletli bir deneyim. Sanırım oyuna süper kahraman modu eklediniz.,bug(hata/hile),2026-04-01,True
+900000758,cs2,Her gün söverek girip 6 saat oynamak... Sanırım mazoşist bir ilişki yaşıyoruz bu oyunla.,nötr/ çöp,2026-04-25,True
+900000054,pubg,Ping değerinin 500'e fırlayıp beni zamanda yolculuğa çıkarması muazzam. Marvel filmi çekiyoruz sanki.,bug(hata/hile),2026-04-23,True
+900000276,cs2,FPS değerinin 100'den 10'a düşmesi slayt gösterisi sevenler için harika bir güncelleme olmuş. Elinize sağlık.,bug(hata/hile),2026-04-22,True
+900000881,cs2,"Derslerimi ve geleceğimi bu oyun için yaktım, en azından bir 'Global' rütbem var. Değdi mi? Tabii ki hayır.",nötr/ çöp,2026-04-14,True
+900000011,cs2,"Mermilerin rakipten geçip hasar vermemesi harika bir özellik, sanırım oyun barış ilan etmemi istiyor. Teşekkürler Valve!",bug(hata/hile),2026-04-14,True
+900000444,pubg,Maç bulma süresini 30 dakikaya çıkarın ki arada bir kitap bitirebilelim. Oyuncuları kültüre yönlendirmeniz harika.,feature_request(istek),2026-03-29,True
+900000381,pubg,"Market fiyatlarını biraz daha artırın, cüzdanımızdaki para bize fazla geliyor. Sosyal adaleti böyle sağlayın (!)",feature_request(istek),2026-04-20,True
+900000117,cs2,Duvarların içinden geçip haritanın altına düşmek tam da beklediğim heyecandı. Fizik motorunuz bir sanat eseri.,bug(hata/hile),2026-04-27,True
+900000602,dota2,"Derslerimi ve geleceğimi bu oyun için yaktım, en azından bir 'Global' rütbem var. Değdi mi? Tabii ki hayır.",nötr/ çöp,2026-04-03,True
+900000752,pubg,Her gün söverek girip 6 saat oynamak... Sanırım mazoşist bir ilişki yaşıyoruz bu oyunla.,nötr/ çöp,2026-04-06,True
+900000643,dota2,"Bilgisayarım kaloriferden daha iyi ısıtıyor sayende, kış aylarında doğalgaz tasarrufu sağlıyorum. Bravo!",nötr/ çöp,2026-04-25,True
+900000629,cs2,"Güneşin rengini unuttum sayende, vampir gibi yaşamama sebep olduğun için teşekkürler Steam.",nötr/ çöp,2026-04-24,True
+900000625,cs2,"Güneşin rengini unuttum sayende, vampir gibi yaşamama sebep olduğun için teşekkürler Steam.",nötr/ çöp,2026-04-13,True
+900000863,pubg,"Bilgisayarım kaloriferden daha iyi ısıtıyor sayende, kış aylarında doğalgaz tasarrufu sağlıyorum. Bravo!",nötr/ çöp,2026-04-15,True
+900000235,dota2,FPS değerinin 100'den 10'a düşmesi slayt gösterisi sevenler için harika bir güncelleme olmuş. Elinize sağlık.,bug(hata/hile),2026-04-07,True
+900000727,pubg,"Derslerimi ve geleceğimi bu oyun için yaktım, en azından bir 'Global' rütbem var. Değdi mi? Tabii ki hayır.",nötr/ çöp,2026-03-28,True
+900000832,cs2,"Sabah 4'te sinir krizi geçirmek için harika bir aktivite. Mouse kırmayı özlemişim, teknolojiye katkımız olsun.",nötr/ çöp,2026-04-21,True
+900000319,pubg,"Oyuna daha çok reklam ve sponsorlu içerik ekleyin, maçın ortasında ne güzel olurdu. İnanılmaz bir vizyon.",feature_request(istek),2026-04-08,True
+900000731,pubg,"Bilgisayarım kaloriferden daha iyi ısıtıyor sayende, kış aylarında doğalgaz tasarrufu sağlıyorum. Bravo!",nötr/ çöp,2026-04-04,True
+900000121,pubg,Duvarların içinden geçip haritanın altına düşmek tam da beklediğim heyecandı. Fizik motorunuz bir sanat eseri.,bug(hata/hile),2026-03-28,True
+900000528,pubg,"Yeni içerik yerine daha çok kumar öğesi ekleyin, kasa açmak oyun oynamaktan daha eğlenceli zaten.",feature_request(istek),2026-04-09,True
+900000843,cs2,"Güneşin rengini unuttum sayende, vampir gibi yaşamama sebep olduğun için teşekkürler Steam.",nötr/ çöp,2026-04-10,True
+900000540,dota2,"Hilecilere özel bir VIP odası açın, henüz her maçta 5 tane yoklar, sayıyı artırmanız lazım.",feature_request(istek),2026-04-09,True
+900000887,cs2,"Sosyal hayatımı ve çevremi bu oyun uğruna feda ettim, karşılığında bir çift sanal eldiven aldım. Çok kârlı bir takas!",nötr/ çöp,2026-04-07,True
+900000899,pubg,Eşimi dostumu kaybettim ama en azından envanterim değerli. Yalnızlık hiç bu kadar pahalı olmamıştı.,nötr/ çöp,2026-03-31,True
+900000837,dota2,"Bilgisayarım kaloriferden daha iyi ısıtıyor sayende, kış aylarında doğalgaz tasarrufu sağlıyorum. Bravo!",nötr/ çöp,2026-04-19,True
+900000770,pubg,5000 saat oynadım ama hala neden oynadığımı bilmiyorum. Bağımlılık yapma şekliniz takdire şayan.,nötr/ çöp,2026-04-11,True
+900000836,dota2,"Hayatımı kararttığın için teşekkürler, sayende gerçek dünyanın ne kadar sıkıcı olduğunu anladım.",nötr/ çöp,2026-04-14,True
+900000500,dota2,"Yeni içerik yerine daha çok kumar öğesi ekleyin, kasa açmak oyun oynamaktan daha eğlenceli zaten.",feature_request(istek),2026-04-24,True
+900000568,pubg,"Rank sistemini daha da bozun, gümüş oyuncularla elit oyuncular aynı maça gelsin ki rekabet tavan yapsın.",feature_request(istek),2026-04-24,True
+900000678,pubg,Her gün söverek girip 6 saat oynamak... Sanırım mazoşist bir ilişki yaşıyoruz bu oyunla.,nötr/ çöp,2026-04-05,True
+900000526,pubg,"Oyuna daha çok reklam ve sponsorlu içerik ekleyin, maçın ortasında ne güzel olurdu. İnanılmaz bir vizyon.",feature_request(istek),2026-04-27,True
+900000016,cs2,FPS değerinin 100'den 10'a düşmesi slayt gösterisi sevenler için harika bir güncelleme olmuş. Elinize sağlık.,bug(hata/hile),2026-04-24,True
+900000222,dota2,Duvarların içinden geçip haritanın altına düşmek tam da beklediğim heyecandı. Fizik motorunuz bir sanat eseri.,bug(hata/hile),2026-04-05,True
+900000866,pubg,Eşimi dostumu kaybettim ama en azından envanterim değerli. Yalnızlık hiç bu kadar pahalı olmamıştı.,nötr/ çöp,2026-04-04,True
+900000108,pubg,Karakterimin yere gömülüp madenci gibi takılması çok yaratıcı. Simülasyon içinde simülasyon yaşıyoruz.,bug(hata/hile),2026-04-04,True
+900000519,cs2,"Yeni içerik yerine daha çok kumar öğesi ekleyin, kasa açmak oyun oynamaktan daha eğlenceli zaten.",feature_request(istek),2026-04-08,True
+900000175,cs2,Seslerin tamamen kaybolup sessiz sinema oynamamız muazzam bir yenilik. Atmosfer müthiş (!),bug(hata/hile),2026-04-17,True
+900000534,pubg,"Rank sistemini daha da bozun, gümüş oyuncularla elit oyuncular aynı maça gelsin ki rekabet tavan yapsın.",feature_request(istek),2026-04-27,True
+900000853,cs2,"Sosyal hayatımı ve çevremi bu oyun uğruna feda ettim, karşılığında bir çift sanal eldiven aldım. Çok kârlı bir takas!",nötr/ çöp,2026-04-05,True
+900000679,cs2,Eşimi dostumu kaybettim ama en azından envanterim değerli. Yalnızlık hiç bu kadar pahalı olmamıştı.,nötr/ çöp,2026-04-25,True
+900000615,pubg,"Bilgisayarım kaloriferden daha iyi ısıtıyor sayende, kış aylarında doğalgaz tasarrufu sağlıyorum. Bravo!",nötr/ çöp,2026-04-04,True
+900000682,pubg,"Sabah 4'te sinir krizi geçirmek için harika bir aktivite. Mouse kırmayı özlemişim, teknolojiye katkımız olsun.",nötr/ çöp,2026-04-26,True
+900000713,dota2,"Toxic kitle sayesinde sabrım çelik gibi oldu, artık hayatta hiçbir şey beni üzemez. Kişisel gelişim kursu gibisiniz.",nötr/ çöp,2026-04-17,True
+900000458,cs2,"Market fiyatlarını biraz daha artırın, cüzdanımızdaki para bize fazla geliyor. Sosyal adaleti böyle sağlayın (!)",feature_request(istek),2026-04-22,True
+900000040,pubg,Duvarların içinden geçip haritanın altına düşmek tam da beklediğim heyecandı. Fizik motorunuz bir sanat eseri.,bug(hata/hile),2026-04-21,True
+900000725,cs2,Her gün söverek girip 6 saat oynamak... Sanırım mazoşist bir ilişki yaşıyoruz bu oyunla.,nötr/ çöp,2026-04-14,True
+900000742,dota2,Her gün söverek girip 6 saat oynamak... Sanırım mazoşist bir ilişki yaşıyoruz bu oyunla.,nötr/ çöp,2026-03-29,True
+900000147,cs2,Karakterimin yere gömülüp madenci gibi takılması çok yaratıcı. Simülasyon içinde simülasyon yaşıyoruz.,bug(hata/hile),2026-04-20,True
+900000717,pubg,"Sabah 4'te sinir krizi geçirmek için harika bir aktivite. Mouse kırmayı özlemişim, teknolojiye katkımız olsun.",nötr/ çöp,2026-03-28,True
+900000782,dota2,Her gün söverek girip 6 saat oynamak... Sanırım mazoşist bir ilişki yaşıyoruz bu oyunla.,nötr/ çöp,2026-04-17,True
+900000327,dota2,"Lütfen biraz daha kasa ve skin ekleyin, oyunun bozuk olması kimin umurunda? Paramızı harcayacak yer arıyoruz.",feature_request(istek),2026-04-20,True
+900000180,cs2,Envanterimdeki eşyaların kendi kendine yok olması sihirbazlık gösterisi gibi. Çok etkileyici bir bug.,bug(hata/hile),2026-04-12,True
+900000402,dota2,"Yeni içerik yerine daha çok kumar öğesi ekleyin, kasa açmak oyun oynamaktan daha eğlenceli zaten.",feature_request(istek),2026-04-05,True
+900000662,dota2,"Derslerimi ve geleceğimi bu oyun için yaktım, en azından bir 'Global' rütbem var. Değdi mi? Tabii ki hayır.",nötr/ çöp,2026-04-16,True
+900000608,dota2,"Bilgisayarım kaloriferden daha iyi ısıtıyor sayende, kış aylarında doğalgaz tasarrufu sağlıyorum. Bravo!",nötr/ çöp,2026-04-18,True
+900000897,dota2,Eşimi dostumu kaybettim ama en azından envanterim değerli. Yalnızlık hiç bu kadar pahalı olmamıştı.,nötr/ çöp,2026-03-28,True
+900000370,pubg,"Market fiyatlarını biraz daha artırın, cüzdanımızdaki para bize fazla geliyor. Sosyal adaleti böyle sağlayın (!)",feature_request(istek),2026-04-04,True
+900000199,cs2,Envanterimdeki eşyaların kendi kendine yok olması sihirbazlık gösterisi gibi. Çok etkileyici bir bug.,bug(hata/hile),2026-04-27,True
+900000093,pubg,Oyunun her rekabetçi maçın ortasında çökmesi harika bir mola fırsatı sunuyor. Sağlığımızı düşündüğünüz için sağ olun.,bug(hata/hile),2026-04-08,True
+900000102,cs2,Ping değerinin 500'e fırlayıp beni zamanda yolculuğa çıkarması muazzam. Marvel filmi çekiyoruz sanki.,bug(hata/hile),2026-04-15,True
+900000403,dota2,"Sunucuları biraz daha yavaşlatın, tepki süresi 3 saniye olunca oyun çok daha stratejik hale geliyor.",feature_request(istek),2026-04-22,True
+900000767,cs2,Her gün söverek girip 6 saat oynamak... Sanırım mazoşist bir ilişki yaşıyoruz bu oyunla.,nötr/ çöp,2026-04-12,True
+900000173,pubg,Hilecilerin gökyüzünde uçarak beni vurması çok adaletli bir deneyim. Sanırım oyuna süper kahraman modu eklediniz.,bug(hata/hile),2026-04-18,True
+900000580,dota2,"Sesli sohbeti tamamen kaldırıp dumanla haberleşmemizi sağlayın, nostalji yaşatmanız çok hoş olurdu.",feature_request(istek),2026-04-22,True
+900000420,cs2,"Market fiyatlarını biraz daha artırın, cüzdanımızdaki para bize fazla geliyor. Sosyal adaleti böyle sağlayın (!)",feature_request(istek),2026-04-07,True
+900000342,dota2,"Sesli sohbeti tamamen kaldırıp dumanla haberleşmemizi sağlayın, nostalji yaşatmanız çok hoş olurdu.",feature_request(istek),2026-04-25,True
+900000699,cs2,"Hayatımı kararttığın için teşekkürler, sayende gerçek dünyanın ne kadar sıkıcı olduğunu anladım.",nötr/ çöp,2026-04-04,True
+900000730,pubg,Eşimi dostumu kaybettim ama en azından envanterim değerli. Yalnızlık hiç bu kadar pahalı olmamıştı.,nötr/ çöp,2026-03-30,True
+900000118,pubg,Seslerin tamamen kaybolup sessiz sinema oynamamız muazzam bir yenilik. Atmosfer müthiş (!),bug(hata/hile),2026-04-09,True
+900000514,dota2,"Market fiyatlarını biraz daha artırın, cüzdanımızdaki para bize fazla geliyor. Sosyal adaleti böyle sağlayın (!)",feature_request(istek),2026-04-11,True
+900000862,dota2,"Sabah 4'te sinir krizi geçirmek için harika bir aktivite. Mouse kırmayı özlemişim, teknolojiye katkımız olsun.",nötr/ çöp,2026-04-19,True
+900000101,pubg,Envanterimdeki eşyaların kendi kendine yok olması sihirbazlık gösterisi gibi. Çok etkileyici bir bug.,bug(hata/hile),2026-04-14,True
+900000135,pubg,Karakterimin yere gömülüp madenci gibi takılması çok yaratıcı. Simülasyon içinde simülasyon yaşıyoruz.,bug(hata/hile),2026-04-22,True
+900000626,dota2,"Sabah 4'te sinir krizi geçirmek için harika bir aktivite. Mouse kırmayı özlemişim, teknolojiye katkımız olsun.",nötr/ çöp,2026-04-21,True
+900000700,pubg,5000 saat oynadım ama hala neden oynadığımı bilmiyorum. Bağımlılık yapma şekliniz takdire şayan.,nötr/ çöp,2026-04-23,True
+900000628,pubg,"Derslerimi ve geleceğimi bu oyun için yaktım, en azından bir 'Global' rütbem var. Değdi mi? Tabii ki hayır.",nötr/ çöp,2026-04-01,True
+900000094,dota2,Hilecilerin gökyüzünde uçarak beni vurması çok adaletli bir deneyim. Sanırım oyuna süper kahraman modu eklediniz.,bug(hata/hile),2026-04-09,True
+900000314,pubg,"Market fiyatlarını biraz daha artırın, cüzdanımızdaki para bize fazla geliyor. Sosyal adaleti böyle sağlayın (!)",feature_request(istek),2026-03-30,True
+900000786,dota2,"Toxic kitle sayesinde sabrım çelik gibi oldu, artık hayatta hiçbir şey beni üzemez. Kişisel gelişim kursu gibisiniz.",nötr/ çöp,2026-04-19,True
+900000421,pubg,"Lütfen biraz daha kasa ve skin ekleyin, oyunun bozuk olması kimin umurunda? Paramızı harcayacak yer arıyoruz.",feature_request(istek),2026-03-28,True
+900000559,dota2,"Sunucuları biraz daha yavaşlatın, tepki süresi 3 saniye olunca oyun çok daha stratejik hale geliyor.",feature_request(istek),2026-04-05,True
+900000630,pubg,Her gün söverek girip 6 saat oynamak... Sanırım mazoşist bir ilişki yaşıyoruz bu oyunla.,nötr/ çöp,2026-04-17,True
+900000021,cs2,FPS değerinin 100'den 10'a düşmesi slayt gösterisi sevenler için harika bir güncelleme olmuş. Elinize sağlık.,bug(hata/hile),2026-04-20,True
+900000065,pubg,Hilecilerin gökyüzünde uçarak beni vurması çok adaletli bir deneyim. Sanırım oyuna süper kahraman modu eklediniz.,bug(hata/hile),2026-04-11,True
+900000551,cs2,"Sunucuları biraz daha yavaşlatın, tepki süresi 3 saniye olunca oyun çok daha stratejik hale geliyor.",feature_request(istek),2026-04-03,True
+900000012,dota2,Envanterimdeki eşyaların kendi kendine yok olması sihirbazlık gösterisi gibi. Çok etkileyici bir bug.,bug(hata/hile),2026-04-11,True
+900000795,pubg,"Sosyal hayatımı ve çevremi bu oyun uğruna feda ettim, karşılığında bir çift sanal eldiven aldım. Çok kârlı bir takas!",nötr/ çöp,2026-04-05,True
+900000622,cs2,"Sabah 4'te sinir krizi geçirmek için harika bir aktivite. Mouse kırmayı özlemişim, teknolojiye katkımız olsun.",nötr/ çöp,2026-04-21,True
+900000234,pubg,Karakterimin yere gömülüp madenci gibi takılması çok yaratıcı. Simülasyon içinde simülasyon yaşıyoruz.,bug(hata/hile),2026-04-22,True
+900000745,pubg,5000 saat oynadım ama hala neden oynadığımı bilmiyorum. Bağımlılık yapma şekliniz takdire şayan.,nötr/ çöp,2026-03-30,True
+900000707,cs2,"Hayatımı kararttığın için teşekkürler, sayende gerçek dünyanın ne kadar sıkıcı olduğunu anladım.",nötr/ çöp,2026-04-18,True
+900000261,pubg,Karakterimin yere gömülüp madenci gibi takılması çok yaratıcı. Simülasyon içinde simülasyon yaşıyoruz.,bug(hata/hile),2026-04-27,True
+900000815,dota2,"Toxic kitle sayesinde sabrım çelik gibi oldu, artık hayatta hiçbir şey beni üzemez. Kişisel gelişim kursu gibisiniz.",nötr/ çöp,2026-04-23,True
+900000374,dota2,"Sesli sohbeti tamamen kaldırıp dumanla haberleşmemizi sağlayın, nostalji yaşatmanız çok hoş olurdu.",feature_request(istek),2026-04-26,True
+900000231,cs2,"Mermilerin rakipten geçip hasar vermemesi harika bir özellik, sanırım oyun barış ilan etmemi istiyor. Teşekkürler Valve!",bug(hata/hile),2026-04-02,True
+900000488,cs2,"Rank sistemini daha da bozun, gümüş oyuncularla elit oyuncular aynı maça gelsin ki rekabet tavan yapsın.",feature_request(istek),2026-04-27,True
+900000681,dota2,Eşimi dostumu kaybettim ama en azından envanterim değerli. Yalnızlık hiç bu kadar pahalı olmamıştı.,nötr/ çöp,2026-04-12,True
+900000734,pubg,"Sosyal hayatımı ve çevremi bu oyun uğruna feda ettim, karşılığında bir çift sanal eldiven aldım. Çok kârlı bir takas!",nötr/ çöp,2026-03-30,True
+900000451,pubg,"Lütfen biraz daha kasa ve skin ekleyin, oyunun bozuk olması kimin umurunda? Paramızı harcayacak yer arıyoruz.",feature_request(istek),2026-04-03,True
+900000797,cs2,"Güneşin rengini unuttum sayende, vampir gibi yaşamama sebep olduğun için teşekkürler Steam.",nötr/ çöp,2026-04-24,True
+900000162,dota2,Seslerin tamamen kaybolup sessiz sinema oynamamız muazzam bir yenilik. Atmosfer müthiş (!),bug(hata/hile),2026-03-31,True
+900000371,cs2,"Oyuna daha çok reklam ve sponsorlu içerik ekleyin, maçın ortasında ne güzel olurdu. İnanılmaz bir vizyon.",feature_request(istek),2026-04-20,True
+900000460,cs2,"Rank sistemini daha da bozun, gümüş oyuncularla elit oyuncular aynı maça gelsin ki rekabet tavan yapsın.",feature_request(istek),2026-04-06,True
+900000735,dota2,"Sosyal hayatımı ve çevremi bu oyun uğruna feda ettim, karşılığında bir çift sanal eldiven aldım. Çok kârlı bir takas!",nötr/ çöp,2026-04-23,True
+900000635,pubg,Eşimi dostumu kaybettim ama en azından envanterim değerli. Yalnızlık hiç bu kadar pahalı olmamıştı.,nötr/ çöp,2026-04-10,True
+900000763,pubg,"Güneşin rengini unuttum sayende, vampir gibi yaşamama sebep olduğun için teşekkürler Steam.",nötr/ çöp,2026-04-21,True
+900000856,pubg,"Toxic kitle sayesinde sabrım çelik gibi oldu, artık hayatta hiçbir şey beni üzemez. Kişisel gelişim kursu gibisiniz.",nötr/ çöp,2026-04-12,True
+900000813,cs2,"Derslerimi ve geleceğimi bu oyun için yaktım, en azından bir 'Global' rütbem var. Değdi mi? Tabii ki hayır.",nötr/ çöp,2026-04-24,True
+900000470,pubg,"Lütfen biraz daha kasa ve skin ekleyin, oyunun bozuk olması kimin umurunda? Paramızı harcayacak yer arıyoruz.",feature_request(istek),2026-04-27,True
+900000593,cs2,"Sesli sohbeti tamamen kaldırıp dumanla haberleşmemizi sağlayın, nostalji yaşatmanız çok hoş olurdu.",feature_request(istek),2026-04-15,True
+900000216,dota2,Duvarların içinden geçip haritanın altına düşmek tam da beklediğim heyecandı. Fizik motorunuz bir sanat eseri.,bug(hata/hile),2026-04-12,True
+900000142,cs2,Hilecilerin gökyüzünde uçarak beni vurması çok adaletli bir deneyim. Sanırım oyuna süper kahraman modu eklediniz.,bug(hata/hile),2026-03-28,True
+900000289,cs2,Oyunun her rekabetçi maçın ortasında çökmesi harika bir mola fırsatı sunuyor. Sağlığımızı düşündüğünüz için sağ olun.,bug(hata/hile),2026-04-03,True
+900000613,cs2,Her gün söverek girip 6 saat oynamak... Sanırım mazoşist bir ilişki yaşıyoruz bu oyunla.,nötr/ çöp,2026-03-31,True
+900000239,cs2,"Mermilerin rakipten geçip hasar vermemesi harika bir özellik, sanırım oyun barış ilan etmemi istiyor. Teşekkürler Valve!",bug(hata/hile),2026-04-09,True
+900000852,cs2,"Güneşin rengini unuttum sayende, vampir gibi yaşamama sebep olduğun için teşekkürler Steam.",nötr/ çöp,2026-04-22,True
+900000079,cs2,Hilecilerin gökyüzünde uçarak beni vurması çok adaletli bir deneyim. Sanırım oyuna süper kahraman modu eklediniz.,bug(hata/hile),2026-04-22,True
+900000586,pubg,"Sesli sohbeti tamamen kaldırıp dumanla haberleşmemizi sağlayın, nostalji yaşatmanız çok hoş olurdu.",feature_request(istek),2026-04-07,True
+900000765,cs2,"Hayatımı kararttığın için teşekkürler, sayende gerçek dünyanın ne kadar sıkıcı olduğunu anladım.",nötr/ çöp,2026-04-23,True
+900000830,dota2,Her gün söverek girip 6 saat oynamak... Sanırım mazoşist bir ilişki yaşıyoruz bu oyunla.,nötr/ çöp,2026-04-03,True
+900000243,pubg,Hitboxların yerinde olmaması vuruş hissini bambaşka bir boyuta taşımış. Vuramamak hiç bu kadar keyifli olmamıştı.,bug(hata/hile),2026-04-02,True
+900000581,pubg,"Oyuna daha çok reklam ve sponsorlu içerik ekleyin, maçın ortasında ne güzel olurdu. İnanılmaz bir vizyon.",feature_request(istek),2026-04-06,True
+900000242,pubg,Seslerin tamamen kaybolup sessiz sinema oynamamız muazzam bir yenilik. Atmosfer müthiş (!),bug(hata/hile),2026-04-09,True
+900000482,pubg,Maç bulma süresini 30 dakikaya çıkarın ki arada bir kitap bitirebilelim. Oyuncuları kültüre yönlendirmeniz harika.,feature_request(istek),2026-04-12,True
+900000408,cs2,"Lütfen biraz daha kasa ve skin ekleyin, oyunun bozuk olması kimin umurunda? Paramızı harcayacak yer arıyoruz.",feature_request(istek),2026-04-12,True
+900000753,dota2,Eşimi dostumu kaybettim ama en azından envanterim değerli. Yalnızlık hiç bu kadar pahalı olmamıştı.,nötr/ çöp,2026-04-09,True
+900000024,dota2,Hitboxların yerinde olmaması vuruş hissini bambaşka bir boyuta taşımış. Vuramamak hiç bu kadar keyifli olmamıştı.,bug(hata/hile),2026-04-06,True
+900000732,dota2,"Derslerimi ve geleceğimi bu oyun için yaktım, en azından bir 'Global' rütbem var. Değdi mi? Tabii ki hayır.",nötr/ çöp,2026-04-17,True
+900000074,pubg,Envanterimdeki eşyaların kendi kendine yok olması sihirbazlık gösterisi gibi. Çok etkileyici bir bug.,bug(hata/hile),2026-04-12,True
+900000712,cs2,"Bilgisayarım kaloriferden daha iyi ısıtıyor sayende, kış aylarında doğalgaz tasarrufu sağlıyorum. Bravo!",nötr/ çöp,2026-03-28,True
+900000468,dota2,"Hilecilere özel bir VIP odası açın, henüz her maçta 5 tane yoklar, sayıyı artırmanız lazım.",feature_request(istek),2026-03-28,True
+900000193,cs2,Karakterimin yere gömülüp madenci gibi takılması çok yaratıcı. Simülasyon içinde simülasyon yaşıyoruz.,bug(hata/hile),2026-04-22,True
+900000710,cs2,"Güneşin rengini unuttum sayende, vampir gibi yaşamama sebep olduğun için teşekkürler Steam.",nötr/ çöp,2026-03-30,True
+900000888,pubg,"Derslerimi ve geleceğimi bu oyun için yaktım, en azından bir 'Global' rütbem var. Değdi mi? Tabii ki hayır.",nötr/ çöp,2026-04-19,True
+900000527,pubg,Maç bulma süresini 30 dakikaya çıkarın ki arada bir kitap bitirebilelim. Oyuncuları kültüre yönlendirmeniz harika.,feature_request(istek),2026-03-28,True
+900000762,cs2,"Sosyal hayatımı ve çevremi bu oyun uğruna feda ettim, karşılığında bir çift sanal eldiven aldım. Çok kârlı bir takas!",nötr/ çöp,2026-04-03,True
+900000144,cs2,Oyunun her rekabetçi maçın ortasında çökmesi harika bir mola fırsatı sunuyor. Sağlığımızı düşündüğünüz için sağ olun.,bug(hata/hile),2026-04-16,True
+900000202,dota2,Duvarların içinden geçip haritanın altına düşmek tam da beklediğim heyecandı. Fizik motorunuz bir sanat eseri.,bug(hata/hile),2026-04-19,True
+900000642,dota2,"Bilgisayarım kaloriferden daha iyi ısıtıyor sayende, kış aylarında doğalgaz tasarrufu sağlıyorum. Bravo!",nötr/ çöp,2026-04-27,True
+900000667,pubg,"Bilgisayarım kaloriferden daha iyi ısıtıyor sayende, kış aylarında doğalgaz tasarrufu sağlıyorum. Bravo!",nötr/ çöp,2026-04-03,True
+900000591,dota2,"Sunucuları biraz daha yavaşlatın, tepki süresi 3 saniye olunca oyun çok daha stratejik hale geliyor.",feature_request(istek),2026-04-20,True
+900000163,pubg,"Mermilerin rakipten geçip hasar vermemesi harika bir özellik, sanırım oyun barış ilan etmemi istiyor. Teşekkürler Valve!",bug(hata/hile),2026-04-16,True
+900000764,cs2,"Sabah 4'te sinir krizi geçirmek için harika bir aktivite. Mouse kırmayı özlemişim, teknolojiye katkımız olsun.",nötr/ çöp,2026-04-14,True
+900000851,cs2,"Bilgisayarım kaloriferden daha iyi ısıtıyor sayende, kış aylarında doğalgaz tasarrufu sağlıyorum. Bravo!",nötr/ çöp,2026-04-25,True
+900000517,cs2,"Oyuna daha çok reklam ve sponsorlu içerik ekleyin, maçın ortasında ne güzel olurdu. İnanılmaz bir vizyon.",feature_request(istek),2026-04-20,True
+900000508,cs2,"Silahların hasarını biraz daha düşürün, rakipleri öldürmek yerine onlara sarılmak istiyoruz artık.",feature_request(istek),2026-04-02,True
+900000722,cs2,Her gün söverek girip 6 saat oynamak... Sanırım mazoşist bir ilişki yaşıyoruz bu oyunla.,nötr/ çöp,2026-04-01,True
+900000137,pubg,FPS değerinin 100'den 10'a düşmesi slayt gösterisi sevenler için harika bir güncelleme olmuş. Elinize sağlık.,bug(hata/hile),2026-03-28,True
+900000876,cs2,5000 saat oynadım ama hala neden oynadığımı bilmiyorum. Bağımlılık yapma şekliniz takdire şayan.,nötr/ çöp,2026-04-14,True
+900000746,cs2,"Sosyal hayatımı ve çevremi bu oyun uğruna feda ettim, karşılığında bir çift sanal eldiven aldım. Çok kârlı bir takas!",nötr/ çöp,2026-04-19,True
+900000649,cs2,"Derslerimi ve geleceğimi bu oyun için yaktım, en azından bir 'Global' rütbem var. Değdi mi? Tabii ki hayır.",nötr/ çöp,2026-04-11,True
+900000200,dota2,FPS değerinin 100'den 10'a düşmesi slayt gösterisi sevenler için harika bir güncelleme olmuş. Elinize sağlık.,bug(hata/hile),2026-03-30,True
+900000322,cs2,"Hilecilere özel bir VIP odası açın, henüz her maçta 5 tane yoklar, sayıyı artırmanız lazım.",feature_request(istek),2026-04-10,True
+900000027,pubg,Oyunun her rekabetçi maçın ortasında çökmesi harika bir mola fırsatı sunuyor. Sağlığımızı düşündüğünüz için sağ olun.,bug(hata/hile),2026-04-05,True
+900000179,dota2,"Mermilerin rakipten geçip hasar vermemesi harika bir özellik, sanırım oyun barış ilan etmemi istiyor. Teşekkürler Valve!",bug(hata/hile),2026-04-10,True
+900000073,dota2,Hilecilerin gökyüzünde uçarak beni vurması çok adaletli bir deneyim. Sanırım oyuna süper kahraman modu eklediniz.,bug(hata/hile),2026-03-29,True
+900000898,cs2,"Sabah 4'te sinir krizi geçirmek için harika bir aktivite. Mouse kırmayı özlemişim, teknolojiye katkımız olsun.",nötr/ çöp,2026-04-18,True
+900000119,cs2,Karakterimin yere gömülüp madenci gibi takılması çok yaratıcı. Simülasyon içinde simülasyon yaşıyoruz.,bug(hata/hile),2026-04-22,True
+900000456,pubg,"Lütfen biraz daha kasa ve skin ekleyin, oyunun bozuk olması kimin umurunda? Paramızı harcayacak yer arıyoruz.",feature_request(istek),2026-04-10,True
+900000084,dota2,Hilecilerin gökyüzünde uçarak beni vurması çok adaletli bir deneyim. Sanırım oyuna süper kahraman modu eklediniz.,bug(hata/hile),2026-04-13,True
+900000478,cs2,"Oyuna daha çok reklam ve sponsorlu içerik ekleyin, maçın ortasında ne güzel olurdu. İnanılmaz bir vizyon.",feature_request(istek),2026-04-21,True
+900000206,cs2,Hilecilerin gökyüzünde uçarak beni vurması çok adaletli bir deneyim. Sanırım oyuna süper kahraman modu eklediniz.,bug(hata/hile),2026-04-24,True
+900000502,pubg,"Yeni içerik yerine daha çok kumar öğesi ekleyin, kasa açmak oyun oynamaktan daha eğlenceli zaten.",feature_request(istek),2026-04-03,True
+900000124,cs2,FPS değerinin 100'den 10'a düşmesi slayt gösterisi sevenler için harika bir güncelleme olmuş. Elinize sağlık.,bug(hata/hile),2026-04-09,True
+900000246,dota2,Seslerin tamamen kaybolup sessiz sinema oynamamız muazzam bir yenilik. Atmosfer müthiş (!),bug(hata/hile),2026-04-23,True
+900000530,dota2,"Lütfen biraz daha kasa ve skin ekleyin, oyunun bozuk olması kimin umurunda? Paramızı harcayacak yer arıyoruz.",feature_request(istek),2026-04-08,True
+900000849,pubg,"Sabah 4'te sinir krizi geçirmek için harika bir aktivite. Mouse kırmayı özlemişim, teknolojiye katkımız olsun.",nötr/ çöp,2026-04-12,True
+900000048,cs2,FPS değerinin 100'den 10'a düşmesi slayt gösterisi sevenler için harika bir güncelleme olmuş. Elinize sağlık.,bug(hata/hile),2026-03-28,True
+900000226,dota2,Oyunun her rekabetçi maçın ortasında çökmesi harika bir mola fırsatı sunuyor. Sağlığımızı düşündüğünüz için sağ olun.,bug(hata/hile),2026-03-30,True
+900000332,dota2,"Sesli sohbeti tamamen kaldırıp dumanla haberleşmemizi sağlayın, nostalji yaşatmanız çok hoş olurdu.",feature_request(istek),2026-04-22,True
+900000029,pubg,Oyunun her rekabetçi maçın ortasında çökmesi harika bir mola fırsatı sunuyor. Sağlığımızı düşündüğünüz için sağ olun.,bug(hata/hile),2026-04-22,True
+900000161,dota2,Oyunun her rekabetçi maçın ortasında çökmesi harika bir mola fırsatı sunuyor. Sağlığımızı düşündüğünüz için sağ olun.,bug(hata/hile),2026-04-15,True
+900000709,dota2,"Toxic kitle sayesinde sabrım çelik gibi oldu, artık hayatta hiçbir şey beni üzemez. Kişisel gelişim kursu gibisiniz.",nötr/ çöp,2026-04-16,True
+900000412,dota2,"Yeni içerik yerine daha çok kumar öğesi ekleyin, kasa açmak oyun oynamaktan daha eğlenceli zaten.",feature_request(istek),2026-04-02,True
+900000481,dota2,"Hilecilere özel bir VIP odası açın, henüz her maçta 5 tane yoklar, sayıyı artırmanız lazım.",feature_request(istek),2026-04-14,True
+900000321,dota2,"Sesli sohbeti tamamen kaldırıp dumanla haberleşmemizi sağlayın, nostalji yaşatmanız çok hoş olurdu.",feature_request(istek),2026-03-31,True
+900000728,pubg,Eşimi dostumu kaybettim ama en azından envanterim değerli. Yalnızlık hiç bu kadar pahalı olmamıştı.,nötr/ çöp,2026-04-03,True
+900000427,cs2,"Sunucuları biraz daha yavaşlatın, tepki süresi 3 saniye olunca oyun çok daha stratejik hale geliyor.",feature_request(istek),2026-04-25,True
+900000536,dota2,"Oyuna daha çok reklam ve sponsorlu içerik ekleyin, maçın ortasında ne güzel olurdu. İnanılmaz bir vizyon.",feature_request(istek),2026-04-14,True
+900000169,dota2,Envanterimdeki eşyaların kendi kendine yok olması sihirbazlık gösterisi gibi. Çok etkileyici bir bug.,bug(hata/hile),2026-04-07,True
+900000182,pubg,Ping değerinin 500'e fırlayıp beni zamanda yolculuğa çıkarması muazzam. Marvel filmi çekiyoruz sanki.,bug(hata/hile),2026-04-01,True
+900000610,pubg,"Bilgisayarım kaloriferden daha iyi ısıtıyor sayende, kış aylarında doğalgaz tasarrufu sağlıyorum. Bravo!",nötr/ çöp,2026-04-11,True
+900000803,cs2,"Güneşin rengini unuttum sayende, vampir gibi yaşamama sebep olduğun için teşekkürler Steam.",nötr/ çöp,2026-04-19,True
+900000738,cs2,Eşimi dostumu kaybettim ama en azından envanterim değerli. Yalnızlık hiç bu kadar pahalı olmamıştı.,nötr/ çöp,2026-04-26,True
+900000190,pubg,Duvarların içinden geçip haritanın altına düşmek tam da beklediğim heyecandı. Fizik motorunuz bir sanat eseri.,bug(hata/hile),2026-04-23,True
+900000060,dota2,Seslerin tamamen kaybolup sessiz sinema oynamamız muazzam bir yenilik. Atmosfer müthiş (!),bug(hata/hile),2026-04-12,True
+900000426,cs2,"Lütfen biraz daha kasa ve skin ekleyin, oyunun bozuk olması kimin umurunda? Paramızı harcayacak yer arıyoruz.",feature_request(istek),2026-04-11,True
+900000646,pubg,5000 saat oynadım ama hala neden oynadığımı bilmiyorum. Bağımlılık yapma şekliniz takdire şayan.,nötr/ çöp,2026-04-19,True
+900000195,pubg,Oyunun her rekabetçi maçın ortasında çökmesi harika bir mola fırsatı sunuyor. Sağlığımızı düşündüğünüz için sağ olun.,bug(hata/hile),2026-04-24,True
+900000360,dota2,"Rank sistemini daha da bozun, gümüş oyuncularla elit oyuncular aynı maça gelsin ki rekabet tavan yapsın.",feature_request(istek),2026-04-06,True
+900000037,dota2,Envanterimdeki eşyaların kendi kendine yok olması sihirbazlık gösterisi gibi. Çok etkileyici bir bug.,bug(hata/hile),2026-04-27,True
+900000053,dota2,Seslerin tamamen kaybolup sessiz sinema oynamamız muazzam bir yenilik. Atmosfer müthiş (!),bug(hata/hile),2026-04-02,True
+900000744,pubg,5000 saat oynadım ama hala neden oynadığımı bilmiyorum. Bağımlılık yapma şekliniz takdire şayan.,nötr/ çöp,2026-04-23,True
+900000311,cs2,"Market fiyatlarını biraz daha artırın, cüzdanımızdaki para bize fazla geliyor. Sosyal adaleti böyle sağlayın (!)",feature_request(istek),2026-04-14,True
+900000247,cs2,Karakterimin yere gömülüp madenci gibi takılması çok yaratıcı. Simülasyon içinde simülasyon yaşıyoruz.,bug(hata/hile),2026-03-31,True
+900000357,dota2,Maç bulma süresini 30 dakikaya çıkarın ki arada bir kitap bitirebilelim. Oyuncuları kültüre yönlendirmeniz harika.,feature_request(istek),2026-04-10,True
+900000721,pubg,"Hayatımı kararttığın için teşekkürler, sayende gerçek dünyanın ne kadar sıkıcı olduğunu anladım.",nötr/ çöp,2026-04-07,True
+900000050,pubg,Karakterimin yere gömülüp madenci gibi takılması çok yaratıcı. Simülasyon içinde simülasyon yaşıyoruz.,bug(hata/hile),2026-04-03,True
+900000839,pubg,"Derslerimi ve geleceğimi bu oyun için yaktım, en azından bir 'Global' rütbem var. Değdi mi? Tabii ki hayır.",nötr/ çöp,2026-04-25,True
+900000058,pubg,FPS değerinin 100'den 10'a düşmesi slayt gösterisi sevenler için harika bir güncelleme olmuş. Elinize sağlık.,bug(hata/hile),2026-04-11,True
+900000146,cs2,Ping değerinin 500'e fırlayıp beni zamanda yolculuğa çıkarması muazzam. Marvel filmi çekiyoruz sanki.,bug(hata/hile),2026-04-16,True
+900000637,dota2,Eşimi dostumu kaybettim ama en azından envanterim değerli. Yalnızlık hiç bu kadar pahalı olmamıştı.,nötr/ çöp,2026-04-14,True
+900000658,pubg,"Bilgisayarım kaloriferden daha iyi ısıtıyor sayende, kış aylarında doğalgaz tasarrufu sağlıyorum. Bravo!",nötr/ çöp,2026-04-04,True
+900000634,cs2,5000 saat oynadım ama hala neden oynadığımı bilmiyorum. Bağımlılık yapma şekliniz takdire şayan.,nötr/ çöp,2026-04-21,True
+900000840,cs2,"Hayatımı kararttığın için teşekkürler, sayende gerçek dünyanın ne kadar sıkıcı olduğunu anladım.",nötr/ çöp,2026-04-19,True
+900000627,dota2,"Güneşin rengini unuttum sayende, vampir gibi yaşamama sebep olduğun için teşekkürler Steam.",nötr/ çöp,2026-04-06,True
+900000497,cs2,"Lütfen biraz daha kasa ve skin ekleyin, oyunun bozuk olması kimin umurunda? Paramızı harcayacak yer arıyoruz.",feature_request(istek),2026-04-06,True
+900000639,pubg,"Derslerimi ve geleceğimi bu oyun için yaktım, en azından bir 'Global' rütbem var. Değdi mi? Tabii ki hayır.",nötr/ çöp,2026-04-11,True
+900000821,pubg,"Güneşin rengini unuttum sayende, vampir gibi yaşamama sebep olduğun için teşekkürler Steam.",nötr/ çöp,2026-04-13,True
+900000648,cs2,Her gün söverek girip 6 saat oynamak... Sanırım mazoşist bir ilişki yaşıyoruz bu oyunla.,nötr/ çöp,2026-04-06,True
+900000248,pubg,Hilecilerin gökyüzünde uçarak beni vurması çok adaletli bir deneyim. Sanırım oyuna süper kahraman modu eklediniz.,bug(hata/hile),2026-04-03,True
+900000494,dota2,"Rank sistemini daha da bozun, gümüş oyuncularla elit oyuncular aynı maça gelsin ki rekabet tavan yapsın.",feature_request(istek),2026-04-10,True
+900000864,dota2,"Sosyal hayatımı ve çevremi bu oyun uğruna feda ettim, karşılığında bir çift sanal eldiven aldım. Çok kârlı bir takas!",nötr/ çöp,2026-04-18,True
+900000003,pubg,Hitboxların yerinde olmaması vuruş hissini bambaşka bir boyuta taşımış. Vuramamak hiç bu kadar keyifli olmamıştı.,bug(hata/hile),2026-04-15,True
+900000800,dota2,Her gün söverek girip 6 saat oynamak... Sanırım mazoşist bir ilişki yaşıyoruz bu oyunla.,nötr/ çöp,2026-04-07,True
+900000450,pubg,"Hilecilere özel bir VIP odası açın, henüz her maçta 5 tane yoklar, sayıyı artırmanız lazım.",feature_request(istek),2026-04-23,True
+900000715,cs2,Eşimi dostumu kaybettim ama en azından envanterim değerli. Yalnızlık hiç bu kadar pahalı olmamıştı.,nötr/ çöp,2026-04-17,True
+900000529,pubg,"Market fiyatlarını biraz daha artırın, cüzdanımızdaki para bize fazla geliyor. Sosyal adaleti böyle sağlayın (!)",feature_request(istek),2026-04-22,True
+900000543,pubg,"Oyuna daha çok reklam ve sponsorlu içerik ekleyin, maçın ortasında ne güzel olurdu. İnanılmaz bir vizyon.",feature_request(istek),2026-04-08,True
+900000760,cs2,"Sosyal hayatımı ve çevremi bu oyun uğruna feda ettim, karşılığında bir çift sanal eldiven aldım. Çok kârlı bir takas!",nötr/ çöp,2026-04-10,True
+900000134,dota2,Hilecilerin gökyüzünde uçarak beni vurması çok adaletli bir deneyim. Sanırım oyuna süper kahraman modu eklediniz.,bug(hata/hile),2026-04-08,True
+900000292,cs2,Hitboxların yerinde olmaması vuruş hissini bambaşka bir boyuta taşımış. Vuramamak hiç bu kadar keyifli olmamıştı.,bug(hata/hile),2026-04-27,True
+900000473,pubg,"Sunucuları biraz daha yavaşlatın, tepki süresi 3 saniye olunca oyun çok daha stratejik hale geliyor.",feature_request(istek),2026-04-01,True
+900000238,pubg,Duvarların içinden geçip haritanın altına düşmek tam da beklediğim heyecandı. Fizik motorunuz bir sanat eseri.,bug(hata/hile),2026-04-18,True
+900000747,dota2,"Sosyal hayatımı ve çevremi bu oyun uğruna feda ettim, karşılığında bir çift sanal eldiven aldım. Çok kârlı bir takas!",nötr/ çöp,2026-04-04,True
+900000766,pubg,"Güneşin rengini unuttum sayende, vampir gibi yaşamama sebep olduğun için teşekkürler Steam.",nötr/ çöp,2026-03-30,True
+900000388,cs2,"Sunucuları biraz daha yavaşlatın, tepki süresi 3 saniye olunca oyun çok daha stratejik hale geliyor.",feature_request(istek),2026-04-16,True
+900000305,dota2,"Silahların hasarını biraz daha düşürün, rakipleri öldürmek yerine onlara sarılmak istiyoruz artık.",feature_request(istek),2026-04-15,True
+900000532,dota2,"Lütfen biraz daha kasa ve skin ekleyin, oyunun bozuk olması kimin umurunda? Paramızı harcayacak yer arıyoruz.",feature_request(istek),2026-04-04,True
+900000131,cs2,FPS değerinin 100'den 10'a düşmesi slayt gösterisi sevenler için harika bir güncelleme olmuş. Elinize sağlık.,bug(hata/hile),2026-04-16,True
+900000761,dota2,Eşimi dostumu kaybettim ama en azından envanterim değerli. Yalnızlık hiç bu kadar pahalı olmamıştı.,nötr/ çöp,2026-04-05,True
+900000691,cs2,"Hayatımı kararttığın için teşekkürler, sayende gerçek dünyanın ne kadar sıkıcı olduğunu anladım.",nötr/ çöp,2026-04-23,True
+900000781,dota2,"Güneşin rengini unuttum sayende, vampir gibi yaşamama sebep olduğun için teşekkürler Steam.",nötr/ çöp,2026-04-18,True
+900000892,dota2,"Sosyal hayatımı ve çevremi bu oyun uğruna feda ettim, karşılığında bir çift sanal eldiven aldım. Çok kârlı bir takas!",nötr/ çöp,2026-04-17,True
+900000645,pubg,"Hayatımı kararttığın için teşekkürler, sayende gerçek dünyanın ne kadar sıkıcı olduğunu anladım.",nötr/ çöp,2026-04-06,True
+900000295,cs2,Oyunun her rekabetçi maçın ortasında çökmesi harika bir mola fırsatı sunuyor. Sağlığımızı düşündüğünüz için sağ olun.,bug(hata/hile),2026-04-16,True
+900000596,cs2,"Oyuna daha çok reklam ve sponsorlu içerik ekleyin, maçın ortasında ne güzel olurdu. İnanılmaz bir vizyon.",feature_request(istek),2026-04-05,True
+900000356,dota2,"Lütfen biraz daha kasa ve skin ekleyin, oyunun bozuk olması kimin umurunda? Paramızı harcayacak yer arıyoruz.",feature_request(istek),2026-04-10,True
+900000577,pubg,"Silahların hasarını biraz daha düşürün, rakipleri öldürmek yerine onlara sarılmak istiyoruz artık.",feature_request(istek),2026-04-23,True
+900000448,dota2,"Silahların hasarını biraz daha düşürün, rakipleri öldürmek yerine onlara sarılmak istiyoruz artık.",feature_request(istek),2026-04-22,True
+900000686,cs2,"Derslerimi ve geleceğimi bu oyun için yaktım, en azından bir 'Global' rütbem var. Değdi mi? Tabii ki hayır.",nötr/ çöp,2026-03-29,True
+900000573,cs2,"Hilecilere özel bir VIP odası açın, henüz her maçta 5 tane yoklar, sayıyı artırmanız lazım.",feature_request(istek),2026-03-30,True
+900000563,pubg,"Sesli sohbeti tamamen kaldırıp dumanla haberleşmemizi sağlayın, nostalji yaşatmanız çok hoş olurdu.",feature_request(istek),2026-04-09,True
+900000507,dota2,"Market fiyatlarını biraz daha artırın, cüzdanımızdaki para bize fazla geliyor. Sosyal adaleti böyle sağlayın (!)",feature_request(istek),2026-03-30,True
+900000754,dota2,"Hayatımı kararttığın için teşekkürler, sayende gerçek dünyanın ne kadar sıkıcı olduğunu anladım.",nötr/ çöp,2026-04-26,True
+900000062,dota2,Envanterimdeki eşyaların kendi kendine yok olması sihirbazlık gösterisi gibi. Çok etkileyici bir bug.,bug(hata/hile),2026-03-30,True
+900000405,pubg,"Yeni içerik yerine daha çok kumar öğesi ekleyin, kasa açmak oyun oynamaktan daha eğlenceli zaten.",feature_request(istek),2026-04-26,True
+900000038,dota2,Karakterimin yere gömülüp madenci gibi takılması çok yaratıcı. Simülasyon içinde simülasyon yaşıyoruz.,bug(hata/hile),2026-04-06,True
+900000820,pubg,"Toxic kitle sayesinde sabrım çelik gibi oldu, artık hayatta hiçbir şey beni üzemez. Kişisel gelişim kursu gibisiniz.",nötr/ çöp,2026-04-08,True
+900000081,dota2,Oyunun her rekabetçi maçın ortasında çökmesi harika bir mola fırsatı sunuyor. Sağlığımızı düşündüğünüz için sağ olun.,bug(hata/hile),2026-04-20,True
+900000650,pubg,"Derslerimi ve geleceğimi bu oyun için yaktım, en azından bir 'Global' rütbem var. Değdi mi? Tabii ki hayır.",nötr/ çöp,2026-04-08,True
+900000373,pubg,"Sunucuları biraz daha yavaşlatın, tepki süresi 3 saniye olunca oyun çok daha stratejik hale geliyor.",feature_request(istek),2026-04-02,True
+900000701,cs2,Eşimi dostumu kaybettim ama en azından envanterim değerli. Yalnızlık hiç bu kadar pahalı olmamıştı.,nötr/ çöp,2026-04-17,True
+900000442,pubg,"Yeni içerik yerine daha çok kumar öğesi ekleyin, kasa açmak oyun oynamaktan daha eğlenceli zaten.",feature_request(istek),2026-04-24,True
+900000159,dota2,Hilecilerin gökyüzünde uçarak beni vurması çok adaletli bir deneyim. Sanırım oyuna süper kahraman modu eklediniz.,bug(hata/hile),2026-04-14,True
+900000439,pubg,"Silahların hasarını biraz daha düşürün, rakipleri öldürmek yerine onlara sarılmak istiyoruz artık.",feature_request(istek),2026-04-14,True
+900000811,pubg,"Sabah 4'te sinir krizi geçirmek için harika bir aktivite. Mouse kırmayı özlemişim, teknolojiye katkımız olsun.",nötr/ çöp,2026-04-27,True
+900000592,cs2,"Sesli sohbeti tamamen kaldırıp dumanla haberleşmemizi sağlayın, nostalji yaşatmanız çok hoş olurdu.",feature_request(istek),2026-04-09,True
+900000164,cs2,Ping değerinin 500'e fırlayıp beni zamanda yolculuğa çıkarması muazzam. Marvel filmi çekiyoruz sanki.,bug(hata/hile),2026-04-25,True
+900000666,dota2,5000 saat oynadım ama hala neden oynadığımı bilmiyorum. Bağımlılık yapma şekliniz takdire şayan.,nötr/ çöp,2026-04-08,True
+900000461,dota2,"Sunucuları biraz daha yavaşlatın, tepki süresi 3 saniye olunca oyun çok daha stratejik hale geliyor.",feature_request(istek),2026-04-25,True
+900000067,pubg,Hitboxların yerinde olmaması vuruş hissini bambaşka bir boyuta taşımış. Vuramamak hiç bu kadar keyifli olmamıştı.,bug(hata/hile),2026-04-20,True
+900000329,cs2,"Silahların hasarını biraz daha düşürün, rakipleri öldürmek yerine onlara sarılmak istiyoruz artık.",feature_request(istek),2026-04-19,True
+900000824,dota2,"Toxic kitle sayesinde sabrım çelik gibi oldu, artık hayatta hiçbir şey beni üzemez. Kişisel gelişim kursu gibisiniz.",nötr/ çöp,2026-04-06,True
+900000047,cs2,Hilecilerin gökyüzünde uçarak beni vurması çok adaletli bir deneyim. Sanırım oyuna süper kahraman modu eklediniz.,bug(hata/hile),2026-03-31,True
+900000141,pubg,Ping değerinin 500'e fırlayıp beni zamanda yolculuğa çıkarması muazzam. Marvel filmi çekiyoruz sanki.,bug(hata/hile),2026-04-09,True
+900000553,pubg,Maç bulma süresini 30 dakikaya çıkarın ki arada bir kitap bitirebilelim. Oyuncuları kültüre yönlendirmeniz harika.,feature_request(istek),2026-04-08,True
+900000624,dota2,5000 saat oynadım ama hala neden oynadığımı bilmiyorum. Bağımlılık yapma şekliniz takdire şayan.,nötr/ çöp,2026-04-10,True
+900000006,cs2,Hilecilerin gökyüzünde uçarak beni vurması çok adaletli bir deneyim. Sanırım oyuna süper kahraman modu eklediniz.,bug(hata/hile),2026-04-20,True
+900000812,dota2,"Hayatımı kararttığın için teşekkürler, sayende gerçek dünyanın ne kadar sıkıcı olduğunu anladım.",nötr/ çöp,2026-04-23,True
+900000330,cs2,"Oyuna daha çok reklam ve sponsorlu içerik ekleyin, maçın ortasında ne güzel olurdu. İnanılmaz bir vizyon.",feature_request(istek),2026-04-26,True
+900000724,dota2,5000 saat oynadım ama hala neden oynadığımı bilmiyorum. Bağımlılık yapma şekliniz takdire şayan.,nötr/ çöp,2026-04-07,True
+900000704,dota2,5000 saat oynadım ama hala neden oynadığımı bilmiyorum. Bağımlılık yapma şekliniz takdire şayan.,nötr/ çöp,2026-04-22,True
+900000668,dota2,Her gün söverek girip 6 saat oynamak... Sanırım mazoşist bir ilişki yaşıyoruz bu oyunla.,nötr/ çöp,2026-04-05,True
+900000621,cs2,"Toxic kitle sayesinde sabrım çelik gibi oldu, artık hayatta hiçbir şey beni üzemez. Kişisel gelişim kursu gibisiniz.",nötr/ çöp,2026-04-17,True
+900000015,cs2,Hilecilerin gökyüzünde uçarak beni vurması çok adaletli bir deneyim. Sanırım oyuna süper kahraman modu eklediniz.,bug(hata/hile),2026-04-01,True
+900000569,dota2,"Oyuna daha çok reklam ve sponsorlu içerik ekleyin, maçın ortasında ne güzel olurdu. İnanılmaz bir vizyon.",feature_request(istek),2026-04-27,True
+900000548,cs2,"Sunucuları biraz daha yavaşlatın, tepki süresi 3 saniye olunca oyun çok daha stratejik hale geliyor.",feature_request(istek),2026-04-05,True
+900000232,pubg,Hitboxların yerinde olmaması vuruş hissini bambaşka bir boyuta taşımış. Vuramamak hiç bu kadar keyifli olmamıştı.,bug(hata/hile),2026-04-08,True
+900000545,dota2,"Silahların hasarını biraz daha düşürün, rakipleri öldürmek yerine onlara sarılmak istiyoruz artık.",feature_request(istek),2026-04-12,True
+900000277,cs2,Envanterimdeki eşyaların kendi kendine yok olması sihirbazlık gösterisi gibi. Çok etkileyici bir bug.,bug(hata/hile),2026-04-23,True
+900000318,dota2,"Hilecilere özel bir VIP odası açın, henüz her maçta 5 tane yoklar, sayıyı artırmanız lazım.",feature_request(istek),2026-04-07,True
+900000595,cs2,"Market fiyatlarını biraz daha artırın, cüzdanımızdaki para bize fazla geliyor. Sosyal adaleti böyle sağlayın (!)",feature_request(istek),2026-04-08,True
+900000114,dota2,Oyunun her rekabetçi maçın ortasında çökmesi harika bir mola fırsatı sunuyor. Sağlığımızı düşündüğünüz için sağ olun.,bug(hata/hile),2026-04-22,True
+900000034,pubg,"Mermilerin rakipten geçip hasar vermemesi harika bir özellik, sanırım oyun barış ilan etmemi istiyor. Teşekkürler Valve!",bug(hata/hile),2026-04-11,True
+900000273,cs2,Hilecilerin gökyüzünde uçarak beni vurması çok adaletli bir deneyim. Sanırım oyuna süper kahraman modu eklediniz.,bug(hata/hile),2026-04-19,True
+900000537,pubg,"Rank sistemini daha da bozun, gümüş oyuncularla elit oyuncular aynı maça gelsin ki rekabet tavan yapsın.",feature_request(istek),2026-04-24,True
+900000165,pubg,Seslerin tamamen kaybolup sessiz sinema oynamamız muazzam bir yenilik. Atmosfer müthiş (!),bug(hata/hile),2026-04-21,True
+900000845,cs2,Eşimi dostumu kaybettim ama en azından envanterim değerli. Yalnızlık hiç bu kadar pahalı olmamıştı.,nötr/ çöp,2026-04-03,True
+900000352,pubg,"Silahların hasarını biraz daha düşürün, rakipleri öldürmek yerine onlara sarılmak istiyoruz artık.",feature_request(istek),2026-04-05,True
+900000590,cs2,"Rank sistemini daha da bozun, gümüş oyuncularla elit oyuncular aynı maça gelsin ki rekabet tavan yapsın.",feature_request(istek),2026-04-10,True
+900000503,dota2,"Rank sistemini daha da bozun, gümüş oyuncularla elit oyuncular aynı maça gelsin ki rekabet tavan yapsın.",feature_request(istek),2026-04-19,True
+900000416,cs2,"Rank sistemini daha da bozun, gümüş oyuncularla elit oyuncular aynı maça gelsin ki rekabet tavan yapsın.",feature_request(istek),2026-04-06,True
+900000733,cs2,Eşimi dostumu kaybettim ama en azından envanterim değerli. Yalnızlık hiç bu kadar pahalı olmamıştı.,nötr/ çöp,2026-04-26,True
+900000434,cs2,Maç bulma süresini 30 dakikaya çıkarın ki arada bir kitap bitirebilelim. Oyuncuları kültüre yönlendirmeniz harika.,feature_request(istek),2026-03-30,True
+900000005,dota2,Duvarların içinden geçip haritanın altına düşmek tam da beklediğim heyecandı. Fizik motorunuz bir sanat eseri.,bug(hata/hile),2026-04-23,True
+900000259,dota2,Duvarların içinden geçip haritanın altına düşmek tam da beklediğim heyecandı. Fizik motorunuz bir sanat eseri.,bug(hata/hile),2026-04-02,True
+900000189,pubg,FPS değerinin 100'den 10'a düşmesi slayt gösterisi sevenler için harika bir güncelleme olmuş. Elinize sağlık.,bug(hata/hile),2026-04-22,True
+900000806,pubg,"Toxic kitle sayesinde sabrım çelik gibi oldu, artık hayatta hiçbir şey beni üzemez. Kişisel gelişim kursu gibisiniz.",nötr/ çöp,2026-04-11,True
+900000672,pubg,"Hayatımı kararttığın için teşekkürler, sayende gerçek dünyanın ne kadar sıkıcı olduğunu anladım.",nötr/ çöp,2026-04-17,True
+900000085,dota2,Karakterimin yere gömülüp madenci gibi takılması çok yaratıcı. Simülasyon içinde simülasyon yaşıyoruz.,bug(hata/hile),2026-04-27,True
+900000489,dota2,"Sunucuları biraz daha yavaşlatın, tepki süresi 3 saniye olunca oyun çok daha stratejik hale geliyor.",feature_request(istek),2026-04-01,True
+900000823,dota2,"Bilgisayarım kaloriferden daha iyi ısıtıyor sayende, kış aylarında doğalgaz tasarrufu sağlıyorum. Bravo!",nötr/ çöp,2026-04-08,True
+900000103,cs2,Oyunun her rekabetçi maçın ortasında çökmesi harika bir mola fırsatı sunuyor. Sağlığımızı düşündüğünüz için sağ olun.,bug(hata/hile),2026-04-21,True
+900000552,cs2,"Sunucuları biraz daha yavaşlatın, tepki süresi 3 saniye olunca oyun çok daha stratejik hale geliyor.",feature_request(istek),2026-04-26,True
+900000128,cs2,Oyunun her rekabetçi maçın ortasında çökmesi harika bir mola fırsatı sunuyor. Sağlığımızı düşündüğünüz için sağ olun.,bug(hata/hile),2026-04-26,True
+900000518,cs2,"Yeni içerik yerine daha çok kumar öğesi ekleyin, kasa açmak oyun oynamaktan daha eğlenceli zaten.",feature_request(istek),2026-04-07,True
+900000191,dota2,Seslerin tamamen kaybolup sessiz sinema oynamamız muazzam bir yenilik. Atmosfer müthiş (!),bug(hata/hile),2026-04-07,True
+900000799,cs2,Her gün söverek girip 6 saat oynamak... Sanırım mazoşist bir ilişki yaşıyoruz bu oyunla.,nötr/ çöp,2026-04-08,True
+900000254,pubg,Hilecilerin gökyüzünde uçarak beni vurması çok adaletli bir deneyim. Sanırım oyuna süper kahraman modu eklediniz.,bug(hata/hile),2026-04-22,True
+900000705,cs2,"Toxic kitle sayesinde sabrım çelik gibi oldu, artık hayatta hiçbir şey beni üzemez. Kişisel gelişim kursu gibisiniz.",nötr/ çöp,2026-04-10,True
+900000219,cs2,Duvarların içinden geçip haritanın altına düşmek tam da beklediğim heyecandı. Fizik motorunuz bir sanat eseri.,bug(hata/hile),2026-04-20,True
+900000844,cs2,"Sabah 4'te sinir krizi geçirmek için harika bir aktivite. Mouse kırmayı özlemişim, teknolojiye katkımız olsun.",nötr/ çöp,2026-04-07,True
+900000387,pubg,"Oyuna daha çok reklam ve sponsorlu içerik ekleyin, maçın ortasında ne güzel olurdu. İnanılmaz bir vizyon.",feature_request(istek),2026-04-09,True
+900000546,pubg,"Yeni içerik yerine daha çok kumar öğesi ekleyin, kasa açmak oyun oynamaktan daha eğlenceli zaten.",feature_request(istek),2026-04-22,True
+900000673,dota2,"Derslerimi ve geleceğimi bu oyun için yaktım, en azından bir 'Global' rütbem var. Değdi mi? Tabii ki hayır.",nötr/ çöp,2026-04-09,True
+900000086,pubg,Ping değerinin 500'e fırlayıp beni zamanda yolculuğa çıkarması muazzam. Marvel filmi çekiyoruz sanki.,bug(hata/hile),2026-04-09,True
+900000328,cs2,"Sesli sohbeti tamamen kaldırıp dumanla haberleşmemizi sağlayın, nostalji yaşatmanız çok hoş olurdu.",feature_request(istek),2026-04-12,True
+900000562,cs2,"Hilecilere özel bir VIP odası açın, henüz her maçta 5 tane yoklar, sayıyı artırmanız lazım.",feature_request(istek),2026-04-05,True
+900000298,cs2,Seslerin tamamen kaybolup sessiz sinema oynamamız muazzam bir yenilik. Atmosfer müthiş (!),bug(hata/hile),2026-04-06,True
+900000445,cs2,"Hilecilere özel bir VIP odası açın, henüz her maçta 5 tane yoklar, sayıyı artırmanız lazım.",feature_request(istek),2026-04-02,True
+900000653,pubg,"Sabah 4'te sinir krizi geçirmek için harika bir aktivite. Mouse kırmayı özlemişim, teknolojiye katkımız olsun.",nötr/ çöp,2026-03-29,True
+900000896,cs2,"Hayatımı kararttığın için teşekkürler, sayende gerçek dünyanın ne kadar sıkıcı olduğunu anladım.",nötr/ çöp,2026-04-20,True
+900000294,cs2,FPS değerinin 100'den 10'a düşmesi slayt gösterisi sevenler için harika bir güncelleme olmuş. Elinize sağlık.,bug(hata/hile),2026-04-24,True
+900000423,cs2,Maç bulma süresini 30 dakikaya çıkarın ki arada bir kitap bitirebilelim. Oyuncuları kültüre yönlendirmeniz harika.,feature_request(istek),2026-04-04,True
+900000556,dota2,"Sesli sohbeti tamamen kaldırıp dumanla haberleşmemizi sağlayın, nostalji yaşatmanız çok hoş olurdu.",feature_request(istek),2026-04-15,True
+900000059,dota2,FPS değerinin 100'den 10'a düşmesi slayt gösterisi sevenler için harika bir güncelleme olmuş. Elinize sağlık.,bug(hata/hile),2026-04-08,True
+900000188,dota2,"Mermilerin rakipten geçip hasar vermemesi harika bir özellik, sanırım oyun barış ilan etmemi istiyor. Teşekkürler Valve!",bug(hata/hile),2026-04-23,True
+900000895,dota2,Eşimi dostumu kaybettim ama en azından envanterim değerli. Yalnızlık hiç bu kadar pahalı olmamıştı.,nötr/ çöp,2026-04-01,True
+900000469,dota2,"Yeni içerik yerine daha çok kumar öğesi ekleyin, kasa açmak oyun oynamaktan daha eğlenceli zaten.",feature_request(istek),2026-04-04,True
+900000338,cs2,"Lütfen biraz daha kasa ve skin ekleyin, oyunun bozuk olması kimin umurunda? Paramızı harcayacak yer arıyoruz.",feature_request(istek),2026-04-06,True
+900000320,pubg,"Hilecilere özel bir VIP odası açın, henüz her maçta 5 tane yoklar, sayıyı artırmanız lazım.",feature_request(istek),2026-04-17,True
+900000389,dota2,"Oyuna daha çok reklam ve sponsorlu içerik ekleyin, maçın ortasında ne güzel olurdu. İnanılmaz bir vizyon.",feature_request(istek),2026-04-03,True
+900000083,dota2,Duvarların içinden geçip haritanın altına düşmek tam da beklediğim heyecandı. Fizik motorunuz bir sanat eseri.,bug(hata/hile),2026-04-01,True
+900000706,pubg,Eşimi dostumu kaybettim ama en azından envanterim değerli. Yalnızlık hiç bu kadar pahalı olmamıştı.,nötr/ çöp,2026-03-28,True
+900000025,cs2,Envanterimdeki eşyaların kendi kendine yok olması sihirbazlık gösterisi gibi. Çok etkileyici bir bug.,bug(hata/hile),2026-04-21,True
+900000192,dota2,Duvarların içinden geçip haritanın altına düşmek tam da beklediğim heyecandı. Fizik motorunuz bir sanat eseri.,bug(hata/hile),2026-04-20,True
+900000120,cs2,FPS değerinin 100'den 10'a düşmesi slayt gösterisi sevenler için harika bir güncelleme olmuş. Elinize sağlık.,bug(hata/hile),2026-04-10,True
+900000337,dota2,"Market fiyatlarını biraz daha artırın, cüzdanımızdaki para bize fazla geliyor. Sosyal adaleti böyle sağlayın (!)",feature_request(istek),2026-04-11,True
+900000636,pubg,Her gün söverek girip 6 saat oynamak... Sanırım mazoşist bir ilişki yaşıyoruz bu oyunla.,nötr/ çöp,2026-04-23,True
+900000203,pubg,Ping değerinin 500'e fırlayıp beni zamanda yolculuğa çıkarması muazzam. Marvel filmi çekiyoruz sanki.,bug(hata/hile),2026-04-02,True
+900000160,cs2,FPS değerinin 100'den 10'a düşmesi slayt gösterisi sevenler için harika bir güncelleme olmuş. Elinize sağlık.,bug(hata/hile),2026-04-21,True
+900000285,dota2,"Mermilerin rakipten geçip hasar vermemesi harika bir özellik, sanırım oyun barış ilan etmemi istiyor. Teşekkürler Valve!",bug(hata/hile),2026-04-12,True
+900000484,cs2,"Silahların hasarını biraz daha düşürün, rakipleri öldürmek yerine onlara sarılmak istiyoruz artık.",feature_request(istek),2026-04-19,True
+900000684,cs2,"Güneşin rengini unuttum sayende, vampir gibi yaşamama sebep olduğun için teşekkürler Steam.",nötr/ çöp,2026-04-06,True
+900000652,cs2,"Derslerimi ve geleceğimi bu oyun için yaktım, en azından bir 'Global' rütbem var. Değdi mi? Tabii ki hayır.",nötr/ çöp,2026-04-03,True
+900000302,pubg,"Silahların hasarını biraz daha düşürün, rakipleri öldürmek yerine onlara sarılmak istiyoruz artık.",feature_request(istek),2026-04-15,True
+900000828,cs2,"Bilgisayarım kaloriferden daha iyi ısıtıyor sayende, kış aylarında doğalgaz tasarrufu sağlıyorum. Bravo!",nötr/ çöp,2026-04-21,True
+900000729,cs2,"Güneşin rengini unuttum sayende, vampir gibi yaşamama sebep olduğun için teşekkürler Steam.",nötr/ çöp,2026-04-05,True
+900000396,pubg,"Market fiyatlarını biraz daha artırın, cüzdanımızdaki para bize fazla geliyor. Sosyal adaleti böyle sağlayın (!)",feature_request(istek),2026-04-12,True
+900000601,pubg,"Sosyal hayatımı ve çevremi bu oyun uğruna feda ettim, karşılığında bir çift sanal eldiven aldım. Çok kârlı bir takas!",nötr/ çöp,2026-04-10,True
+900000140,pubg,Envanterimdeki eşyaların kendi kendine yok olması sihirbazlık gösterisi gibi. Çok etkileyici bir bug.,bug(hata/hile),2026-04-24,True
+900000366,cs2,"Rank sistemini daha da bozun, gümüş oyuncularla elit oyuncular aynı maça gelsin ki rekabet tavan yapsın.",feature_request(istek),2026-04-18,True
+900000773,pubg,"Sosyal hayatımı ve çevremi bu oyun uğruna feda ettim, karşılığında bir çift sanal eldiven aldım. Çok kârlı bir takas!",nötr/ çöp,2026-03-29,True
+900000720,dota2,5000 saat oynadım ama hala neden oynadığımı bilmiyorum. Bağımlılık yapma şekliniz takdire şayan.,nötr/ çöp,2026-04-17,True
+900000272,cs2,Envanterimdeki eşyaların kendi kendine yok olması sihirbazlık gösterisi gibi. Çok etkileyici bir bug.,bug(hata/hile),2026-04-06,True
+900000293,cs2,Envanterimdeki eşyaların kendi kendine yok olması sihirbazlık gösterisi gibi. Çok etkileyici bir bug.,bug(hata/hile),2026-04-05,True
+900000589,cs2,"Yeni içerik yerine daha çok kumar öğesi ekleyin, kasa açmak oyun oynamaktan daha eğlenceli zaten.",feature_request(istek),2026-04-21,True
+900000788,pubg,"Güneşin rengini unuttum sayende, vampir gibi yaşamama sebep olduğun için teşekkürler Steam.",nötr/ çöp,2026-04-12,True
+900000835,dota2,"Bilgisayarım kaloriferden daha iyi ısıtıyor sayende, kış aylarında doğalgaz tasarrufu sağlıyorum. Bravo!",nötr/ çöp,2026-04-05,True
+900000187,cs2,Hitboxların yerinde olmaması vuruş hissini bambaşka bir boyuta taşımış. Vuramamak hiç bu kadar keyifli olmamıştı.,bug(hata/hile),2026-04-22,True
+900000711,dota2,Eşimi dostumu kaybettim ama en azından envanterim değerli. Yalnızlık hiç bu kadar pahalı olmamıştı.,nötr/ çöp,2026-04-08,True
+900000674,dota2,"Güneşin rengini unuttum sayende, vampir gibi yaşamama sebep olduğun için teşekkürler Steam.",nötr/ çöp,2026-04-08,True
+900000358,cs2,"Sesli sohbeti tamamen kaldırıp dumanla haberleşmemizi sağlayın, nostalji yaşatmanız çok hoş olurdu.",feature_request(istek),2026-04-25,True
+900000284,pubg,Oyunun her rekabetçi maçın ortasında çökmesi harika bir mola fırsatı sunuyor. Sağlığımızı düşündüğünüz için sağ olun.,bug(hata/hile),2026-04-09,True
+900000669,pubg,5000 saat oynadım ama hala neden oynadığımı bilmiyorum. Bağımlılık yapma şekliniz takdire şayan.,nötr/ çöp,2026-03-31,True
+900000326,cs2,Maç bulma süresini 30 dakikaya çıkarın ki arada bir kitap bitirebilelim. Oyuncuları kültüre yönlendirmeniz harika.,feature_request(istek),2026-04-26,True
+900000262,cs2,Envanterimdeki eşyaların kendi kendine yok olması sihirbazlık gösterisi gibi. Çok etkileyici bir bug.,bug(hata/hile),2026-04-16,True
+900000072,dota2,FPS değerinin 100'den 10'a düşmesi slayt gösterisi sevenler için harika bir güncelleme olmuş. Elinize sağlık.,bug(hata/hile),2026-04-20,True
+900000801,pubg,"Sabah 4'te sinir krizi geçirmek için harika bir aktivite. Mouse kırmayı özlemişim, teknolojiye katkımız olsun.",nötr/ çöp,2026-04-05,True
+900000850,dota2,"Bilgisayarım kaloriferden daha iyi ısıtıyor sayende, kış aylarında doğalgaz tasarrufu sağlıyorum. Bravo!",nötr/ çöp,2026-04-05,True
+900000221,pubg,Envanterimdeki eşyaların kendi kendine yok olması sihirbazlık gösterisi gibi. Çok etkileyici bir bug.,bug(hata/hile),2026-04-25,True
+900000061,dota2,Karakterimin yere gömülüp madenci gibi takılması çok yaratıcı. Simülasyon içinde simülasyon yaşıyoruz.,bug(hata/hile),2026-04-10,True
+900000282,pubg,Ping değerinin 500'e fırlayıp beni zamanda yolculuğa çıkarması muazzam. Marvel filmi çekiyoruz sanki.,bug(hata/hile),2026-04-11,True
+900000575,cs2,"Lütfen biraz daha kasa ve skin ekleyin, oyunun bozuk olması kimin umurunda? Paramızı harcayacak yer arıyoruz.",feature_request(istek),2026-04-08,True
+900000757,cs2,"Sosyal hayatımı ve çevremi bu oyun uğruna feda ettim, karşılığında bir çift sanal eldiven aldım. Çok kârlı bir takas!",nötr/ çöp,2026-04-24,True
+900000886,cs2,"Derslerimi ve geleceğimi bu oyun için yaktım, en azından bir 'Global' rütbem var. Değdi mi? Tabii ki hayır.",nötr/ çöp,2026-04-16,True
+900000566,pubg,"Market fiyatlarını biraz daha artırın, cüzdanımızdaki para bize fazla geliyor. Sosyal adaleti böyle sağlayın (!)",feature_request(istek),2026-04-15,True
+900000267,pubg,Hitboxların yerinde olmaması vuruş hissini bambaşka bir boyuta taşımış. Vuramamak hiç bu kadar keyifli olmamıştı.,bug(hata/hile),2026-04-21,True
+900000343,dota2,"Oyuna daha çok reklam ve sponsorlu içerik ekleyin, maçın ortasında ne güzel olurdu. İnanılmaz bir vizyon.",feature_request(istek),2026-04-07,True
+900000197,dota2,Envanterimdeki eşyaların kendi kendine yok olması sihirbazlık gösterisi gibi. Çok etkileyici bir bug.,bug(hata/hile),2026-04-17,True
+900000335,dota2,"Oyuna daha çok reklam ve sponsorlu içerik ekleyin, maçın ortasında ne güzel olurdu. İnanılmaz bir vizyon.",feature_request(istek),2026-04-02,True
+900000496,cs2,"Silahların hasarını biraz daha düşürün, rakipleri öldürmek yerine onlara sarılmak istiyoruz artık.",feature_request(istek),2026-04-20,True
+900000023,pubg,Seslerin tamamen kaybolup sessiz sinema oynamamız muazzam bir yenilik. Atmosfer müthiş (!),bug(hata/hile),2026-04-27,True
+900000474,dota2,Maç bulma süresini 30 dakikaya çıkarın ki arada bir kitap bitirebilelim. Oyuncuları kültüre yönlendirmeniz harika.,feature_request(istek),2026-04-24,True
+900000051,cs2,"Mermilerin rakipten geçip hasar vermemesi harika bir özellik, sanırım oyun barış ilan etmemi istiyor. Teşekkürler Valve!",bug(hata/hile),2026-04-10,True
+900000506,dota2,Maç bulma süresini 30 dakikaya çıkarın ki arada bir kitap bitirebilelim. Oyuncuları kültüre yönlendirmeniz harika.,feature_request(istek),2026-04-25,True
+900000115,dota2,FPS değerinin 100'den 10'a düşmesi slayt gösterisi sevenler için harika bir güncelleme olmuş. Elinize sağlık.,bug(hata/hile),2026-04-13,True
+900000166,cs2,Karakterimin yere gömülüp madenci gibi takılması çok yaratıcı. Simülasyon içinde simülasyon yaşıyoruz.,bug(hata/hile),2026-04-18,True
+900000258,dota2,Ping değerinin 500'e fırlayıp beni zamanda yolculuğa çıkarması muazzam. Marvel filmi çekiyoruz sanki.,bug(hata/hile),2026-04-18,True
+900000211,dota2,Hitboxların yerinde olmaması vuruş hissini bambaşka bir boyuta taşımış. Vuramamak hiç bu kadar keyifli olmamıştı.,bug(hata/hile),2026-04-20,True
+900000348,dota2,"Rank sistemini daha da bozun, gümüş oyuncularla elit oyuncular aynı maça gelsin ki rekabet tavan yapsın.",feature_request(istek),2026-04-11,True
+900000004,cs2,Duvarların içinden geçip haritanın altına düşmek tam da beklediğim heyecandı. Fizik motorunuz bir sanat eseri.,bug(hata/hile),2026-04-12,True
+900000394,pubg,"Oyuna daha çok reklam ve sponsorlu içerik ekleyin, maçın ortasında ne güzel olurdu. İnanılmaz bir vizyon.",feature_request(istek),2026-04-23,True
+900000183,pubg,Hilecilerin gökyüzünde uçarak beni vurması çok adaletli bir deneyim. Sanırım oyuna süper kahraman modu eklediniz.,bug(hata/hile),2026-04-04,True
+900000520,cs2,"Oyuna daha çok reklam ve sponsorlu içerik ekleyin, maçın ortasında ne güzel olurdu. İnanılmaz bir vizyon.",feature_request(istek),2026-04-06,True
+900000455,dota2,"Market fiyatlarını biraz daha artırın, cüzdanımızdaki para bize fazla geliyor. Sosyal adaleti böyle sağlayın (!)",feature_request(istek),2026-03-28,True
+900000223,cs2,Hilecilerin gökyüzünde uçarak beni vurması çok adaletli bir deneyim. Sanırım oyuna süper kahraman modu eklediniz.,bug(hata/hile),2026-04-24,True
+900000372,pubg,"Yeni içerik yerine daha çok kumar öğesi ekleyin, kasa açmak oyun oynamaktan daha eğlenceli zaten.",feature_request(istek),2026-04-18,True
+900000632,cs2,"Hayatımı kararttığın için teşekkürler, sayende gerçek dünyanın ne kadar sıkıcı olduğunu anladım.",nötr/ çöp,2026-04-17,True
+900000241,cs2,"Mermilerin rakipten geçip hasar vermemesi harika bir özellik, sanırım oyun barış ilan etmemi istiyor. Teşekkürler Valve!",bug(hata/hile),2026-04-16,True
+900000127,pubg,FPS değerinin 100'den 10'a düşmesi slayt gösterisi sevenler için harika bir güncelleme olmuş. Elinize sağlık.,bug(hata/hile),2026-04-10,True
+900000791,cs2,"Sosyal hayatımı ve çevremi bu oyun uğruna feda ettim, karşılığında bir çift sanal eldiven aldım. Çok kârlı bir takas!",nötr/ çöp,2026-04-22,True
+900000275,pubg,Hilecilerin gökyüzünde uçarak beni vurması çok adaletli bir deneyim. Sanırım oyuna süper kahraman modu eklediniz.,bug(hata/hile),2026-04-21,True
+900000740,dota2,"Bilgisayarım kaloriferden daha iyi ısıtıyor sayende, kış aylarında doğalgaz tasarrufu sağlıyorum. Bravo!",nötr/ çöp,2026-04-06,True
+900000651,dota2,"Bilgisayarım kaloriferden daha iyi ısıtıyor sayende, kış aylarında doğalgaz tasarrufu sağlıyorum. Bravo!",nötr/ çöp,2026-04-09,True
+900000509,pubg,Maç bulma süresini 30 dakikaya çıkarın ki arada bir kitap bitirebilelim. Oyuncuları kültüre yönlendirmeniz harika.,feature_request(istek),2026-04-18,True
+900000224,cs2,Karakterimin yere gömülüp madenci gibi takılması çok yaratıcı. Simülasyon içinde simülasyon yaşıyoruz.,bug(hata/hile),2026-04-20,True
+900000170,cs2,FPS değerinin 100'den 10'a düşmesi slayt gösterisi sevenler için harika bir güncelleme olmuş. Elinize sağlık.,bug(hata/hile),2026-04-02,True
+900000212,dota2,Hitboxların yerinde olmaması vuruş hissini bambaşka bir boyuta taşımış. Vuramamak hiç bu kadar keyifli olmamıştı.,bug(hata/hile),2026-04-25,True
+900000155,cs2,Envanterimdeki eşyaların kendi kendine yok olması sihirbazlık gösterisi gibi. Çok etkileyici bir bug.,bug(hata/hile),2026-04-20,True
+900000693,cs2,Her gün söverek girip 6 saat oynamak... Sanırım mazoşist bir ilişki yaşıyoruz bu oyunla.,nötr/ çöp,2026-04-21,True
+900000018,pubg,Ping değerinin 500'e fırlayıp beni zamanda yolculuğa çıkarması muazzam. Marvel filmi çekiyoruz sanki.,bug(hata/hile),2026-04-09,True
+900000174,cs2,Envanterimdeki eşyaların kendi kendine yok olması sihirbazlık gösterisi gibi. Çok etkileyici bir bug.,bug(hata/hile),2026-04-17,True
+900000336,pubg,"Sunucuları biraz daha yavaşlatın, tepki süresi 3 saniye olunca oyun çok daha stratejik hale geliyor.",feature_request(istek),2026-04-12,True
+900000028,dota2,Hitboxların yerinde olmaması vuruş hissini bambaşka bir boyuta taşımış. Vuramamak hiç bu kadar keyifli olmamıştı.,bug(hata/hile),2026-04-12,True
+900000368,pubg,"Silahların hasarını biraz daha düşürün, rakipleri öldürmek yerine onlara sarılmak istiyoruz artık.",feature_request(istek),2026-04-15,True
+900000599,pubg,"Oyuna daha çok reklam ve sponsorlu içerik ekleyin, maçın ortasında ne güzel olurdu. İnanılmaz bir vizyon.",feature_request(istek),2026-04-07,True
+900000132,cs2,Duvarların içinden geçip haritanın altına düşmek tam da beklediğim heyecandı. Fizik motorunuz bir sanat eseri.,bug(hata/hile),2026-04-19,True
+900000472,cs2,"Sunucuları biraz daha yavaşlatın, tepki süresi 3 saniye olunca oyun çok daha stratejik hale geliyor.",feature_request(istek),2026-04-11,True
+900000513,dota2,"Lütfen biraz daha kasa ve skin ekleyin, oyunun bozuk olması kimin umurunda? Paramızı harcayacak yer arıyoruz.",feature_request(istek),2026-04-20,True
+900000365,dota2,"Sunucuları biraz daha yavaşlatın, tepki süresi 3 saniye olunca oyun çok daha stratejik hale geliyor.",feature_request(istek),2026-03-31,True
+900000822,pubg,Her gün söverek girip 6 saat oynamak... Sanırım mazoşist bir ilişki yaşıyoruz bu oyunla.,nötr/ çöp,2026-04-01,True
+900000623,pubg,"Bilgisayarım kaloriferden daha iyi ısıtıyor sayende, kış aylarında doğalgaz tasarrufu sağlıyorum. Bravo!",nötr/ çöp,2026-04-13,True
+900000523,cs2,"Rank sistemini daha da bozun, gümüş oyuncularla elit oyuncular aynı maça gelsin ki rekabet tavan yapsın.",feature_request(istek),2026-04-12,True
+900000382,dota2,"Yeni içerik yerine daha çok kumar öğesi ekleyin, kasa açmak oyun oynamaktan daha eğlenceli zaten.",feature_request(istek),2026-04-17,True
+900000838,pubg,Her gün söverek girip 6 saat oynamak... Sanırım mazoşist bir ilişki yaşıyoruz bu oyunla.,nötr/ çöp,2026-04-25,True
+900000609,pubg,5000 saat oynadım ama hala neden oynadığımı bilmiyorum. Bağımlılık yapma şekliniz takdire şayan.,nötr/ çöp,2026-04-12,True
+900000069,dota2,"Mermilerin rakipten geçip hasar vermemesi harika bir özellik, sanırım oyun barış ilan etmemi istiyor. Teşekkürler Valve!",bug(hata/hile),2026-04-20,True
+900000257,cs2,Envanterimdeki eşyaların kendi kendine yok olması sihirbazlık gösterisi gibi. Çok etkileyici bir bug.,bug(hata/hile),2026-04-05,True
+900000367,dota2,"Sunucuları biraz daha yavaşlatın, tepki süresi 3 saniye olunca oyun çok daha stratejik hale geliyor.",feature_request(istek),2026-04-27,True
+900000751,pubg,"Bilgisayarım kaloriferden daha iyi ısıtıyor sayende, kış aylarında doğalgaz tasarrufu sağlıyorum. Bravo!",nötr/ çöp,2026-04-04,True
+900000306,cs2,"Yeni içerik yerine daha çok kumar öğesi ekleyin, kasa açmak oyun oynamaktan daha eğlenceli zaten.",feature_request(istek),2026-04-18,True
+900000515,cs2,Maç bulma süresini 30 dakikaya çıkarın ki arada bir kitap bitirebilelim. Oyuncuları kültüre yönlendirmeniz harika.,feature_request(istek),2026-03-30,True
+900000090,dota2,Oyunun her rekabetçi maçın ortasında çökmesi harika bir mola fırsatı sunuyor. Sağlığımızı düşündüğünüz için sağ olun.,bug(hata/hile),2026-04-01,True
+900000804,dota2,"Hayatımı kararttığın için teşekkürler, sayende gerçek dünyanın ne kadar sıkıcı olduğunu anladım.",nötr/ çöp,2026-04-27,True
+900000576,cs2,"Lütfen biraz daha kasa ve skin ekleyin, oyunun bozuk olması kimin umurunda? Paramızı harcayacak yer arıyoruz.",feature_request(istek),2026-04-25,True
+900000353,pubg,"Hilecilere özel bir VIP odası açın, henüz her maçta 5 tane yoklar, sayıyı artırmanız lazım.",feature_request(istek),2026-04-20,True
+900000703,dota2,"Toxic kitle sayesinde sabrım çelik gibi oldu, artık hayatta hiçbir şey beni üzemez. Kişisel gelişim kursu gibisiniz.",nötr/ çöp,2026-04-19,True
+900000617,cs2,"Hayatımı kararttığın için teşekkürler, sayende gerçek dünyanın ne kadar sıkıcı olduğunu anladım.",nötr/ çöp,2026-04-07,True
+900000307,dota2,Maç bulma süresini 30 dakikaya çıkarın ki arada bir kitap bitirebilelim. Oyuncuları kültüre yönlendirmeniz harika.,feature_request(istek),2026-04-20,True
+900000230,dota2,Ping değerinin 500'e fırlayıp beni zamanda yolculuğa çıkarması muazzam. Marvel filmi çekiyoruz sanki.,bug(hata/hile),2026-04-20,True
+900000138,cs2,Hilecilerin gökyüzünde uçarak beni vurması çok adaletli bir deneyim. Sanırım oyuna süper kahraman modu eklediniz.,bug(hata/hile),2026-04-20,True
