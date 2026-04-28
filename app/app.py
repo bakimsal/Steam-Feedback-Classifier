@@ -25,12 +25,11 @@ with st.sidebar:
         ("SVM", "CatBoost", "BerTURK")
     )
     
-    st.info("Bu demo entegrasyon testi için dummy prediction kullanır. Gerçek modeller entegre edildiğinde bu alan güncellenecektir.")
+    st.info("Bu sistem, Steam yorumlarını analiz etmek için eğitilmiş makine öğrenmesi modellerini kullanır.")
 
 # ==== ANA ALAN ====
 st.title("🎮 Steam Review Classifier")
 st.markdown("Steam kullanıcı yorumlarını otomatik olarak **Bug**, **Feature Request** veya **Neutral** olarak sınıflandıran yapay zeka destekli analiz sistemi.")
-st.caption("⚠️ **Demo modu**: gerçek model henüz bağlı değildir.")
 
 st.markdown("---")
 
@@ -41,37 +40,41 @@ if st.button("🔍 Analiz Et", type="primary", use_container_width=True):
     if text_input.strip() == "":
         st.warning("⚠️ Lütfen analiz etmek için bir yorum girin.")
     else:
-        # Dummy tahmin fonksiyonunu çağır
+        # Gerçek tahmin fonksiyonunu çağır
         result = predict_review(text_input, model_name)
         
-        label = result['label']
-        confidence = result['confidence']
-        model_used = result['model']
-        
-        st.markdown("### Sonuç:")
-        
-        # Etikete göre görselleştirme
-        if label == "Bug":
-            st.error(f"🐞 **{label}**")
-        elif label == "Feature Request":
-            st.info(f"✨ **{label}**")
+        if result.get("error"):
+            st.error(f"❌ **Hata:** {result['error']}")
         else:
-            # Neutral için gri arkaplan ve emojili uyarı simülasyonu
-            st.markdown(
-                f"""
-                <div style="background-color: #f0f2f6; padding: 16px; border-radius: 8px; color: #31333f; margin-bottom: 1rem;">
-                    ⚪ <b>{label}</b>
-                </div>
-                """, 
-                unsafe_allow_html=True
-            )
+            label = result['label']
+            confidence = result['confidence']
+            model_used = result['model']
             
-        # Sonuçları Metric olarak göster
-        col1, col2 = st.columns(2)
-        col1.metric("Güven (Confidence)", f"%{int(confidence * 100)}")
-        col2.metric("Kullanılan Model", model_used)
+            st.markdown("### Sonuç:")
+            
+            # Etikete göre görselleştirme
+            if label == "Bug":
+                st.error(f"🐞 **{label}**")
+            elif label == "Feature Request":
+                st.info(f"✨ **{label}**")
+            else:
+                # Neutral için gri arkaplan ve emojili uyarı simülasyonu
+                st.markdown(
+                    f"""
+                    <div style="background-color: #f0f2f6; padding: 16px; border-radius: 8px; color: #31333f; margin-bottom: 1rem;">
+                        ⚪ <b>{label}</b>
+                    </div>
+                    """, 
+                    unsafe_allow_html=True
+                )
+                
+            # Sonuçları Metric olarak göster
+            col1, col2 = st.columns(2)
+            col1.metric("Güven (Confidence)", f"%{int(confidence * 100)}")
+            col2.metric("Kullanılan Model", model_used)
 
 st.markdown("---")
+
 
 # ==== PLACEHOLDER GRAFİK BÖLÜMÜ ====
 st.subheader("Model Karşılaştırması (Demo)")
