@@ -4,6 +4,13 @@ __pycache__/
 venv/
 env/
 .ipynb_checkpoints/
+.DS_Store
+
+# Eğitim çıktıları ve geçici dosyalar
+berturk_results/
+catboost_info/
+logs/
+scratch/
 
 # Eğitilmiş model dosyaları (büyük binary dosyalar)
 artifacts/*.pkl
