@@ -9,6 +9,18 @@ from pathlib import Path
 import sys
 import os
 
+# Gerekli NLTK paketlerini kontrol et ve indir
+try:
+    nltk.data.find('tokenizers/punkt_tab')
+except LookupError:
+    nltk.download('punkt_tab', quiet=True)
+    nltk.download('punkt', quiet=True)
+
+try:
+    nltk.data.find('corpora/stopwords')
+except LookupError:
+    nltk.download('stopwords', quiet=True)
+
 # Proje kök dizinini ekle
 # C:\\Users\\nurul\\OneDrive\\Desktop\\PYTHON\\Steam-Feedback-Classifier\\src\\nlp\\preprocess.py -> parents[2] is PROJECT_ROOT
 project_root = Path(__file__).resolve().parents[2]
@@ -36,6 +48,24 @@ def clean_text(text):
     text = re.sub(r'\s+', ' ', text).strip()
     
     return text
+
+def full_preprocess(text):
+    """
+    predict.py tarafında kullanılacak, stemming ve stopword içeren tam preprocess.
+    """
+    cleaned = clean_text(text)
+    if not cleaned:
+        return ""
+    
+    try:
+        stop_words = set(stopwords.words('turkish'))
+    except Exception:
+        stop_words = set()
+        
+    stemmer = TurkishStemmer()
+    tokens = word_tokenize(cleaned)
+    stemmed = [stemmer.stem(w) for w in tokens if w not in stop_words]
+    return " ".join(stemmed)
 
 def preprocess_reviews():
     input_path = PROCESSED_DATA_DIR / LABEL_READY_FILENAME

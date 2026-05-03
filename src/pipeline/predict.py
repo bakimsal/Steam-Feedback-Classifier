@@ -9,8 +9,9 @@ project_root = Path(__file__).resolve().parents[2]
 if str(project_root) not in sys.path:
     sys.path.append(str(project_root))
 
-from src.nlp.preprocess import clean_text
+from src.nlp.preprocess import full_preprocess
 from src.utils.config import MODELS_DIR
+from transformers import pipeline
 
 # Modelleri önbellekte tutmak için global değişkenler
 _models = {}
@@ -46,79 +47,116 @@ def load_models():
         except Exception as e:
             error_msgs.append(f"CatBoost hatası: {str(e)}")
             
+    if "BerTURK" not in _models:
+        try:
+            berturk_dir = MODELS_DIR / 'berturk_model'
+            if berturk_dir.exists():
+                _models["BerTURK"] = pipeline(
+                    "text-classification",
+                    model=str(berturk_dir),
+                    tokenizer=str(berturk_dir),
+                    device=-1 # CPU by default or change if needed
+                )
+            else:
+                error_msgs.append("BerTURK modeli bulunamadı.")
+        except Exception as e:
+            error_msgs.append(f"BerTURK hatası: {str(e)}")
+            
     return error_msgs
 
 def predict_review(text: str, model_name: str) -> dict:
     """
     Gerçek modeli kullanarak Steam yorum sınıflandırması yapar.
     """
-    global _models, _vectorizer
-    
-    # Modelleri yükle
-    load_errors = load_models()
-    
-    # İstenen model yüklenememişse hata dön
-    if model_name not in _models or _models[model_name] is None:
-        err_str = " Model yüklenemedi."
-        if load_errors:
-            err_str = " " + " | ".join(load_errors)
-        return {
-            "label": None,
-            "confidence": None,
-            "model": model_name,
-            "error": f"{model_name} modeli kullanılamıyor.{err_str}"
-        }
-        
-    if _vectorizer is None:
-        return {
-            "label": None,
-            "confidence": None,
-            "model": model_name,
-            "error": "Vectorizer yüklenemediğinden işlem yapılamıyor."
-        }
-        
     try:
-        # 1. Metni temizle
-        cleaned = clean_text(text)
-        if not cleaned or len(cleaned.strip()) == 0:
+        global _models, _vectorizer
+        
+        # Modelleri yükle
+        load_errors = load_models()
+        
+        # İstenen model yüklenememişse hata dön
+        if model_name not in _models or _models[model_name] is None:
+            err_str = " Model yüklenemedi."
+            if load_errors:
+                err_str = " " + " | ".join(load_errors)
+            return {
+                "label": None,
+                "confidence": None,
+                "model": model_name,
+                "error": f"{model_name} modeli kullanılamıyor.{err_str}"
+            }
+            
+        if len(text.strip()) == 0:
              return {
                  "label": "Neutral", 
                  "confidence": 0.0, 
                  "model": model_name, 
-                 "error": "Metin çok kısa veya geçersiz (örneğin sadece noktalama)."
+                 "error": "Metin çok kısa veya geçersiz."
              }
              
-        # 2. Vektörize et
-        X = _vectorizer.transform([cleaned])
-        
-        # CatBoost eğitimde dense array kullanıldıysa dense'e çevir
-        if model_name == "CatBoost":
-            X = X.toarray()
-            
-        model = _models[model_name]
-        
-        # 3. Tahmin yap
-        pred = model.predict(X)
-        label = pred[0]
-        
-        if isinstance(label, (list, tuple, np.ndarray)):
-            label = label[0]
-            
-        # 4. Güven skorunu hesapla
+        raw_label = None
         confidence = None
-        if hasattr(model, "predict_proba"):
-            proba = model.predict_proba(X)[0]
-            confidence = float(np.max(proba))
-        elif hasattr(model, "decision_function"):
-            # SVM predict_proba olmadan (kernel=linear, probability=False) eğitilmişse
-            # kaba bir sigmoid güveni üretebiliriz
-            dec = model.decision_function(X)[0]
-            confidence = float(1.0 / (1.0 + np.exp(-np.max(dec))))
+        
+        if model_name == "BerTURK":
+            # BerTURK doğrudan metin kullanır
+            result = _models["BerTURK"](text[:512])[0] # Limit length to 512 roughly
+            raw_label = result['label']
+            confidence = float(result['score'])
         else:
-            confidence = 0.85 # Fallback
+            if _vectorizer is None:
+                return {
+                    "label": None,
+                    "confidence": None,
+                    "model": model_name,
+                    "error": "Vectorizer yüklenemediğinden işlem yapılamıyor."
+                }
+                
+            # 1. Metni temizle (SVM / CatBoost için tam preprocess)
+            cleaned = full_preprocess(text)
+            if not cleaned or len(cleaned.strip()) == 0:
+                 return {
+                     "label": "Neutral", 
+                     "confidence": 0.0, 
+                     "model": model_name, 
+                     "error": "Metin çok kısa veya geçersiz (örneğin sadece noktalama)."
+                 }
+                 
+            # 2. Vektörize et
+            X = _vectorizer.transform([cleaned])
+            
+            # CatBoost eğitimde dense array kullanıldıysa dense'e çevir
+            if model_name == "CatBoost":
+                X = X.toarray()
+                
+            model = _models[model_name]
+            
+            # 3. Tahmin yap
+            pred = model.predict(X)
+            raw_label = pred[0]
+            
+            if isinstance(raw_label, (list, tuple, np.ndarray)):
+                raw_label = raw_label[0]
+                
+            # 4. Güven skorunu hesapla
+            if hasattr(model, "predict_proba"):
+                proba = model.predict_proba(X)[0]
+                confidence = float(np.max(proba))
+            elif hasattr(model, "decision_function"):
+                dec = model.decision_function(X)[0]
+                confidence = float(1.0 / (1.0 + np.exp(-np.max(dec))))
+            else:
+                confidence = 0.85 # Fallback
+                
+        # Ham etiketi arayüzün beklediği formata dönüştür
+        raw_label_str = str(raw_label).lower()
+        clean_label = "Neutral"
+        if "bug" in raw_label_str:
+            clean_label = "Bug"
+        elif "feature" in raw_label_str or "istek" in raw_label_str:
+            clean_label = "Feature Request"
             
         return {
-            "label": str(label),
+            "label": clean_label,
             "confidence": confidence,
             "model": model_name,
             "error": None
