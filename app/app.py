@@ -149,20 +149,9 @@ div.stButton > button:first-child:hover {
 # ==== SIDEBAR ====
 with st.sidebar:
     st.image("https://cdn-icons-png.flaticon.com/512/3204/3204905.png", width=60)
-    st.markdown("### ⚙️ Yapay Zeka Ayarları")
+    st.markdown("### ⚙️ Sistem Bilgisi")
     
-    model_name = st.selectbox(
-        "Aktif Model Motoru:",
-        ("CatBoost", "SVM", "BerTURK"),
-        index=0,
-        help="Sınıflandırma işlemi için arka planda çalışacak makine öğrenmesi motorunu seçin."
-    )
-    
-    st.markdown("---")
-    st.markdown("### 📊 Model Doğrulukları")
-    st.progress(0.948, text="CatBoost (%94.8)")
-    st.progress(0.945, text="BerTURK (%94.5)")
-    st.progress(0.928, text="SVM (%92.8)")
+    st.info("🤖 **Ensemble (Toplu) Analiz:**\nYorumunuz arka planda CatBoost, SVM ve BerTURK motorlarına aynı anda gönderilir. Modellerin hepsi kendi analizini yapar ve sonuçlar anlık olarak karşılaştırılır.")
     
     st.markdown("---")
     st.caption("Steam Feedback Analizi için Geliştirildi.")
@@ -188,88 +177,115 @@ if submit:
         st.warning("⚠️ Lütfen analiz edilecek bir metin girin.")
     else:
         # Loading efekti
-        with st.spinner("Yapay sinir ağları metni işliyor..."):
-            time.sleep(0.5) # Çok kısa bekleme (Animasyon hissi için)
-            result = predict_review(text_input, model_name)
-        
-        if result.get('error'):
-            st.error(f"⚠️ {result['error']}")
-        else:
-            label = result['label']
-            confidence = result['confidence']
-            model_used = result['model']
+        with st.spinner("Tüm yapay sinir ağları metni eşzamanlı olarak işliyor..."):
             
-            # Badge Seçimi
+            results = []
+            models_list = ["CatBoost", "SVM", "BerTURK"]
+            
+            for m in models_list:
+                res = predict_review(text_input, m)
+                results.append({
+                    'Model': m,
+                    'Label': res['label'] if not res.get('error') else "Hata",
+                    'Confidence': (res['confidence'] * 100) if res.get('confidence') is not None else 0.0,
+                    'Error': res.get('error')
+                })
+            
+            res_df = pd.DataFrame(results)
+            
+            st.write("")
+            st.markdown("### 🔍 Model Değerlendirmeleri")
+            col1, col2, col3 = st.columns(3)
+            
+            # Kart 1: CatBoost
+            cat_res = res_df[res_df['Model'] == 'CatBoost'].iloc[0]
+            with col1:
+                st.markdown(f"""
+                <div style="background: rgba(17,34,64,0.4); padding: 1.5rem; border-radius: 12px; border: 1px solid rgba(255, 107, 107, 0.3); text-align: center;">
+                    <h4 style="color: #ff6b6b; margin-bottom: 10px; font-weight: 600;">CatBoost</h4>
+                    <div style="font-size: 1.2rem; font-weight: bold; color: white; margin-bottom: 5px;">{cat_res['Label']}</div>
+                    <div style="color: #a6adc8; font-size: 0.9rem;">Güven Skoru: %{cat_res['Confidence']:.1f}</div>
+                </div>
+                """, unsafe_allow_html=True)
+                
+            # Kart 2: SVM
+            svm_res = res_df[res_df['Model'] == 'SVM'].iloc[0]
+            with col2:
+                st.markdown(f"""
+                <div style="background: rgba(17,34,64,0.4); padding: 1.5rem; border-radius: 12px; border: 1px solid rgba(0, 201, 255, 0.3); text-align: center;">
+                    <h4 style="color: #00C9FF; margin-bottom: 10px; font-weight: 600;">SVM</h4>
+                    <div style="font-size: 1.2rem; font-weight: bold; color: white; margin-bottom: 5px;">{svm_res['Label']}</div>
+                    <div style="color: #a6adc8; font-size: 0.9rem;">Güven Skoru: %{svm_res['Confidence']:.1f}</div>
+                </div>
+                """, unsafe_allow_html=True)
+                
+            # Kart 3: BerTURK
+            ber_res = res_df[res_df['Model'] == 'BerTURK'].iloc[0]
+            with col3:
+                st.markdown(f"""
+                <div style="background: rgba(17,34,64,0.4); padding: 1.5rem; border-radius: 12px; border: 1px solid rgba(146, 254, 157, 0.3); text-align: center;">
+                    <h4 style="color: #92FE9D; margin-bottom: 10px; font-weight: 600;">BerTURK</h4>
+                    <div style="font-size: 1.2rem; font-weight: bold; color: white; margin-bottom: 5px;">{ber_res['Label']}</div>
+                    <div style="color: #a6adc8; font-size: 0.9rem;">Güven Skoru: %{ber_res['Confidence']:.1f}</div>
+                </div>
+                """, unsafe_allow_html=True)
+                
+            st.write("")
+            st.markdown("### 📊 Kararlılık Grafiği")
+            
+            # Grafik (Dikey Sütun Grafiği)
+            fig = px.bar(
+                res_df, 
+                x='Model', 
+                y='Confidence',
+                color='Model',
+                text=res_df['Confidence'].apply(lambda x: f"%{x:.1f}"),
+                color_discrete_map={
+                    'SVM': 'rgba(0, 201, 255, 0.8)',
+                    'BerTURK': 'rgba(146, 254, 157, 0.8)',
+                    'CatBoost': 'rgba(255, 107, 107, 0.8)'
+                }
+            )
+            
+            fig.update_traces(
+                textposition='outside', 
+                textfont=dict(color='#cdd6f4', size=14, family="Outfit"),
+                marker_line_width=0,
+                width=0.5
+            )
+            
+            fig.update_layout(
+                showlegend=False, 
+                margin=dict(t=30, l=0, r=0, b=0), 
+                height=300,
+                yaxis=dict(range=[0, 115], title="Güven Skoru (%)", gridcolor="rgba(255,255,255,0.05)", zeroline=False),
+                xaxis=dict(title="", tickfont=dict(size=14, weight="bold")),
+                paper_bgcolor="rgba(0,0,0,0)",
+                plot_bgcolor="rgba(0,0,0,0)",
+                font=dict(family="Outfit", color="#cdd6f4")
+            )
+            st.plotly_chart(fig, use_container_width=True)
+            
+            st.write("")
+            
+            # En yüksek güven skorunu bul ve Ortak Kararı En Alta Koy
+            best_model_idx = res_df['Confidence'].idxmax()
+            best_model_row = res_df.loc[best_model_idx]
+            
+            final_label = best_model_row['Label']
+            best_model_name = best_model_row['Model']
+            
             badge_html = ""
-            if label == "Bug":
+            if final_label == "Bug":
                 badge_html = f'<div class="badge-Bug">🐞 Hata Bildirimi (Bug)</div>'
-            elif label == "Feature Request":
+            elif final_label == "Feature Request":
                 badge_html = f'<div class="badge-Feature-Request">✨ Özellik İsteği</div>'
             else:
                 badge_html = f'<div class="badge-Neutral">💬 Nötr / Genel Yorum</div>'
-            
-            # Animasyonlu Sonuç Alanı
+                
             st.markdown(f"""
-            <div class="result-container">
-                <h4 style="color: #a6adc8; margin-bottom: 1.5rem; font-weight: 300; letter-spacing: 2px; text-transform: uppercase; font-size: 0.9rem;">Analiz Sonucu</h4>
+            <div class="result-container" style="margin-top: 1rem;">
+                <h4 style="color: #a6adc8; margin-bottom: 1.5rem; font-weight: 300; letter-spacing: 2px; text-transform: uppercase; font-size: 0.9rem;">Ortak Karar (En Güçlü Tahmin: {best_model_name})</h4>
                 {badge_html}
             </div>
             """, unsafe_allow_html=True)
-            
-            st.write("")
-            st.write("")
-            
-            # Alt Metrikler
-            col1, col2, col3 = st.columns(3)
-            conf_percent = f"%{confidence * 100:.1f}" if confidence is not None else "N/A"
-            
-            with col1:
-                st.metric(label="Güven Skoru", value=conf_percent, delta="Yüksek Kararlılık" if confidence and confidence > 0.8 else None)
-            with col2:
-                st.metric(label="Kullanılan Motor", value=model_used)
-            with col3:
-                st.metric(label="Kelime Sayısı", value=f"{len(text_input.split())}")
-
-st.markdown("---")
-
-# ==== CHART SECTION ====
-st.markdown("### 📈 Motor Başarı Karşılaştırması")
-
-performance_df = pd.DataFrame({
-    'Model': ['SVM', 'BerTURK', 'CatBoost'],
-    'Accuracy': [92.86, 94.50, 94.87]
-})
-
-fig = px.bar(
-    performance_df, 
-    x='Accuracy', 
-    y='Model',
-    orientation='h',
-    text='Accuracy',
-    color='Model',
-    color_discrete_map={
-        'SVM': 'rgba(0, 201, 255, 0.7)',
-        'BerTURK': 'rgba(146, 254, 157, 0.7)',
-        'CatBoost': 'rgba(255, 107, 107, 0.7)'
-    }
-)
-
-fig.update_traces(
-    texttemplate='<b>%{text}%</b>', 
-    textposition='inside', 
-    insidetextfont=dict(color='white', size=14),
-    marker_line_width=0
-)
-
-fig.update_layout(
-    showlegend=False, 
-    margin=dict(t=10, l=0, r=0, b=0), 
-    height=220,
-    xaxis=dict(range=[85, 100], title="", gridcolor="rgba(255,255,255,0.05)", zeroline=False),
-    yaxis=dict(title="", tickfont=dict(size=14, weight="bold")),
-    paper_bgcolor="rgba(0,0,0,0)",
-    plot_bgcolor="rgba(0,0,0,0)",
-    font=dict(family="Outfit", color="#cdd6f4")
-)
-
-st.plotly_chart(fig, use_container_width=True)
